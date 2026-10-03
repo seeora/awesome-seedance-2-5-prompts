@@ -5,7 +5,7 @@ A curated collection of Seedance 2.5 videos from creators, with original sources
 
 **[Browse the visual gallery](<https://seeora.app/seedance-prompts>)**
 
-The collection currently contains **8 verified examples**, with sources reviewed through **2026-09-28**.
+The collection currently contains **16 verified examples**, with sources reviewed through **2026-10-03**.
 
 <a id="race-for-agi-desert-chase"></a>
 
@@ -635,6 +635,194 @@ Replace the rider and vehicle design while retaining the nine-shot progression f
 **Shared by:** [Sᴀɪʀᴀ](<https://x.com/itsSaira_1>)
 
 [Original post on X](<https://x.com/itsSaira_1/status/2104064261005709551>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#transforming-sci-fi-highway-hunt>)
+
+<a id="candy-sci-fi-short-film"></a>
+
+## CANDY: A World Without Violence
+
+[![CANDY: A World Without Violence — Seedance 2.5 video preview](<https://pbs.twimg.com/amplify_video_thumb/2098066736566460416/img/ZHCQfYvlb0ThFRel.jpg>)](<https://x.com/BytePlusGlobal/status/2098067057887850569>)
+
+A sci-fi story by DiDi_OK explores life without violence, showcased by BytePlus as a Dreamina Seedance 2.5 production.
+
+**Model:** Seedance 2.5
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Build an original world around one clear speculative rule, then plan character and environment references across the story.
+
+**Shared by:** [BytePlus](<https://x.com/BytePlusGlobal>)
+
+[Original post on X](<https://x.com/BytePlusGlobal/status/2098067057887850569>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#candy-sci-fi-short-film>)
+
+<a id="on-cue-victorian-circus"></a>
+
+## ON CUE: A Victorian Circus Long Take
+
+[![ON CUE: A Victorian Circus Long Take — Seedance 2.5 video preview](<https://pbs.twimg.com/amplify_video_thumb/2084291095157243904/img/FxXgIALGBrd4G1wv.jpg>)](<https://x.com/BytePlusGlobal/status/2084291920231277003>)
+
+BytePlus showcases a Victorian circus sequence with a magician, ensemble performers, and carefully choreographed stage action.
+
+**Model:** Seedance 2.5
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Plan a connected stage, performer entrances, and escalating action beats before testing continuous camera movement.
+
+**Shared by:** [BytePlus](<https://x.com/BytePlusGlobal>)
+
+[Original post on X](<https://x.com/BytePlusGlobal/status/2084291920231277003>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#on-cue-victorian-circus>)
+
+<a id="sherpa-animated-koala-story"></a>
+
+## An Animated Koala Story With a Sherpa Script
+
+[![An Animated Koala Story With a Sherpa Script — Seedance 2.5 video preview](<https://pbs.twimg.com/amplify_video_thumb/2103881266575917056/img/SDl4op-mEZU8Ozp3.jpg>)](<https://x.com/AngryTomtweets/status/2103881339946824094>)
+
+An animated short pairs a koala-led visual story with a script credited to Sherpa by Pocket FM and video credited to Seedance 2.5.
+
+**Model:** Seedance 2.5
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Develop an original animal character sheet and break a short script into connected scenes with consistent lighting and environments.
+
+**Shared by:** [Angry Tom](<https://x.com/AngryTomtweets>)
+
+[Original post on X](<https://x.com/AngryTomtweets/status/2103881339946824094>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#sherpa-animated-koala-story>)
+
+<a id="mars-3026-script-to-video"></a>
+
+## Mars 3026: A Future Home for Humanity
+
+[![Mars 3026: A Future Home for Humanity — Seedance 2.5 video preview](<https://pbs.twimg.com/amplify_video_thumb/2104264392045113344/img/Hb4ClhiorW8neyPL.jpg>)](<https://x.com/Eva_ai_24/status/2104268466911842486>)
+
+A script-to-video project imagines Martian cities, AI companions, and forests under glass using Seedance 2.5 on Flova.
+
+**Model:** Seedance 2.5
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Start with a concise future-world script, then use shared architecture, landscape, and character references to connect the scenes.
+
+**Shared by:** [Eva\_ Ai](<https://x.com/Eva_ai_24>)
+
+[Original post on X](<https://x.com/Eva_ai_24/status/2104268466911842486>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#mars-3026-script-to-video>)
+
+<a id="dragon-quest-v-live-action-scene"></a>
+
+## Dragon Quest V Reimagined as Live Action
+
+[![Dragon Quest V Reimagined as Live Action — Seedance 2.5 video preview](<https://pbs.twimg.com/amplify_video_thumb/2104045579613724672/img/8soFlZ1kXQDA9erz.jpg>)](<https://x.com/SSSS_CRYPTOMAN/status/2104047269385588889>)
+
+A creator reimagines a memorable Dragon Quest V scene in live action, crediting Seedance 2.5 through CapCut.
+
+**Model:** Seedance 2.5
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Use original characters and a dialogue-driven choice scene, with a reference sheet for each person and a stable set.
+
+**Shared by:** [SSSS.CRYPTOMAN⚡️AI](<https://x.com/SSSS_CRYPTOMAN>)
+
+[Original post on X](<https://x.com/SSSS_CRYPTOMAN/status/2104047269385588889>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#dragon-quest-v-live-action-scene>)
+
+<a id="green-lantern-alien-invasion"></a>
+
+## A Green Lantern Alien-Invasion Fan Scene
+
+[![A Green Lantern Alien-Invasion Fan Scene — Seedance 2.5 video preview](<https://pbs.twimg.com/amplify_video_thumb/2104282006246801408/img/G5t57UwNk4pqCMZB.jpg>)](<https://x.com/NerdSoul_ai/status/2104282526793801917>)
+
+A cinematic fan scene imagines Peter Jordan as Green Lantern confronting an alien invasion, with Seedance 2.5 credited by the creator.
+
+**Model:** Seedance 2.5
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Design an original hero and establish a readable threat, grounded reactions, and a consistent visual language for the hero's powers.
+
+**Shared by:** [Nerd Soul](<https://x.com/NerdSoul_ai>)
+
+[Original post on X](<https://x.com/NerdSoul_ai/status/2104282526793801917>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#green-lantern-alien-invasion>)
+
+<a id="neon-city-continuous-motion"></a>
+
+## Thirty Seconds of Neon-City Motion
+
+[![Thirty Seconds of Neon-City Motion — Seedance 2.5 video preview](<https://pbs.twimg.com/amplify_video_thumb/2105135453120921600/img/TDM58ITgNvV_PN8t.jpg>)](<https://x.com/Gemalpha_88/status/2105135538340876508>)
+
+A stylized urban action clip emphasizes constant forward movement in a neon-lit city, made with Seedance 2.5 on DomoAI.
+
+**Model:** Seedance 2.5
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Map a clear route through an original city and keep character identity, motion direction, and lighting consistent through the action.
+
+**Shared by:** [Gem Alpha](<https://x.com/Gemalpha_88>)
+
+[Original post on X](<https://x.com/Gemalpha_88/status/2105135538340876508>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#neon-city-continuous-motion>)
+
+<a id="puppies-backyard-birthday"></a>
+
+## A Backyard Birthday Party for Puppies
+
+[![A Backyard Birthday Party for Puppies — Seedance 2.5 video preview](<https://pbs.twimg.com/amplify_video_thumb/2106368897658310656/img/dU8vIU1mgL3zlr5H.jpg>)](<https://x.com/Strength04_X/status/2106369245886226743>)
+
+A published 15-second prompt stages a golden retriever, a boy, and two puppies in a continuous backyard birthday story.
+
+**Model:** Seedance 2.5
+
+### Video prompt · `en`
+
+```text
+Create a 15-second photorealistic, heartwarming animal story in one continuous shot. Use a close-focusing 18mm wide-angle perspective with a fast, low, animal-height camera that smoothly rises into intimate human reactions without cutting. Maintain realistic animal movement, natural fur, believable object contact, and continuous spatial geography.
+
+Set the sequence in one cozy backyard patio beside a small garden shed on a bright late-afternoon day. A wooden picnic table, two garden chairs, and a small covered dog bed occupy the same connected space.
+
+The main animal is one golden retriever mother. The human character is a young boy wearing a mustard-yellow sweater. The important prop is one small round birthday cake with white frosting and a single blue candle.
+
+0 to 2 seconds: Start extremely close to the cake on the picnic table. The mother dog reaches up, gently grips the cake box edge with her mouth, and pulls it down. The box lands softly on the patio. She immediately picks it up and trots away.
+
+2 to 4 seconds: Race backward ahead of the dog as the boy notices. He follows with a surprised expression and says, “Hey, that’s for my birthday!”
+
+4 to 6 seconds: Move alongside the dog as she passes between the two garden chairs. The camera stays low. The cake box bumps lightly against the ground with each step while the boy follows naturally behind.
+
+6 to 8 seconds: Curve around the final chair and reveal the covered dog bed. The mother dog reaches it and carefully lowers the cake beside the bed. She releases the box and looks toward the puppies.
+
+8 to 10 seconds: The first puppy slowly crawls forward from inside the bed and rests its chin beside the cake box. The boy kneels down, confused but smiling.
+
+10 to 12 seconds: Rise slightly to include the boy, mother dog, and bed. The boy opens the box and discovers several tiny puppies gathered inside. He softly says, “Oh… you wanted a party too.”
+
+12 to 14 seconds: Continue a close flowing orbit. The mother dog gently nudges the cake toward the puppies while the boy places it safely outside their reach. The puppies wiggle excitedly.
+
+14 to 15 seconds: A second puppy suddenly pops its head beside the first and gives the blue candle one tiny curious sniff. The boy laughs quietly. End with the mother dog, two puppies, and boy sharing the warm moment.
+
+Audio: Speak only the two quoted lines. Include soft paw steps, cardboard movement, quiet garden birds, puppy sounds, and the boy’s gentle laugh. No narration and no talking animals.
+
+Continuity restrictions: One mother dog, exactly two puppies, one boy, one cake, one patio. No cuts, duplicated puppies, disappearing objects, magical movement, humanlike animal gestures, candle touching the puppies, or sudden location changes.
+```
+
+### How to adapt it
+
+Replace the animal, setting, and central prop together. Keep the timed reveal, two dialogue lines, connected geography, and exact character counts.
+
+**Shared by:** [M-studioAi](<https://x.com/Strength04_X>)
+
+[Original post on X](<https://x.com/Strength04_X/status/2106369245886226743>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#puppies-backyard-birthday>)
 
 ## Attribution and corrections
 
