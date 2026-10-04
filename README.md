@@ -5,7 +5,7 @@ A curated collection of Seedance 2.5 videos from creators, with original sources
 
 **[Browse the visual gallery](<https://seeora.app/seedance-prompts>)**
 
-The collection currently contains **16 verified examples**, with sources reviewed through **2026-10-03**.
+The collection currently contains **21 verified examples**, with sources reviewed through **2026-10-04**.
 
 <a id="race-for-agi-desert-chase"></a>
 
@@ -823,6 +823,203 @@ Replace the animal, setting, and central prop together. Keep the timed reveal, t
 **Shared by:** [M-studioAi](<https://x.com/Strength04_X>)
 
 [Original post on X](<https://x.com/Strength04_X/status/2106369245886226743>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#puppies-backyard-birthday>)
+
+<a id="magician-letterbox-pop-out"></a>
+
+## What Can I Offer You? A Letterbox Pop-Out Comedy
+
+[![What Can I Offer You? A Letterbox Pop-Out Comedy — Seedance 2.5 video preview](<https://pbs.twimg.com/amplify_video_thumb/2106393512597913600/img/Nht5nvI8YPv9arQF.jpg>)](<https://x.com/aimikoda/status/2106393688653922602>)
+
+A magician offers gifts and steps across static letterbox bars in a nonverbal anime comedy with a published reference-based prompt.
+
+**Model:** Seedance 2.5
+
+### Video prompt · `en`
+
+```text
+Use @[char ref] as the exact character and style reference. Preserve her long pale-blue hair, oversized blue-and-orange pointed magician hat, orange-and-blue coat with its circular sleeve emblem, blue knee-high socks and chunky orange-and-blue sneakers. Keep the same angular painterly anime rendering, sharp graphic shapes and character proportions. Replace the background with clean pure white.
+
+Create a playful, completely nonverbal comedy in one continuous shot. She offers increasingly surprising gifts to the viewer, reacts to each implied rejection through expressive facial acting, then decides to step out of the picture herself.
+
+MAIN VISUAL GOAL:
+An unmistakable OUT-OF-FRAME, POP-OUT effect. Her offered objects, hands, sleeves, hat and finally her legs and body visibly project OVER the black letterbox bars toward the viewer.
+
+COMPOSITING ORDER, BACK TO FRONT:
+
+1. White background and scene.
+2. Two broad black letterbox bars at the top and bottom.
+3. The foreground character and the objects she presents.
+
+The white background is confined to the central picture window. The foreground character and offered objects are NOT confined to that window. Their silhouettes continue uninterrupted across its boundaries and onto the black bars. Their original colors remain fully visible when overlapping black.
+
+STATIC BARS, MOVING FOREGROUND:
+Both bars are completely static screen graphics. Keep their equal thickness, full width and exact screen position unchanged throughout. Their inner boundaries remain perfectly straight and horizontal.
+Foreground movement only temporarily hides portions of the bars. The underlying bars never move or deform. Visible edge segments on either side of an overlap remain aligned on the same horizontal line. When an object withdraws, reveal the original unchanged black surface beneath it.
+Keep black visible beside the overlaps. No bending, sliding, shaking, stretching, opening or impact reactions. The bars remain unchanged even during the final step out of the picture.
+
+CAMERA AND PERFORMANCE:
+Stationary camera, fixed wide-angle lens and level framing. She stays close and prominent throughout. Keep her face clearly visible inside the central picture window while her hands and gifts extend over the lower bar.
+Her facial acting remains continuously active: eye contact, eyebrow changes, natural blinking, questioning head tilts, shifting smiles, pouts and expressive cheek movements. Connect every reaction to the current offer.
+The viewer remains unseen and silent. Every rejection is IMPLIED entirely by her own reaction after looking into the lens. No viewer hands, camera nodding or external rejection signals.
+
+STRICTLY NONVERBAL:
+
+No dialogue, spoken words, whispering, narration, lip-sync or human vocalizations. No subtitles, captions or speech bubbles. She never mouths sentences. Mouth movement is limited to natural nonverbal expressions.
+Follow this exact order: FLOWER, COFFEE, JEWEL, CAT, HERSELF.
+
+FIRST OFFER, FLOWER:
+
+She smiles warmly and retrieves a single flower from beyond a side edge of the screen. Extend it toward the viewer, bringing the flower, fingers and sleeve visibly over the lower black bar.
+After a brief expectant look into the lens, her hopeful smile fades. One eyebrow rises, her head tilts and her eyes search the viewer’s face. Give the flower one small encouraging forward nudge, then accept the implied refusal with a tiny disappointed pout.
+Retract the flower and visibly place it outside the side edge of the screen before retrieving the next object.
+
+SECOND OFFER, COFFEE:
+
+Reach offscreen and return with a coffee cup held securely by its handle. Her face brightens with renewed confidence.
+Offer the cup close to the lens. Its silhouette and her sleeve clearly overlap the lower black bar while her face remains visible above it.
+Her smile falters. Look at the cup, then back into the lens with raised eyebrows and pursed lips. A small resigned shoulder drop follows. Pull the cup back and set it offscreen without spilling.
+
+THIRD OFFER, JEWEL:
+
+Her eyes brighten with a sudden idea. Produce a large sparkling gemstone and present it in an open palm. The gemstone, fingers and sleeve project over the lower black bar.
+Look proudly from the jewel to the viewer, expecting success. After the implied rejection, widen her eyes, lift both eyebrows and briefly part her lips in silent disbelief. Give the lens an incredulous stare, press her lips together and put the jewel offscreen.
+
+FOURTH OFFER, CAT:
+Retrieve a cute small cat from offscreen, supporting its body with both hands. Present it toward the lens, bringing its front paws, fluffy body and her hands visibly over the lower black bar.
+Her expression becomes delighted and persuasive. The cat blinks and moves its paws naturally.
+After another implied rejection, her delighted expression collapses into exaggerated disbelief. Look at the cat, then at the viewer, then back at the cat. Squint slightly and form a frustrated pout.
+Turn slightly and give the cat a light, comical backward toss. The cat lands on its paws behind her and trots away. Keep this quick and playful.
+
+FINAL OFFER, HERSELF:
+Turn back to the viewer. Her frustration changes into a mischievous idea. Raise one index finger in a clear requesting-a-moment gesture, with the fingertip overlapping the upper black bar.
+Lift one knee toward the lens and extend her sneaker OVER the lower black bar. The shoe grows large through foreshortening. Her leg crosses the picture boundary in front of the unchanged black surface.
+Shift her weight forward and bring the rest of her body after it, as though stepping out of the framed image into the viewer’s space. Her coat overlaps the lower bar while her oversized hat overlaps the upper bar.
+The bars remain perfectly straight and stationary beneath her. Her body simply renders in front of them. No opening, bending or displacement of either bar.
+Finish close to the lens with open palms presenting herself, lifted eyebrows and a cheeky hopeful smile. Keep natural blinking, breathing and small facial movements through the ending.
+
+OBJECT CONTINUITY:
+One offered gift at a time. Show each retrieval, presentation and removal clearly. Objects enter and leave through a side edge of the output. No objects transforming into the next gift or disappearing while still held. Preserve consistent object shapes and natural hand contact.
+Brisk natural real-time pacing with readable reactions. No slow motion, frozen expressions, distant retreats or camera movement. No warped bars, duplicated hands, costume changes or text.
+Audio consists only of light prop sounds, fabric rustles, sneaker steps and a brief cat meow. No dialogue, human vocalizations or background music.
+```
+
+### How to adapt it
+
+Use your own character reference and preserve the layer order: background, static bars, then foreground character and props.
+
+**Shared by:** [Kōda](<https://x.com/aimikoda>)
+
+[Original post on X](<https://x.com/aimikoda/status/2106393688653922602>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#magician-letterbox-pop-out>)
+
+<a id="numbered-path-drone-camera"></a>
+
+## A Numbered Image Guide for a Three-Stage Drone Shot
+
+[![A Numbered Image Guide for a Three-Stage Drone Shot — Seedance 2.5 video preview](<https://pbs.twimg.com/amplify_video_thumb/2105395075580674048/img/mWdjd2OjzRfvJ6tT.jpg>)](<https://x.com/Scenario_gg/status/2105395304900256081>)
+
+A numbered path on one reference image guides a staged camera move: track along the leg, push toward the puppy, then pan to the face.
+
+**Model:** Seedance 2.5
+
+### Image preparation prompt (GPT Image 2.5 Flare) · `en`
+
+```text
+Turn this image into a camera path guide for a video generator. Do not redraw or change the original image at all — keep the character, pose, background, composition, and colors exactly the same. Only overlay a single thin yellow line that starts at her feet (in the foreground) and flows smoothly up along her legs, hip, and torso, following the natural curve of her body. Add small arrowheads along the line indicating the direction of travel, and small numbered dots marking waypoints in order: 1 at her feet, 2 at her lower leg, 3 at her hip/thigh area, 4 landing exactly on the puppy's face/head resting on her chest, then continuing up to 5 at her own face. Keep the line thin and elegant, and position the numbers so they don't obscure the puppy's face or her face. This is purely a camera-motion reference diagram overlaid on the original artwork.
+```
+
+### Video prompt (Seedance 2.5) · `en`
+
+```text
+@image1 A cinematic drone camera shot in three distinct staged movements following the numbered yellow guide path on the reference image, in this exact order: STAGE 1 — starting low near her feet, the camera tracks/dollies smoothly across and up along her leg toward her hip, a clear traveling crossing motion along the length of the leg. STAGE 2 — once reaching her hip/torso area, the camera performs a deliberate zoom-in push toward the puppy's face resting on her chest, settling in close on the puppy. STAGE 3 — the camera then pans sideways/upward from the puppy's face over to her own face, ending in a close-up on her relaxed sleeping expression. Each stage should feel like its own distinct camera move (track, then zoom, then pan), not one uniform blended motion. Shallow depth of field, warm golden-hour lighting, cozy living room atmosphere. The scene, character, outfit, and background must exactly match the reference image. IMPORTANT: the rendered video must NOT show any yellow lines, arrows, numbers, dots, or overlay graphics at any point, including the first frame — those markings are only a camera-path reference and must be completely invisible in the output.
+```
+
+### How to adapt it
+
+Overlay a numbered camera path on your own reference image, describe each movement separately, and exclude the guide graphics from the output.
+
+**Shared by:** [Scenario](<https://x.com/Scenario_gg>)
+
+[Original post on X](<https://x.com/Scenario_gg/status/2105395304900256081>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#numbered-path-drone-camera>)
+
+<a id="elevenlabs-v4-vocal-delivery"></a>
+
+## ElevenLabs V4 Voice Paired With Seedance 2.5
+
+[![ElevenLabs V4 Voice Paired With Seedance 2.5 — Seedance 2.5 video preview](<https://pbs.twimg.com/amplify_video_thumb/2105490840525373440/img/PpOW_GgHgkx9ZkN6.jpg>)](<https://x.com/jerrod_lew/status/2105490901321814488>)
+
+A creator demonstration combines ElevenLabs V4 vocal delivery with Seedance 2.5 video for an expressive on-camera performance.
+
+**Model:** Seedance 2.5
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Prepare an original voice performance with the intended tone and emotion, then plan matching character framing and delivery.
+
+**Shared by:** [Jerrod Lew](<https://x.com/jerrod_lew>)
+
+[Original post on X](<https://x.com/jerrod_lew/status/2105490901321814488>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#elevenlabs-v4-vocal-delivery>)
+
+<a id="rainy-japanese-neighborhood-vlog"></a>
+
+## A Rainy-Day Japanese Neighborhood Vlog
+
+[![A Rainy-Day Japanese Neighborhood Vlog — Seedance 2.5 video preview](<https://pbs.twimg.com/amplify_video_thumb/2105533339331633152/img/75Yujkf5E6mLc_BG.jpg>)](<https://x.com/ZorviaLux/status/2105533415026241635>)
+
+A published lifestyle prompt follows one consistent character from a covered bus stop through a rainy neighborhood to a park shelter.
+
+**Model:** Seedance 2.5
+
+### Video prompt · `en`
+
+```text
+Create an ultra-realistic cinematic Japanese lifestyle vlog featuring a young Japanese woman enjoying a peaceful rainy day in a quiet Japanese neighborhood.
+
+A young woman with black hair tied in a neat ponytail, wearing a white and navy striped oversized T-shirt, beige shorts, and white sneakers, stands under a traditional covered bus stop during light rain. She looks outside, gently extends her hand to feel the raindrops, then turns around and runs playfully along a quiet residential street.
+
+Show cinematic transitions of her running through the wet neighborhood, passing traditional Japanese houses, green trees, and a peaceful park. She eventually reaches a wooden shelter in the park, adjusts her ponytail, stretches her arms, and smiles naturally toward the camera.
+
+Visual Style: Photorealistic Japanese slice-of-life cinematography, soft overcast daylight, realistic rain reflections, natural human movements, beautiful greenery, peaceful atmosphere, authentic Japanese residential environment.
+
+Camera Direction: Start with a cinematic side-profile close-up, transition into a medium shot of her touching raindrops, followed by a smooth rear tracking shot while running. Finish with emotional close-ups and a warm natural smile.
+
+Technical: 4K, 9:16 vertical, 24fps, realistic facial expressions, consistent character identity, smooth camera movement, natural physics, detailed environment, cinematic color grading.
+
+Important: Maintain the same woman's face, hairstyle, outfit, and body proportions throughout every scene. No facial distortion, no outfit changes, no unnatural movements, no text or watermark.
+```
+
+### How to adapt it
+
+Replace the subject and neighborhood while keeping clothing, weather, and camera transitions consistent across the walk.
+
+**Shared by:** [Zorvia](<https://x.com/ZorviaLux>)
+
+[Original post on X](<https://x.com/ZorviaLux/status/2105533415026241635>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#rainy-japanese-neighborhood-vlog>)
+
+<a id="rainy-container-alley-combat"></a>
+
+## A Rainy Container-Alley Fight With Frost Punches
+
+[![A Rainy Container-Alley Fight With Frost Punches — Seedance 2.5 video preview](<https://pbs.twimg.com/amplify_video_thumb/2104427845317730304/img/2_7h-dCMdsOdhX-T.jpg>)](<https://x.com/AvelyrahnAI/status/2104427974955053532>)
+
+A published action prompt stages a fighter in a rain-soaked container alley with explosions, frost punches, and rapid choreography.
+
+**Model:** Seedance 2.5
+
+### Video prompt · `en`
+
+```text
+Epic action movie sequence, dark rainy night in a narrow alleyway lined with stacked cargo containers, a fierce female fighter in a sleek black suit battling waves of aggressive opponents, high-impact combat with fiery explosions and freezing frost punches, cinematic lighting, dramatic smoke, fast-paced choreography, hyper-realistic, 4k
+```
+
+### How to adapt it
+
+Set a clear arena and one consistent fighter, then specify how rain, explosions, and frost effects interact with the choreography.
+
+**Shared by:** [Avelyrah](<https://x.com/AvelyrahnAI>)
+
+[Original post on X](<https://x.com/AvelyrahnAI/status/2104427974955053532>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#rainy-container-alley-combat>)
 
 ## Attribution and corrections
 
