@@ -5,7 +5,7 @@ A curated collection of Seedance 2.5 videos from creators, with original sources
 
 **[Browse the visual gallery](<https://seeora.app/seedance-prompts>)**
 
-The collection currently contains **21 verified examples**, with sources reviewed through **2026-10-04**.
+The collection currently contains **27 verified examples**, with sources reviewed through **2026-10-05**.
 
 <a id="race-for-agi-desert-chase"></a>
 
@@ -1020,6 +1020,279 @@ Set a clear arena and one consistent fighter, then specify how rain, explosions,
 **Shared by:** [Avelyrah](<https://x.com/AvelyrahnAI>)
 
 [Original post on X](<https://x.com/AvelyrahnAI/status/2104427974955053532>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#rainy-container-alley-combat>)
+
+<a id="frame-break-sword-and-kicks"></a>
+
+## A Frame-Break Sword-and-Kick Performance
+
+[![A Frame-Break Sword-and-Kick Performance — Seedance 2.5 video preview](<https://pbs.twimg.com/amplify_video_thumb/2106044251872067585/img/bMdFPshq7sNHiuNj.jpg>)](<https://x.com/aimikoda/status/2106044483863191748>)
+
+An anime swordswoman projects her blade, hands and sneakers over fixed black letterbox bars in a close-range action sequence.
+
+**Model:** Seedance 2.5
+
+### Seedance 2.5 video prompt (author reply) · `en`
+
+```text
+Use @[char ref]￼as the exact character and style reference. Preserve her black hair and braids, oversized blue hooded jacket with cream graphics and orange trim, white cropped top, layered cream-and-orange pants, orange ribbons and white sneakers with black stripes and orange panels. Preserve her single sword with its black wrapped handle, gold guard and red tassel. Keep the same angular painterly anime rendering and blue background.
+
+MAIN VISUAL GOAL:
+An unmistakable OUT-OF-FRAME, POP-OUT effect. The character repeatedly projects beyond the central picture window, with her sword, hands, sneakers, hair and loose clothing visibly moving OVER the black letterbox bars toward the viewer.
+
+COMPOSITING ORDER, BACK TO FRONT:
+1. Background and scene.
+2. Two broad black letterbox bars at the top and bottom.
+3. The foreground character, including her sword, hands, sneakers and clothing.
+
+The background is confined to the central picture window. The foreground character is NOT confined to that window. Her silhouette continues uninterrupted across its boundaries and onto the black bars. Blue sleeves, cream fabric, orange panels, sneakers and the silver blade remain fully visible when overlapping black.
+
+STATIC BARS, MOVING CHARACTER:
+Both bars are completely static screen graphics. Keep their equal thickness, full width and exact screen position unchanged throughout. Their inner boundaries remain perfectly straight and horizontal.
+
+The character simply renders in front of them. Her movement temporarily hides portions of their black surface. The underlying bars never move or deform. Visible edge segments on either side of an overlap remain aligned on the same horizontal line. When she withdraws a limb, reveal the original unchanged black bar beneath it.
+
+Keep black visible beside the overlapping body parts. No bending, sliding, shaking, stretching, opening or impact reactions in the bars.
+
+The camera stays stationary with a fixed wide-angle lens. One continuous shot. She stays close and large in the composition, using short forward approaches, lateral pivots and compact recoveries. Never retreat deep into the background.
+
+OPENING:
+Already close to the viewer, she reaches toward the lens with her EMPTY hand while retaining the sword in her other hand.
+
+Her fingertips visibly overlap the upper black bar. She makes one brisk diagonal lens-wiping gesture with her open palm, passing across the center and over the lower black bar. The hand and sleeve appear in front of both bars during the gesture. The bars remain unchanged beneath them.
+
+The instant her palm clears the lens, she snaps into fast action without a pause.
+
+CHOREOGRAPHY:
+A diagonal sword slash passes close to the lens and visibly extends over the upper black bar. Reverse immediately into a tight turning cut. Her blue sleeve and loose cream-and-orange fabric sweep across the lower black surface.
+
+She chambers a knee and fires a sharp FRONT KICK toward the viewer. The sneaker sole becomes large in the foreground and clearly overlaps the lower black bar, with black still visible beside it. Her shin connects continuously back to her body inside the central window. Retract immediately.
+
+Plant the foot and pivot into a fast sword flourish crossing the upper bar. Continue into a compact SPINNING HEEL KICK. The sneaker sweeps close past the lens, its heel and sole projecting over the lower bar while her jacket and trouser fabric trail behind.
+
+Keep alternating clear close-range overlaps: sword above the upper bar, sneaker over the lower bar, empty hand across a border, blue sleeve and cream fabric sweeping across black. Use fast connected combinations with crisp readable extensions and immediate recoveries.
+
+Her clothing follows her body with strong momentum. Preserve the garment construction, patterned orange sections and cream folds. Fabric stays attached naturally and visibly covers the black surface without affecting its straight boundaries.
+
+FINISH:
+A final close-range sword extension crosses the upper black bar as her loose clothing flares over the lower bar. Resolve sharply into a confident martial-arts pose, retaining visible foreground overlap and quick natural follow-through.
+
+The frame-break effect must come from the character visibly covering black areas outside the central picture window. Do not keep her entirely behind the bars. Do not simulate the effect by moving the bars or enlarging the window.
+
+Fast real-time movement throughout, including the opening wipe. No slow motion, speed ramps, long windups or floating pauses. No camera movement, duplicated limbs or weapons, clothing morphing, text or background music. Sword whooshes, kick air bursts and fabric snaps only.
+```
+
+### How to adapt it
+
+Use your own character reference and test a fixed camera before adding movement. Keep the background behind the bars and foreground limbs above them.
+
+**Shared by:** [Kōda](<https://x.com/aimikoda>)
+
+[Original post on X](<https://x.com/aimikoda/status/2106044483863191748>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#frame-break-sword-and-kicks>)
+
+<a id="car-window-broomstick-flight"></a>
+
+## A Broomstick Takeoff Seen From a Car Window
+
+[![A Broomstick Takeoff Seen From a Car Window — Seedance 2.5 video preview](<https://pbs.twimg.com/amplify_video_thumb/2105193135978557440/img/yJ7Ho-C2FNCKQnd0.jpg>)](<https://x.com/johnAGI168/status/2105193274675798309>)
+
+A handheld car-window view follows a broomstick rider from roadside running into sustained flight, with timed Chinese reactions.
+
+**Model:** Seedance 2.5
+
+### Seedance 2.5 video prompt (author post) · `zh`
+
+```text
+SEEDANCE 2.5｜车窗偶遇扫帚飞行
+时长：17秒
+画幅：9:16竖屏
+手机随手拍摄质感，一镜到底，无字幕。
+
+SUBJECT / 角色绑定：
+​ 1 绑定【主角】，人物形象完全遵循角色卡，不另加外貌和穿着设定。
+
+道具：
+一把普通扫帚，细长木柄，后端为棕色枝条扎成的扫帚头。主角跨在扫帚杆上，木柄朝前，枝条束朝后；全程保持同一把扫帚，长度、形状和前后方向一致。
+
+SHOT 1｜0—17秒｜车内拍摄者目击起飞
+
+Environment：
+多云白昼，灰白天空，郊外灰色沥青公路、白色车道线与金属护栏。护栏外是绿色农田、草地、零散树木和低层房屋，远处可见电塔。柔和自然光，普通日常公路环境。
+
+Camera：
+拍摄者坐在行驶的汽车内，举手机朝打开的侧窗外拍摄。开场保留左下方一部分外后视镜、底部车窗沿和少量窗框，建立真实车内视角。
+
+汽车与主角近乎并行前进，手机持续追拍，存在轻微道路颠簸和自然手持抖动。前半段主要横向跟随主角，保持全身、扫帚和脚下路面同时可见。
+
+主角超过汽车后，拍摄者仍从侧窗向道路前方转动手机，再逐渐上仰追踪。后视镜沿画面下缘退出，天空占比增大，公路保留在下方。全程不切镜，不切到车外机位，不突然变成航拍。
+
+Style：
+真实手机偶遇视频，普通曝光、自然色彩、轻微运动模糊。奇观来自人物和扫帚实际离地、持续悬浮与加速飞远。没有发光法阵、喷火、烟雾、魔法粒子或彩色拖尾。
+
+Action / 连续动作：
+
+0—1.5秒｜跨着扫帚跑，先跳一下
+开场主角已经在公路边缘跨着扫帚奔跑，侧身朝画面左侧前进，与汽车并行。木柄向前，扫帚头拖在身后，但不扫地。
+
+一只手先扶住身前杆身，另一只手随跑步自然摆动。约0.8秒，主角借跑步蹬地跃起，两腿短暂前后屈伸，随后双脚先后落地，继续跑动。这一次仍是普通跳跃。
+
+1.5—4.8秒｜双手握稳，身体逐渐前倾
+主角改为双手握住身体前方的扫帚杆，两肘逐渐弯曲，胸口慢慢压低。双腿仍交替蹬地，脚步与地面接触清楚可见。
+
+汽车继续并行，拍摄者把主角稳稳留在画面中，保留脚与路面的位置关系，让观众清楚看见起飞前还在跑。
+
+4.8—5.5秒｜真正离地
+最后一次蹬地后，扫帚开始平稳承托身体。主角胸口进一步贴近杆身，两膝同时弯曲，小腿与双脚向臀部后下方收起。
+
+双脚缓缓脱离路面，脚底与地面之间出现明确且持续增大的间隙。这次离地后不再落回地面。扫帚大致保持水平，人物与扫帚作为整体平稳上升。
+
+5.5—10秒｜低空飞行，与汽车并排
+主角伏低上身，双手持续握杆，两肘弯曲，双膝收在身后，双脚靠近，保持紧凑的飞行姿势。双腿停止跑步摆动。
+
+扫帚沿道路方向低空飞行，与汽车并排保持数秒，离地高度缓慢增加。背景护栏和田野持续向后流动，人物悬空稳定，使“不再触地却仍然前进”的状态清楚可见。
+
+拍摄者因吃惊出现一下轻微手抖，随即稳住手机，仍完整拍到主角和扫帚，不用猛烈甩镜遮住起飞。
+
+10—13秒｜超过汽车，逐渐升高
+主角与扫帚开始平滑加速，沿道路前方超过汽车，同时逐渐爬升。身体仍保持伏低握杆、屈膝收腿的姿势。
+
+随着主角移动到车辆前方，画面自然从侧面视角转为偏后方视角。这个变化来自超车和摄影机追随，不让主角突然掉头。
+
+拍摄者从侧窗向前转动手机，再抬高镜头。主角在画面中连续缩小，飞行路线清楚，没有瞬移。
+
+13—17秒｜飞向远处天空
+主角继续向道路前方上空飞远，速度进一步拉开与汽车的距离，逐渐缩成天空中的小剪影，再成为一个仍可辨认的小黑点。
+
+摄影机持续自然上仰追踪，画面下方留有公路与远处地平线，最后天空占据大部分画面，小黑点仍留在上部。保持距离增加带来的连续缩小，不突然抹掉人物，不用闪光转场结束。
+
+Performance：
+主角专注向前，跑步时有真实蹬地和重心起伏；飞行后身体逐渐稳定。全程不向镜头讲话，不回应拍摄者，不做台词口型。
+
+拍摄者不出镜，只通过声音和轻微手机动作表现反应：先觉得好笑，随后发现真的飞起来，语气突然变为惊讶。
+
+AUDIO / 拍摄者同期画外音：
+
+0.3—3.6秒：
+同一位拍摄者在手机后方近距离说：
+“快看快看，这怕不是是个傻子吧！”
+前两个“快看”说得快，像在招呼车内同伴；后半句带一点忍不住的笑意，口语自然。
+
+5.4—8.4秒：
+确认主角双脚持续悬空后，拍摄者脱口而出：
+“我去，我去，真的飞起来了！”
+第一个“我去”短促、突然；停顿一小下，第二个“我去”音调提高；“真的飞起来了”带着明显难以置信的惊讶，声音稍大但仍是车内随手录制的感觉。
+
+两句话均来自画外拍摄者，不是主角发声，不采用播音腔或后期解说腔。保留车内低沉行驶声、轮胎路噪和开窗风声，飞远后留一点惊讶的呼吸声，不追加其他台词，不配音乐。
+
+Constraints：
+只绑定一位人物主角，拍摄者始终在画外。
+先有跳起再落地，随后才持续离地，两个阶段必须区分。
+第二句惊呼在真正悬浮之后出现。
+跑步阶段双脚交替触地；飞行阶段双膝后收，双脚不再蹬地或在空中跑步。
+扫帚始终跨在两腿之间，双手握杆位置连续，人物不能与扫帚脱离。
+车辆、道路、人物位移与镜头方向保持一致。
+结尾通过飞远而缩小，保留远处小黑点。
+
+NEGATIVE：
+人物换脸，穿着漂移，多余手脚，扫帚复制或变形，悬空跑步，突然瞬移，人物主动掉头，魔法光效，夸张甩镜，切镜，主角对口型，字幕，水印。
+```
+
+### How to adapt it
+
+Replace the character card with your own subject. Preserve the distinction between a normal jump and sustained takeoff, and keep the camera inside the car.
+
+**Shared by:** [John](<https://x.com/johnAGI168>)
+
+[Original post on X](<https://x.com/johnAGI168/status/2105193274675798309>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#car-window-broomstick-flight>)
+
+<a id="anime-road-closed"></a>
+
+## An Anime Road-Closed Scene
+
+[![An Anime Road-Closed Scene — Seedance 2.5 video preview](<https://pbs.twimg.com/amplify_video_thumb/2105449343906095104/img/yr7USUvjUZ1g9Dc-.jpg>)](<https://x.com/sarischerika/status/2105450357878935606>)
+
+A fantasy anime character faces an oversized wooden barrel in a Seedance 2.5 scene shared by the creator through Topview.
+
+**Model:** Seedance 2.5
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Explore a simple obstacle encounter with an original character and one clearly visible prop. Use the source video as a visual example; the generation prompt is not public.
+
+**Shared by:** [サリスチェリ｜AI動画](<https://x.com/sarischerika>)
+
+[Original post on X](<https://x.com/sarischerika/status/2105450357878935606>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#anime-road-closed>)
+
+<a id="two-person-water-obstacle-course"></a>
+
+## A Two-Person Water Obstacle Course
+
+[![A Two-Person Water Obstacle Course — Seedance 2.5 video preview](<https://pbs.twimg.com/amplify_video_thumb/2106208925116936192/img/emSaC4uWrtjb12nb.jpg>)](<https://x.com/AmeliaLabs/status/2106237700244418721>)
+
+Two participants face a water obstacle course in a creator-made video credited to Claude and Seedance 2.5 through Pollo MCP.
+
+**Model:** Seedance 2.5
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Plan two distinct participants and readable obstacle positions, then check body continuity and interaction timing. The source does not disclose the generation prompt.
+
+**Shared by:** [Amelia](<https://x.com/AmeliaLabs>)
+
+[Original post on X](<https://x.com/AmeliaLabs/status/2106237700244418721>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#two-person-water-obstacle-course>)
+
+<a id="blender-animation-ad-workflow"></a>
+
+## Blender-Guided Animated Advertising Workflow
+
+[![Blender-Guided Animated Advertising Workflow — Seedance 2.5 video preview](<https://pbs.twimg.com/amplify_video_thumb/2104297083788210176/img/9uGqE2QKJ_99dJyR.jpg>)](<https://x.com/pounddz/status/2104298509566693635>)
+
+A creator shares an animated advertising workflow using Blender to direct shots before Seedance 2.5 video generation.
+
+**Model:** Seedance 2.5
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Block camera positions and character staging in Blender before generating shots. Compare each result against the storyboard; the source offers the full workflow by DM.
+
+**Shared by:** [Pounds](<https://x.com/pounddz>)
+
+[Original post on X](<https://x.com/pounddz/status/2104298509566693635>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#blender-animation-ad-workflow>)
+
+<a id="cat-zoomies-house-racetrack"></a>
+
+## Zoomies: A Cat Turns the House Into a Racetrack
+
+[![Zoomies: A Cat Turns the House Into a Racetrack — Seedance 2.5 video preview](<https://pbs.twimg.com/amplify_video_thumb/2104473856953946112/img/qaj3Bn2J4b1yl9OZ.jpg>)](<https://x.com/aimikoda/status/2104474150215578011>)
+
+A painterly anime cat races through a house, drifting across rugs and rebounding off furniture before an innocent final pose.
+
+**Model:** Seedance 2.5
+
+### Midjourney v8.2 image preparation (author reply) · `en`
+
+```text
+cat doing zoomies in house --ar 16:9 --sref 3309178205 --profile 9f11bbt
+```
+
+### Seedance 2.5 video prompt (author reply) · `en`
+
+```text
+Create a 30-second sequence using Image1 as the anchor for the cat’s exact fluffy design, exaggerated expression language and painterly anime rendering. The cat is having impossibly intense zoomies and must feel far beyond ordinary fast—so fast that in half a second it can cross an entire room, reappear on a cabinet, disappear again and already be drifting across a rug in another part of the house before the viewer fully processes the first move. The house is its racetrack. It tears down a hallway, hits a rug and goes into a full sideways drift with claws carving through the carpet, then uses that drift energy to slingshot onto a sofa. It sprints across the backrest, rebounds off cushions, launches onto a side table, jumps to the top of a cabinet, races along the cabinet edge, kicks objects into the air and drops back down into another full-speed lap without ever feeling like it paused. It should repeatedly run across rugs, skid on them so hard they bunch and twist, jump onto sofas, use armrests as stepping points, scramble across cabinet tops and shelf edges, then dive back to floor level and instantly redirect again. The speed must be conveyed through impossible re-entry timing: the camera catches only fragments, impacts and consequences, while the cat is already somewhere else. A plant starts falling in one room and before it lands the cat has already blasted through the kitchen and returned to the same hallway. Cushions are still airborne from one pass when the cat ricochets through the frame again from another direction. Show repeated routes with escalating destruction: rugs dragged out of alignment, sofa fabric clawed, small objects swept off surfaces, frames tilted, papers tornadoing through the air, scattered debris rolling across the floor. Use ultra-fast cinematic language: low-lens chase shots that immediately lose the cat, whip-pans that reacquire it on top of furniture, split-second macro flashes of claws catching rug fibers, hind legs kicking off polished wood, paws flattening into upholstery, eyes going feral and mouth open in manic excitement. Keep one cat only, no clones, no teleportation—just absurdly continuous real movement at a speed that feels almost impossible. In the final beat, after one last catastrophic rug drift and a cabinet-to-sofa-to-floor combo that wrecks half the room, the cat suddenly lands right in front of the lens and freezes into an absurdly cute pose, perfectly composed and innocent, surrounded by total household devastation.
+```
+
+### How to adapt it
+
+Prepare your own cat reference image, then preserve one-cat continuity and a few recurring room landmarks. Separate image preparation from the video prompt.
+
+**Shared by:** [Kōda](<https://x.com/aimikoda>)
+
+[Original post on X](<https://x.com/aimikoda/status/2104474150215578011>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#cat-zoomies-house-racetrack>)
 
 ## Attribution and corrections
 
