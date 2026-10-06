@@ -5,7 +5,7 @@ A curated collection of Seedance 2.5 videos from creators, with original sources
 
 **[Browse the visual gallery](<https://seeora.app/seedance-prompts>)**
 
-The collection currently contains **27 verified examples**, with sources reviewed through **2026-10-05**.
+The collection currently contains **32 verified examples**, with sources reviewed through **2026-10-06**.
 
 <a id="race-for-agi-desert-chase"></a>
 
@@ -1293,6 +1293,269 @@ Prepare your own cat reference image, then preserve one-cat continuity and a few
 **Shared by:** [Kōda](<https://x.com/aimikoda>)
 
 [Original post on X](<https://x.com/aimikoda/status/2104474150215578011>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#cat-zoomies-house-racetrack>)
+
+<a id="gray-blockout-retro-anime"></a>
+
+## A Gray Blender Blockout Becomes a Retro Anime Shot
+
+[![A Gray Blender Blockout Becomes a Retro Anime Shot — Seedance 2.5 video cover](<https://pbs.twimg.com/amplify_video_thumb/2106464555870113792/img/Pci3ypStejmoTBq0.jpg>)](<https://x.com/AIWarper/status/2106466745661980904>)
+
+A retro anime sequence pairs a gray Blender driving video with Seedance 2.5 and DaVinci Resolve post-processing.
+
+**Model:** Seedance 2.5
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Build a grayscale blockout for camera movement and staging, then use it as a driving reference. Compare the rendered shot against the blockout before grading.
+
+**Shared by:** [A.I.Warper](<https://x.com/AIWarper>)
+
+[Original post on X](<https://x.com/AIWarper/status/2106466745661980904>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#gray-blockout-retro-anime>)
+
+<a id="tiny-rooftop-adventure"></a>
+
+## A Tiny Rooftop Adventure in Thirty Seconds
+
+[![A Tiny Rooftop Adventure in Thirty Seconds — Seedance 2.5 video cover](<https://pbs.twimg.com/amplify_video_thumb/2105968905474998275/img/VUDARevxiJq0zuoV.jpg>)](<https://x.com/itxabdullaa/status/2105968983660953899>)
+
+A small animated character explores a sunlit rooftop in a thirty-second Seedance 2.5 story made through ElevenCreative.
+
+**Model:** Seedance 2.5
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Plan a compact rooftop story around one character and a few clear actions. Keep the setting and character references consistent across the sequence.
+
+**Shared by:** [ÀBDŪLLÂH](<https://x.com/itxabdullaa>)
+
+[Original post on X](<https://x.com/itxabdullaa/status/2105968983660953899>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#tiny-rooftop-adventure>)
+
+<a id="train-heist-countdown-thriller"></a>
+
+## A Train Heist With a Deadly Briefcase Countdown
+
+[![A Train Heist With a Deadly Briefcase Countdown — Seedance 2.5 video cover](<https://pbs.twimg.com/amplify_video_thumb/2104213543814127616/img/8Be_6zm0K_QSLXm6.jpg>)](<https://x.com/Hope_Ai01/status/2104214749609439444>)
+
+A female agent, masked criminals and a countdown briefcase drive a one-minute train-heist thriller made with a storyboard workflow.
+
+**Model:** Seedance 2.5
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Break the heist into setup, pursuit and countdown beats. Prepare consistent character and briefcase references, then assemble the shots into a short thriller.
+
+**Shared by:** [Hope Ai](<https://x.com/Hope_Ai01>)
+
+[Original post on X](<https://x.com/Hope_Ai01/status/2104214749609439444>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#train-heist-countdown-thriller>)
+
+<a id="magic-touch-street-vlog"></a>
+
+## A Street Vlog Where Every Touch Changes an Object
+
+[![A Street Vlog Where Every Touch Changes an Object — Seedance 2.5 video cover](<https://pbs.twimg.com/amplify_video_thumb/2106952561882542080/img/i3qSeJ6tDFSwO6XZ.jpg>)](<https://x.com/hey_am_cherry/status/2106952629440204961>)
+
+A handheld street vlog turns a puddle, mailbox, tree, umbrella and wall into simple magical surprises with a timed public prompt.
+
+**Model:** Seedance 2.5
+
+### Video prompt · `en`
+
+```text
+Create a realistic handheld smartphone street vlog. An ordinary person walks through a normal city street and discovers that touching certain everyday objects causes a simple magical transformation.
+
+The video should feel like a real person accidentally capturing something impossible on their phone.
+
+[VISUAL STYLE]
+Real smartphone footage.
+Natural daylight, real street textures, ordinary pedestrians in the background.
+Raw handheld movement, slight camera shake, autofocus shifts and imperfect framing.
+The magic is bold and instantly visible, but extremely clean.
+No cinematic commercial look.
+
+[CORE MAGIC RULE]
+
+The vlogger touches an ordinary object with their hand.
+
+A brief white flash happens.
+
+The SAME object instantly changes into one simple magical version.
+
+The object never disappears, duplicates or changes location.
+
+After each transformation, the vlogger immediately moves toward the next object.
+
+No complicated morphing.
+
+[00:00–00:03]
+
+The vlogger walks past a small ordinary puddle.
+
+Their hand briefly touches the surface.
+
+FLASH.
+
+The puddle instantly becomes a perfectly clear miniature ocean.
+
+Tiny realistic waves move across the SAME puddle while the surrounding pavement stays completely normal.
+
+The vlogger quickly pulls their hand back in surprise.
+
+[00:03–00:06]
+
+The camera swings toward a normal red mailbox.
+
+The vlogger touches it.
+
+FLASH.
+
+The mailbox instantly becomes completely covered in bright glowing red flowers.
+
+The flowers remain attached to the mailbox and gently move in the breeze.
+
+The vlogger keeps walking.
+
+[00:06–00:09]
+
+The camera turns toward an ordinary street tree.
+
+The vlogger touches one branch.
+
+FLASH.
+
+The entire tree instantly becomes covered in thousands of warm golden lights, like tiny stars attached to the branches.
+
+The tree itself stays completely solid and unchanged.
+
+A passerby briefly looks at it.
+
+[00:09–00:12]
+
+The vlogger notices a normal white umbrella leaning against a wall.
+
+They touch the umbrella handle.
+
+FLASH.
+
+The umbrella instantly opens by itself.
+
+Its inside becomes a beautiful deep-blue night sky filled with a few bright stars.
+
+The umbrella remains physically normal and stable.
+
+[00:12–00:15]
+
+The vlogger looks around, realizing everything they touch changes.
+
+They slowly place their hand against a plain concrete wall.
+
+FLASH.
+
+The entire wall instantly becomes a giant doorway filled with warm golden sunlight.
+
+The vlogger takes one small step toward it.
+
+CUT TO BLACK.
+
+[SOUND]
+
+Real street ambience throughout.
+
+Each transformation has one clean flash sound followed by a short magical impact.
+
+No loud cinematic music.
+No dialogue.
+No narrator.
+
+[ANTI-SLOP]
+
+Keep every transformation extremely simple.
+
+No human transformations.
+No face changes.
+No floating people.
+No complex particles.
+No smoke.
+No liquid explosions.
+No melting geometry.
+No duplicated objects.
+No extra limbs or fingers.
+No warped architecture.
+No changing background.
+No random magical effects.
+
+Maintain the exact same object position, size and perspective before and after every transformation.
+
+The magic should look like a clean practical effect happening inside a real smartphone video.
+
+The final wall transformation is the biggest visual payoff.
+
+PRIORITY:
+REALISM > CLEAN GEOMETRY > CLEAR MAGIC > SPECTACLE.
+```
+
+### How to adapt it
+
+Replace the street objects while preserving the touch, flash and transformation rhythm. Keep each object fixed in position and reserve the largest reveal for the end.
+
+**Shared by:** [Cherry](<https://x.com/hey_am_cherry>)
+
+[Original post on X](<https://x.com/hey_am_cherry/status/2106952629440204961>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#magic-touch-street-vlog>)
+
+<a id="woodland-otters-blue-berry"></a>
+
+## Two Woodland Otters Chase a Shiny Blue Berry Together
+
+[![Two Woodland Otters Chase a Shiny Blue Berry Together — Seedance 2.5 video cover](<https://pbs.twimg.com/amplify_video_thumb/2106198321689976833/img/0FVIL6MlJgFUsiBq.jpg>)](<https://x.com/Zarnab_with_Ai/status/2106198477533544868>)
+
+A public multi-scene prompt follows two baby otter-like creatures through a meadow adventure centered on a rolling blue berry.
+
+**Model:** Seedance 2.5
+
+### Video prompt · `en`
+
+```text
+Create a high-quality cinematic 3D animated short film featuring adorable, stylized baby otter-like woodland creatures in a beautiful sunny meadow.
+
+Scene 1: A cute brown baby otter stands in a lush green meadow, happily holding a large shiny blue berry with both paws. It has soft brown fur, a round chubby body, huge glossy black eyes, rosy cheeks, and a tiny dark scarf around its neck. The character looks innocent and curious. Warm morning sunlight, soft grass, rolling green hills, tall trees, blue sky, cinematic depth of field.
+
+Scene 2: The blue berry slips from the otter's paws and rolls quickly down a gentle grassy slope. The little brown otter runs after it, trying desperately to catch it. The camera follows the rolling berry with a smooth dynamic tracking shot while the otter runs behind it.
+
+Scene 3: The berry rolls toward a large hollow fallen tree trunk lying in the meadow and stops near its entrance. The brown otter reaches the tree and looks around curiously, wondering where the berry went.
+
+Scene 4: The camera moves upward through the surrounding trees toward the bright sunlight shining through the leaves. A magical, peaceful atmosphere fills the scene with glowing sun rays, floating dust particles, and gentle wind moving the leaves.
+
+Scene 5: A second adorable baby otter appears — smaller and gray-colored, with soft gray fur, a round chubby body, huge expressive black eyes, rosy cheeks, and an innocent expression. It comes out near the fallen tree and notices the brown otter.
+
+Scene 6: The gray otter and brown otter interact playfully near the hollow tree. They look at each other with curiosity and surprise, then move around the tree together. Keep their character designs consistent throughout the entire video.
+
+Scene 7: The gray otter climbs onto a nearby tree branch and looks around. The camera follows from behind and slightly below, showing the bright green forest canopy and warm sunlight filtering through the leaves.
+
+Scene 8: The gray otter rests against a large moss-covered rock, looking sleepy and exhausted. Its eyes become heavy as it relaxes in the warm sunlight.
+
+Scene 9: The gray otter suddenly notices the shiny blue berry again. The camera cuts to a close-up as it happily picks up the berry with both paws. Its huge eyes sparkle with excitement.
+
+Scene 10: The gray otter proudly holds the blue berry close to its face and smiles innocently. The brown otter approaches from behind.
+
+Final scene: The brown otter gently jumps onto the gray otter in a playful, affectionate hug. They tumble softly onto the grass together beside the blue berry, laughing and cuddling. Tiny glowing sparkles appear around them as they lie peacefully in the meadow.
+
+Visual style: premium cinematic 3D animation, adorable family-friendly characters, soft detailed fur, expressive oversized eyes, rounded proportions, vibrant natural environment, warm golden sunlight, volumetric lighting, soft shadows, realistic grass and foliage, beautiful depth of field, smooth character animation, polished feature-film quality, gentle camera movements, emotionally expressive faces, whimsical magical atmosphere.
+
+Maintain consistent character appearance, fur color, facial features, body proportions, scarf, and environment throughout all scenes. No text, no subtitles, no watermark, no distorted anatomy, no extra limbs, no flickering, no character deformation.
+```
+
+### How to adapt it
+
+Keep the brown and gray characters distinct and the berry easy to track. Plan each story beat separately and maintain the same fur, scarf and meadow details.
+
+**Shared by:** [Zarnab Ai](<https://x.com/Zarnab_with_Ai>)
+
+[Original post on X](<https://x.com/Zarnab_with_Ai/status/2106198477533544868>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#woodland-otters-blue-berry>)
 
 ## Attribution and corrections
 
