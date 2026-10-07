@@ -5,7 +5,7 @@ A curated collection of Seedance 2.5 videos from creators, with original sources
 
 **[Browse the visual gallery](<https://seeora.app/seedance-prompts>)**
 
-The collection currently contains **32 verified examples**, with sources reviewed through **2026-10-06**.
+The collection currently contains **37 verified examples**, with sources reviewed through **2026-10-07**.
 
 <a id="race-for-agi-desert-chase"></a>
 
@@ -1556,6 +1556,139 @@ Keep the brown and gray characters distinct and the berry easy to track. Plan ea
 **Shared by:** [Zarnab Ai](<https://x.com/Zarnab_with_Ai>)
 
 [Original post on X](<https://x.com/Zarnab_with_Ai/status/2106198477533544868>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#woodland-otters-blue-berry>)
+
+<a id="blender-mech-pilot-anime-sequence"></a>
+
+## A Retro Mech Pilot Animated From Blender Previs
+
+[![A Retro Mech Pilot Animated From Blender Previs — Seedance 2.5 result preview](<https://pbs.twimg.com/amplify_video_thumb/2107142620606570497/img/FGv4BQoDa_uoOvfJ.jpg>)](<https://x.com/emmanuel_2m/status/2107142680782438466>)
+
+A retro anime pilot-and-mech sequence pairs Blender shot blockouts with generated character designs and Seedance animation.
+
+**Model:** Seedance 2.5
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Block out each camera move in 3D, prepare a consistent pilot and mech reference, and use the previs to guide animation before adding a separate score.
+
+**Shared by:** [Emm | scenario.com](<https://x.com/emmanuel_2m>)
+
+[Original post on X](<https://x.com/emmanuel_2m/status/2107142680782438466>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#blender-mech-pilot-anime-sequence>)
+
+<a id="anime-sword-letterbox-pop-out"></a>
+
+## An Anime Sword Thrust Breaks the Letterbox Frame
+
+[![An Anime Sword Thrust Breaks the Letterbox Frame — Seedance 2.5 result preview](<https://pbs.twimg.com/amplify_video_thumb/2105936068163911680/img/SRYcHwyCQXfnjuUq.jpg>)](<https://x.com/aimikoda/status/2105936414185562299>)
+
+An anime sword thrust reaches beyond a narrow letterbox composition, turning the black bars into part of the action.
+
+**Model:** Seedance 2.5
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Stage the character within a narrow frame and plan which foreground action crosses its boundary. Use the original video as an effect reference; no creator prompt is available.
+
+**Shared by:** [Kōda](<https://x.com/aimikoda>)
+
+[Original post on X](<https://x.com/aimikoda/status/2105936414185562299>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#anime-sword-letterbox-pop-out>)
+
+<a id="starry-night-painted-world-fly-through"></a>
+
+## Flying Through a Painted Starry Night Village
+
+[![Flying Through a Painted Starry Night Village — Seedance 2.5 result preview](<https://pbs.twimg.com/amplify_video_thumb/2107073514826235904/img/hsCSCSCZPxkakWNY.jpg>)](<https://x.com/EHuanglu/status/2107073547701289211>)
+
+A gliding camera enters a brushstroke-built village and swirling night sky inspired by Van Gogh’s The Starry Night.
+
+**Model:** Seedance 2.5
+
+### Public Filmera template — GEN 1 T3 · `en`
+
+```text
+[GEN 1 — STARRY NIGHT — 3D FLY-THROUGH ONER]
+[GLOBAL] A single continuous 26-second long take with ZERO cuts, one unbroken camera move from the first frame to the last. LOOK: the whole world is a three-dimensional space built from thick raised impasto oil paint in the post-impressionist manner of Vincent van Gogh; every road, wall, roof, tree, hill and patch of sky is made of visible rhythmic brushstrokes that follow the shapes of the objects, with real paint depth, ridges catching the light, and the strokes of the sky slowly flowing and swirling like wet paint in motion; cobalt and ultramarine blues against chrome yellow and warm ochre; never smooth CGI, never plastic. CAMERA: a smooth gliding first-person camera, continuous and weightless, gentle motion blur on fast moves, never shaky. VILLAGE: the night street of the small village, the stone walls, the houses with glowing yellow windows and the church with the tall slender pale blue-grey spire (match @Image1 exactly). PAINTING: the oil painting The Starry Night, with the tall dark flame-shaped cypress in the left foreground, the village and the church spire low in the valley right of centre, the rolling blue hills, the swirling sky with eleven glowing star halos and the crescent moon at the upper right (match @Image2 exactly). FINAL FRAME: @Image2 is also the exact closing image, shown as the whole painting in a simple dark wooden frame hanging centred on a dark charcoal-grey gallery wall, the frame filling about seventy percent of the frame height, one soft museum spotlight from above. SOUND: no music of any kind. Only natural sound: soft night wind throughout, rising as the camera climbs into the sky, a faint swish of brushstrokes whenever the camera passes close through paint, a dense rustling rush inside the cypress, and from 00:18 near silence, just a quiet gallery room tone. No on-screen text, captions, logos or writing anywhere. No background music.
+
+
+Shot 1 — ONE CONTINUOUS MOVE: At 00:00 the camera glides forward at ground level down the painted dirt road between the low stone walls of the VILLAGE, the road's brushstrokes streaming past below the lens, the church spire small and glowing ahead. From 00:03 to 00:05 the camera speeds up down the village street, the houses with glowing yellow windows sliding past on both sides, heading straight for the church spire. From 00:05 to 00:10 the camera sweeps up the side of the spire, clears the tip and keeps rising and tilting up into the open sky, the village dropping away below, into the swirling blue spirals, passing between the glowing yellow star halos, the crescent moon blazing at the upper right. From 00:10 to 00:14 the camera banks left and dives toward the huge dark green and black cypress rising like a flame on the left, and plunges straight into the cypress, the dark green and black brushstrokes rushing past and filling the whole frame. From 00:14 to 00:18 the camera pulls straight backward out of the cypress without stopping, and as the camera keeps pulling back the whole world flattens into a painted canvas: the cypress on the left, the village and the spire low in the valley, the swirling sky and the moon all settle into the exact composition of @Image2, then the edges of the canvas and a dark wooden frame come into view, then the dark charcoal-grey gallery wall around the frame. From 00:18 to 00:26 the camera comes to rest and holds completely still on the framed painting centred on the gallery wall under the soft spotlight, matching @Image2 exactly inside the frame; nothing in the painting moves, only the spotlight glints softly on the raised ridges of paint. Hold to the end. End.
+```
+
+### How to adapt it
+
+Replace the village and painting references together, then align the camera path and final composition with the new artwork. The published GEN 1 template uses @Image1 and @Image2.
+
+**Shared by:** [el.cine](<https://x.com/EHuanglu>)
+
+[Original post on X](<https://x.com/EHuanglu/status/2107073547701289211>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#starry-night-painted-world-fly-through>)
+
+<a id="ink-gold-martial-arts-painting-realm"></a>
+
+## Ink-and-Gold Action Turns a World Into a Painting
+
+[![Ink-and-Gold Action Turns a World Into a Painting — Seedance 2.5 result preview](<https://pbs.twimg.com/amplify_video_thumb/2105841042855731200/img/8WH_yWjualafm6xg.jpg>)](<https://x.com/AIwithJessica/status/2105841226817933688>)
+
+A black-clad character’s timed movements unleash ink, water and gold effects before the scene becomes a Chinese landscape painting.
+
+**Model:** Seedance 2.5
+
+### Video prompt · `en`
+
+```text
+Background
+
+Vast minimalist gray-white space, pale blue-gray sky fading into mist, huge light stone floor. Only mist, dust, debris, and a few broken stone pillars. No distracting architecture.
+
+Timeline
+0-2.5s | Ink Step: Very low rear-side camera, 24mm. She walks slowly, head lowered. At 0.7s her right foot taps the ground: light impact frame, black ink circle with fine gold cracks spreads. She then becomes a streak of ink, changing direction three times (left, right, up), each leaving an angular calligraphy stroke.
+2.5-6s | Water Mirror Compression: Camera circles as she stops, time ramp 300% to 25%. She spreads her right hand and ink-tinted water cubes appear. Camera passes through them, then she closes her hand and they compress and crush a stone pillar into dust. Heavy impact treatment.
+6-9s | Ink Palm: Body rotation, 3/4 camera. Air collapses into a tiny ink core at her palm (6.8s). She flicks her fingers (7.3s) and a black-and-gold ink pressure wave erupts, pressing the floor into a huge circular depression. Heavy impact.
+9-12.5s | Returning Ink Slash: She leans back nearly falling, pivots on her left foot, and performs a fast spinning back kick. A thin black-and-gold cutting line shoots forward. After 0.3s, three pillars split apart and slide down. Restrained destruction.
+12.5-16s | Ink-Water Meteor: She jumps, water droplets rise, skirt expands. At 13.8s everything freezes, time drops to 15%. At 14.2s she closes her palm and the floor collapses in a circular dark-gold crack with black ink erupting. Camera drops with slight fisheye.
+16-20s | Ink Lotus: She hovers 30 cm above the ground, camera orbits 270°. Water mist, ink strokes, gold lines, and giant brush-painted lotus petals form in layers. Stones float upward.
+20-23.5s | Five Elements Turbulence: Fastest section. She opens her eyes and vanishes. FPV chase: stomp, jump, spin, wall landing, rebound, descent. Water as flowing transparent water, Wood as branch-like ink strokes, Fire as golden burning-paper edges, Metal as dark-gold crack lines, Earth as dust and ink spinning. All in one ink-wash language.
+23.5-30s | Ultimate, Ink Realm: Heaven and Earth: She stops 0.5m above the ground, time freezes, she raises one finger. At 25s she points down: full-screen impact frame (0.15s freeze), negative, white flash, fisheye, then ink, water, and gold shockwaves merge. From 26-28s the world becomes a giant Chinese landscape painting as camera pulls back to extreme wide. At 28-29.2s all energy returns to her and it goes quiet. Final shot: low rear camera echoing the opening, she walks on, one thin ink mark behind her shoe, wind lifts her hair and skirt. Cut to black.
+Camera
+Fast rhythm. Low ground angles, rear-side tracking, orbits, FPV passes, whip pans, rack focus, extreme close-ups to ultra-wide. Mostly profile, back, or 3/4 view. Strong motion blur, ink speed lines, time ramps (100% to 250% to 30% to 300%). Freeze frames and ink impact frames at key hits.
+Style
+Palette: gray-white, black, dark ink-gold, with live-action cinematic texture. Every impact frame flips briefly to pure black and white (gold becomes white), then returns. Abilities look like Chinese ink painting invading the 3D world: splashing ink, dry-brush marks, rice-paper diffusion, no glowing orbs or generic VFX. Black ink dominant, dark gold as the energy core. Motion trails are rough dry-brush silhouettes and ink speed lines.
+Light impact: B&W frame, 0.05s skip, local negative, small shake.
+Heavy impact: radial frame, 0.1s skip, central negative, camera drop and recoil, three-layer ink explosion.
+Ultimate: full-screen frame, 0.15s freeze, negative, white flash, fisheye, three shockwaves (ink, water, gold).
+Audio
+Sharp tap at 0.7s. Silence at 13.8s, heavy boom at 14.2s. Quiet from 23.5-24.5s and again 28-29.2s.
+```
+
+### How to adapt it
+
+Prepare a consistent character sheet, then replace the movement timeline and ink effects while preserving the camera, palette and audio cues that connect the sequence.
+
+**Shared by:** [Jessica Collins](<https://x.com/AIwithJessica>)
+
+[Original post on X](<https://x.com/AIwithJessica/status/2105841226817933688>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#ink-gold-martial-arts-painting-realm>)
+
+<a id="threejs-mechanical-puppet-circus-previs"></a>
+
+## A Mechanical Puppet Circus Guided by a 3D Sandbox
+
+[![A Mechanical Puppet Circus Guided by a 3D Sandbox — Seedance 2.5 result preview](<https://pbs.twimg.com/amplify_video_thumb/2104508943276052480/img/uvKzBDi-38CVLQy5.jpg>)](<https://x.com/akakuma0219/status/2104509288354058399>)
+
+A browser-based 3D circus provides camera moves and previs for a cinematic performance by discarded mechanical puppets.
+
+**Model:** Seedance 2.5
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Build the stage and performances in a 3D sandbox, export camera and action references, and prepare the opening illustration and voice before animating the planned shots.
+
+**Shared by:** [あかくま屋](<https://x.com/akakuma0219>)
+
+[Original post on X](<https://x.com/akakuma0219/status/2104509288354058399>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#threejs-mechanical-puppet-circus-previs>)
 
 ## Attribution and corrections
 
