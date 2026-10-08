@@ -5,7 +5,7 @@ A curated collection of Seedance 2.5 videos from creators, with original sources
 
 **[Browse the visual gallery](<https://seeora.app/seedance-prompts>)**
 
-The collection currently contains **37 verified examples**, with sources reviewed through **2026-10-07**.
+The collection currently contains **42 verified examples**, with sources reviewed through **2026-10-08**.
 
 <a id="race-for-agi-desert-chase"></a>
 
@@ -1689,6 +1689,212 @@ Build the stage and performances in a 3D sandbox, export camera and action refer
 **Shared by:** [あかくま屋](<https://x.com/akakuma0219>)
 
 [Original post on X](<https://x.com/akakuma0219/status/2104509288354058399>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#threejs-mechanical-puppet-circus-previs>)
+
+<a id="bean-vs-master-london-comedy"></a>
+
+## Mr Bean Meets Jackie Chan in a London Street Fight
+
+[![Mr Bean Meets Jackie Chan in a London Street Fight](<https://pbs.twimg.com/media/HUBkMseXEAANhrw.jpg>)](<https://x.com/TechieBySA/status/2107794850187784450>)
+
+An anime comedy escalates a London street fight through marbles, a party horn, a turkey and an inflatable hammer.
+
+**Model:** Seedance 2.5
+
+### GPT Image 2.5 character-sheet preparation prompt · `en`
+
+```text
+Create a premium cinematic character bible sheet for MR BEAN & JACKIE CHAN. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance.
+LAYOUT: Split screen VS format. Two halves divided by a bold dramatic dividing element in the center.
+LEFT SIDE — MR BEAN: Bold dramatic bright red watercolor splash radiating behind him filling the entire left side. Large bold brushstroke text MR BEAN top left in bright red. Below small text: THE LEGEND / LONDON. One massive dramatic cropped hero image of Mr Bean from mid-thigh up — brown tweed jacket, bright red tie, giant inflatable hammer in one hand, small stuffed toy under the other arm, completely calm and unbothered expression.
+CENTER: Bold dramatic VS in deep gold. Below it small text: LONDON STREET / MIDDAY / NO RULES.
+RIGHT SIDE — JACKIE CHAN: Bold dramatic deep gold watercolor splash radiating behind him filling the entire right side. Large bold brushstroke text JACKIE CHAN top right in deep gold. Below small text: THE MASTER / HONG KONG. One massive dramatic cropped hero image of Jackie Chan from mid-thigh up — white tank top, black baggy trousers, rubbish bin lid in one hand, wide grin, expressive and ready.
+BOTTOM CENTER: Bold text THE BEAN VS THE MASTER in deep gold. Tagline: ONE USES EVERYTHING AROUND HIM. ONE USES EVERYTHING IN HIS JACKET.
+OVERALL: Clean white background, bold dramatic bright red watercolor explosion left side, bold dramatic deep gold watercolor explosion right side, dramatic gold center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
+```
+
+### Seedance 2.5 video prompt · `en`
+
+```text
+Cinematic anime clip, 20 seconds. Narrow London street at midday — bright clear sunshine, warm golden daylight, brick walls, lamp posts, rubbish bins, newspaper stands, parked cars.
+MAIN CHARACTER 1 — ATHLETIC ASIAN MALE IN WHITE TANK TOP: Use uploaded character sheet. Always attacking, never pausing, reacts big to everything.
+MAIN CHARACTER 2 — AWKWARD MALE IN BROWN TWEED JACKET WITH RED TIE: Use uploaded character sheet. Completely calm, never scared, never knows he's in a fight, every item pulled out mid attack.
+0:00–0:02 — Main character 1 charging with rubbish bin lid. Main character 2 dropping marbles casually. Main character 1 hitting them at full sprint — sliding violently into a parked car. 0:02–0:04 — Main character 1 grabbing traffic cone launching fastest combination. Main character 2 blowing party horn directly in his ear mid combination. Everything going off course. Main character 1 standing completely still eyes wide. 0:04–0:06 — Main character 1 swinging around lamp post launching flying kick. Main character 2 stepping aside to look at shop window at exact moment. Kick flying past completely. Main character 2 face pressed against glass unbothered. 0:06–0:08 — Main character 1 grabbing newspaper stand charging. Main character 2 pulling out enormous raw turkey. Main character 1's combination connecting with the turkey instead of main character 2. Main character 1 completely stunned. 0:08–0:10 — Main character 1 grabbing main character 2's collar furiously — SNAP. Mousetrap on both fingers from inside the jacket. Releasing instantly shaking hands in agony. 0:10–0:14 — Main character 1 charging one final time. Main character 2 pulling out deflated giant inflatable hammer inflating it slowly. Main character 1 slowing stopping staring confused. Hammer fully inflated. Main character 2 swinging it connecting perfectly. Main character 1 lifted completely off his feet landing flat on his back. 0:14–0:18 — Close up on main character 1 on the ground staring at the sky. Expression of a man who has never lost to an inflatable anything. Main character 2 placing small stuffed toy gently on his chest. 0:18–0:20 — Wide from above. Main character 2 walking away adjusting his tie. Main character 1 flat on the ground stuffed toy on his chest marbles scattered around him.
+Cel-shaded 3D anime, Unreal Engine quality, narrow London street midday bright sunshine throughout, bold flat color blocking, hard edge shadows, thick black outlines, film grain, orchestral score switching between action and comedy every impact hard every item silly sound effect building to inflatable hammer finale, camera switching constantly — never same angle twice — main character 1 always attacking never pausing, main character 2 always calm never scared, comedy escalating from frame one to last frame.
+```
+
+### How to adapt it
+
+Replace the characters and reference sheet with your own duo. Preserve the timed escalation and contrast a frantic attacker with a calm comic foil.
+
+**Shared by:** [TechieSA](<https://x.com/TechieBySA>)
+
+[Original post on X](<https://x.com/TechieBySA/status/2107794850187784450>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#bean-vs-master-london-comedy>)
+
+<a id="regret-family-animation-short"></a>
+
+## Regret: An Animated Reminder to Love Your Family
+
+[![Regret: An Animated Reminder to Love Your Family](<https://pbs.twimg.com/amplify_video_thumb/2106647014872399872/img/d5uh8ViAuI_RTEGF.jpg>)](<https://x.com/keneth_ai/status/2106647691593994376>)
+
+A family-themed animated short uses Seedance 2.5 to tell a story about regret and appreciating loved ones.
+
+**Model:** Seedance 2.5
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Plan a short emotional arc before generating individual shots. Keep family characters consistent and assemble the scenes around one clear turning point.
+
+**Shared by:** [Keneth Tran | AI Animation](<https://x.com/keneth_ai>)
+
+[Original post on X](<https://x.com/keneth_ai/status/2106647691593994376>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#regret-family-animation-short>)
+
+<a id="seoul-rooftop-agent-mission"></a>
+
+## An Elite Agent Races Across the Rooftops of Seoul
+
+[![An Elite Agent Races Across the Rooftops of Seoul](<https://pbs.twimg.com/amplify_video_thumb/2104213643445567488/img/x66yaCKhvUqoMBsT.jpg>)](<https://x.com/navi_Ai2/status/2104215317400690890>)
+
+A rooftop action short follows an elite agent through a high-stakes mission, made with a storyboard and script-to-video workflow.
+
+**Model:** Seedance 2.5
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Map the rooftop geography in a storyboard. Reuse character and location references across the chase, then edit individual shots into a coherent mission.
+
+**Shared by:** [𝐍𝐚𝐯𝐞𝐞 𝐀𝐢](<https://x.com/navi_Ai2>)
+
+[Original post on X](<https://x.com/navi_Ai2/status/2104215317400690890>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#seoul-rooftop-agent-mission>)
+
+<a id="midjourney-space-battle"></a>
+
+## A Space Battle Built With Midjourney and Seedance 2.5
+
+[![A Space Battle Built With Midjourney and Seedance 2.5](<https://pbs.twimg.com/amplify_video_thumb/2105061354172465152/img/BIIfzdyUkWJBS4rE.jpg>)](<https://x.com/ojiji2025/status/2105061466319773783>)
+
+A science-fiction battle pairs Midjourney imagery with Seedance 2.5, showing a warship amid explosions and debris.
+
+**Model:** Seedance 2.5
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Prepare a consistent ship and environment reference, then focus each shot on one movement and a clear foreground-to-background depth relationship.
+
+**Shared by:** [ojiji](<https://x.com/ojiji2025>)
+
+[Original post on X](<https://x.com/ojiji2025/status/2105061466319773783>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#midjourney-space-battle>)
+
+<a id="headphones-bedroom-levitation"></a>
+
+## Headphones Turn a Quiet Bedroom Into a Levitation Scene
+
+[![Headphones Turn a Quiet Bedroom Into a Levitation Scene](<https://pbs.twimg.com/amplify_video_thumb/2106215979479158784/img/NIrkUWbzY3flu6IL.jpg>)](<https://x.com/AIwithJessica/status/2106220047995900155>)
+
+A timed five-shot scene moves from a stuck doorknob to a woman floating above her bed, ending with an overhead close-up.
+
+**Model:** Seedance 2.5
+
+### Video prompt from the author reply · `en`
+
+```text
+3. Final 15-second video prompt (everything merged, no extra references needed)
+
+REFERENCE: @img1 = main character's face and look (use the close-up for her face). The friend, bedroom, and door are described fully in this prompt, so no other images are required.
+
+SCENE CONTEXT
+Night. A young woman is so lost in the music in her headphones that she floats off her bed. Her friend opens the stuck bedroom door and freezes in shock. Dreamy, surreal, weightless.
+
+CHARACTERS
+
+Main character (@img1): A young woman in her mid-20s with a soft round face, fair freckled skin, rosy cheeks, green-hazel eyes, and glossy nude-pink lips. She has a small gold nose ring and a thin gold necklace with a red cherry pendant. Her long soft-wavy caramel-brown hair has a center part and blue-grey face-framing streaks. She wears an oversized cream knit sweater with sage-green stripes, loose light-blue jeans, and over-ear headphones. She is barefoot. Her face 100% matches @img1.
+Friend: A young woman in her mid-20s with an oval face, sun-kissed skin with visible pores and light freckles, light blue eyes, and slightly uneven natural brows. She has minimal makeup, a soft nude lip, and long wavy golden-blonde hair with darker roots and flyaway strands. She looks real and approachable. She wears a black crop top, a light-wash denim jacket, high-waisted black jeans, and white sneakers. She speaks with a casual, upbeat young American voice.
+
+LOCATION: THE BEDROOM
+A typical American bedroom for a young woman in her 20s, medium-to-large but cozy and lived-in. A queen bed with rumpled white sheets and a soft beige throw sits in the center, with open floor on both sides. A wooden nightstand with a small warm lamp stands at the head of the bed, and warm fairy lights are strung on the wall above it. A window with sheer curtains lets in cool blue moonlight. There are a few framed prints and posters, a small desk with a mirror, a plant, a rug, wooden floors, and clothes draped on a chair. It is nighttime and moody but readable, with gentle shadows and no crushed blacks.
+
+LOCATION: THE DOOR AND HALLWAY
+A closed white wooden panel door with a round brass handle, set in a white frame on a plain wall that matches the room. A light switch is beside the door, and a small hook holds a tote bag. A thin line of warm hallway light glows under and around the door. Beyond it is a narrow hallway with beige walls and a warm ceiling light. The door side of the room is dark and low-key, lit only by a faint warm 2700K glow from the bedside lamp and a faint cool blue moonlight tint.
+
+FIRST FRAME
+Extreme close-up of the round brass doorknob, with the white door panel soft behind it and a thin line of warm hallway light along the edge.
+
+FORMAT MODE
+Timed multishot, 5 cuts. Cuts only at the specified points, and the camera does not cut on its own.
+
+OPTICS
+
+0.0–2.5s: ECU, 12°
+2.5–4.5s: CU, 29°
+4.5–9.0s: WS, 47°
+9.0–12.0s: MS, 47°
+12.0–15.0s: tight CU, 29°
+
+No drift mid-segment.
+
+CAMERA
+
+Cuts 1 and 2: locked off inside the bedroom, facing the door.
+Cut 3: low angle from the foot of the bed with a slow, smooth glide, ending slightly looking up at her.
+Cuts 4 and 5: locked top-down, straight overhead.
+
+ACTION
+
+0.0–2.5s, CUT 1: Extreme close-up of the brass doorknob. It turns halfway and catches, jiggles twice, then rattles harder as the door thumps in its frame. A muffled voice calls through the door: "Hey, you in there?" The latch clicks, and the door swings open quickly as warm hallway light sweeps across the frame.
+2.5s HARD CUT
+2.5–4.5s, CUT 2: Close-up of the friend's face in the open doorway, with the lit hallway soft behind her and a few strands of hair out of place. Her casual expression drops instantly: her jaw falls open, her eyes widen, her brows shoot up, and she stops breathing. She stares slightly past the camera at something above the bed.
+4.5s HARD CUT
+4.5–9.0s, CUT 3: Wide, low side angle on the bed. The main character lies flat on her back on the rumpled sheets, eyes closed, headphones on, hair spread on the pillow, one finger tapping softly on the sheet. Her body lifts off the mattress, perfectly horizontal and slow, as if the music is carrying her. The sheets rise slightly and settle. She ends up floating about one meter above the bed, eyes closed, with a faint smile.
+9.0s HARD CUT
+9.0–12.0s, CUT 4: Top-down medium shot from head to waist. Her eyes snap open. She rises slowly toward the camera, arms stiff and slightly out from her sides, fingers spread, chest heaving. The bed is visible far below and growing more distant.
+12.0s HARD CUT
+12.0–15.0s, CUT 5: Top-down tight close-up, her face nearly filling the frame as she nears the ceiling. Her eyes are wide, her lips parted, and her breathing is rapid and shallow with flaring nostrils. Her brows are raised and pulled together, and her jaw trembles slightly.
+
+PERFORMANCE
+
+Friend: casual impatience, then silent, total shock with her mouth hanging wide open and a tiny chin tremble.
+Main character: peaceful and serene with eyes closed, then silent panic once her eyes open.
+Natural human eyes with matte, realistic irises, soft wet shine, and one small soft reflection in each eye. Pore-level skin realism with visible freckles on both.
+
+PHYSICS
+
+The stuck knob rattles with small metallic jolts, and the door shudders, then swings free with momentum.
+The floating woman is weightless, but her hair and blue-grey streaks hang down with gravity and sway slowly. Her sweater hem and jeans drape downward, and her headphones stay firmly on her head.
+
+LIGHTING
+
+Dark, low-key, and cinematic, with soft shadows and no crushed blacks.
+Hallway light rims the friend's hair and shoulders from behind. Her face is lit by a dim warm 2700K lamp glow and a faint cool blue tint.
+Warm lamp glow and fairy-light sparkles light the floating woman from below and the side, with cool blue moonlight outlining her from the other side. Faces are always readable.
+
+AUDIO
+Knob rattling, door thumping, the muffled line "Hey, you in there?", the latch clicking, and the door swinging open. Then near silence with soft room tone and a faint rustle of sheets as she lifts. In the last cut, her hard, shaky breathing is close and loud. No music.
+
+STYLE
+Photoreal, cinematic, dreamy and surreal, fine film grain, soft highlight roll-off.
+
+OUTPUT SETTINGS
+4:3 aspect ratio, real-time, 15 seconds.
+
+POSITIVE LOCKS
+
+The friend appears only in cuts 1 and 2. Her only words are "Hey, you in there?", heard muffled before the door opens, and she is silent in the close-up with her mouth wide open.
+The main character is the only person in cuts 3 to 5 and says nothing. She floats face up in every cut with her headphones on the whole time.
+Her face matches @img1 exactly, including the blue-grey face-framing streaks, nose ring, and cherry necklace. The friend's look and the bedroom stay consistent in every cut.
+```
+
+### How to adapt it
+
+Replace @img1 with your character reference and update the matching appearance details. Preserve the five timed cuts, lighting continuity and shift from calm to panic.
+
+**Shared by:** [Jessica Collins](<https://x.com/AIwithJessica>)
+
+[Original post on X](<https://x.com/AIwithJessica/status/2106220047995900155>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#headphones-bedroom-levitation>)
 
 ## Attribution and corrections
 
