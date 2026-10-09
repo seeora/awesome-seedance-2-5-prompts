@@ -5,7 +5,7 @@ A curated collection of Seedance 2.5 videos from creators, with original sources
 
 **[Browse the visual gallery](<https://seeora.app/seedance-prompts>)**
 
-The collection currently contains **42 verified examples**, with sources reviewed through **2026-10-08**.
+The collection currently contains **47 verified examples**, with sources reviewed through **2026-10-09**.
 
 <a id="race-for-agi-desert-chase"></a>
 
@@ -1895,6 +1895,298 @@ Replace @img1 with your character reference and update the matching appearance d
 **Shared by:** [Jessica Collins](<https://x.com/AIwithJessica>)
 
 [Original post on X](<https://x.com/AIwithJessica/status/2106220047995900155>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#headphones-bedroom-levitation>)
+
+<a id="depth-map-hand-wave-dance"></a>
+
+## A Depth Map Transfers a Hand-Wave Dance to a New Character
+
+[![A Depth Map Transfers a Hand-Wave Dance to a New Character](<https://pbs.twimg.com/amplify_video_thumb/2107141976227504128/img/CTw06ZriTtMOpT-u.jpg>)](<https://x.com/ZetoGroovin/status/2107236892517552267>)
+
+A dancer turns a phone recording into a depth-map reference, transferring arm motion to a character in a dark club.
+
+**Model:** Seedance 2.5
+
+### Video prompt from the author post · `ja`
+
+```text
+体の動きはVideo1を厳格に参照、顔や体はキャラクターシートのImage1 を必ず絶対参照する。カメラは固定、背景は暗めのクラブ、曲はゆったりしたダークなR&B。
+```
+
+### How to adapt it
+
+Record a clear movement reference and convert it to a depth map. Pair Video1 with a character sheet in Image1, then preserve the fixed camera and intended music.
+
+**Shared by:** [Zeto](<https://x.com/ZetoGroovin>)
+
+[Original post on X](<https://x.com/ZetoGroovin/status/2107236892517552267>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#depth-map-hand-wave-dance>)
+
+<a id="velora-hidden-chocolate-world"></a>
+
+## VELORA: A Vending Machine Opens a Hidden Chocolate World
+
+[![VELORA: A Vending Machine Opens a Hidden Chocolate World](<https://pbs.twimg.com/amplify_video_thumb/2104438676029870080/img/2ANkpS3aV87CtaCp.jpg>)](<https://x.com/Just_sharon7/status/2104439671875100814>)
+
+A chocolate advertisement follows a coin into a vending machine and reveals an enormous hidden world inside.
+
+**Model:** Seedance 2.5
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Design a clear transition from an everyday object into a miniature world. Build separate shots around the coin, machine interior and product reveal.
+
+**Shared by:** [Sharon Riley](<https://x.com/Just_sharon7>)
+
+[Original post on X](<https://x.com/Just_sharon7/status/2104439671875100814>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#velora-hidden-chocolate-world>)
+
+<a id="tunnel-chase-romantic-memory"></a>
+
+## A Tunnel Chase Match-Cuts Into a Romantic Beach Memory
+
+[![A Tunnel Chase Match-Cuts Into a Romantic Beach Memory](<https://pbs.twimg.com/amplify_video_thumb/2106808100728852480/img/V40Nwoa3vjKbgl-I.jpg>)](<https://x.com/Just_sharon7/status/2106808592523571360>)
+
+A thriller links a frightening tunnel pursuit to a warm beach memory through matching hand gestures and an emotional reunion.
+
+**Model:** Seedance 2.5
+
+### Video prompt from the author post · `en`
+
+```text
+Create a 27-second ultra-realistic cinematic psychological thriller sequence with a dramatic transition between a terrifying present moment and a beautiful romantic memory.
+
+Overall visual style: premium Hollywood psychological thriller, photorealistic live action, realistic skin texture and pores, natural hair movement, believable fabric physics, dramatic practical lighting, shallow depth of field, subtle film grain, anamorphic cinematic composition, realistic motion blur, strong emotional acting. 2.39:1 widescreen. No text, no subtitles, no logos.
+
+CHARACTERS
+
+Woman: Young woman in her mid-20s with long dark-brown hair, expressive brown eyes and natural realistic features. She wears an elegant sleeveless fitted black dress. Keep her face, hairstyle, clothing and body proportions perfectly consistent.
+
+Man: Young man in his late 20s, tall and lean, dark hair, wearing an elegant white dinner jacket, white shirt, black bow tie and black trousers.
+
+In the frightening present-day scenes, the man appears severely transformed: his exposed hand and portions of his skin are dark, charred and corpse-like, with rough burned texture and unnatural gray-black fingers. Keep the effect cinematic rather than excessively graphic.
+
+00:00–00:06 — TERRIFYING CHASE
+
+Open inside a long underground pedestrian tunnel with cold turquoise-green fluorescent lighting, tiled walls, concrete ceiling beams and repeating rectangular ceiling lights disappearing into the distance.
+
+The woman runs desperately toward camera.
+
+Her long hair whips violently behind her. She is breathing hard, terrified and repeatedly looking over her shoulder.
+
+Behind her, the man in the white dinner jacket runs after her.
+
+Use a fast backward tracking camera, staying directly in front of the woman. Alternate briefly between a tight frightened facial close-up and a wider side-tracking shot showing both characters sprinting through the tunnel.
+
+The man stretches one arm toward her.
+
+Cut to an extreme close-up of his horrifying blackened, damaged hand getting closer and closer to her bare shoulder.
+
+Just before his fingers touch her—
+
+00:06–00:12 — MATCH CUT INTO THE MEMORY
+
+Make a seamless visual match cut.
+
+The frightening dark hand instantly becomes the man's normal healthy hand, positioned in exactly the same place.
+
+The cold turquoise tunnel transforms into a beautiful sunset beach.
+
+Warm golden sunlight floods the frame.
+
+The woman is now laughing happily while running barefoot beside the ocean. Her black dress flows naturally in the sea breeze.
+
+The man is completely normal and handsome again, still wearing his elegant white dinner jacket.
+
+He playfully reaches toward her shoulder while chasing her.
+
+She turns around laughing.
+
+They run together along the shoreline, holding hands and smiling.
+
+Golden sun reflects across the ocean behind them. Wind moves their hair and clothing. Their body language shows that this was once a deeply happy relationship.
+
+Use dreamy handheld tracking, warm backlighting, natural lens flare and intimate close-ups.
+
+The sequence should briefly feel like a completely different film: romantic, nostalgic, peaceful and genuinely joyful.
+
+00:12–00:13 — SNAP BACK TO REALITY
+
+Without warning, smash-cut back to the cold underground tunnel.
+
+Same framing.
+
+Same reaching-hand composition.
+
+But his hand is once again dark, damaged and frightening.
+
+All warm colors disappear instantly.
+
+Return to harsh cyan-green fluorescent lighting and deep shadows.
+
+00:13–00:20 — CORNERED
+
+The woman reaches the end/side of the tunnel and backs against the tiled wall.
+
+She has nowhere left to run.
+
+She suddenly pulls out a small black knife and holds it defensively with both hands.
+
+Her hands shake badly.
+
+She is crying, breathing rapidly and staring at the approaching man.
+
+Camera slowly pushes toward her face.
+
+Her expression changes from pure terror to confusion and recognition.
+
+The man approaches slowly instead of attacking.
+
+Show an extreme shallow-focus shot of his damaged hand cautiously reaching toward her.
+
+She raises the knife—
+
+but cannot bring herself to use it.
+
+Tears fill her eyes.
+
+00:20–00:27 — EMOTIONAL REVEAL
+
+The man steps close.
+
+Instead of hurting her, he suddenly embraces her tightly.
+
+She freezes for a fraction of a second.
+
+Then recognition overwhelms her.
+
+The knife lowers out of frame.
+
+She wraps both arms around him.
+
+She begins sobbing uncontrollably against his shoulder, gripping the back of his white jacket as if she has finally found someone she believed she had lost.
+
+Hold an intimate close-up on her face over his shoulder.
+
+Her makeup is slightly disturbed by tears. Her breathing is uneven. Her hands tremble against his back.
+
+The frightening figure is revealed emotionally as someone she once deeply loved.
+
+Slowly push closer to her crying face and her hand clutching his jacket.
+
+End without explaining whether the man is real, dead, imagined, remembered, or something supernatural.
+
+The audience should be left with the unsettling feeling that the terrifying chase and the beautiful beach memory are connected.
+
+CAMERA + EDITING
+
+Use energetic tracking during the chase, intimate handheld movement during the beach memory, and slower controlled push-ins during the emotional ending.
+
+The most important visual transition is:
+
+charred hand reaching toward shoulder → identical composition of healthy hand reaching toward shoulder on the beach → charred hand again in the tunnel.
+
+The match cuts must feel extremely precise so the past and present visually overlap.
+
+Maintain perfect character identity and wardrobe continuity throughout.
+
+Realistic skin pores, natural facial asymmetry, individual hair strands, genuine tears, realistic wet eyes, subtle sweat, natural blinking and breathing. Avoid plastic skin, beauty filters, CGI-looking faces, warped hands, extra fingers, inconsistent clothing, identity changes, exaggerated horror gore or artificial expressions.
+```
+
+### How to adapt it
+
+Keep character clothing and the reaching-hand composition consistent. Change lighting and setting across the match cut, then slow the camera for the emotional reveal.
+
+**Shared by:** [Sharon Riley](<https://x.com/Just_sharon7>)
+
+[Original post on X](<https://x.com/Just_sharon7/status/2106808592523571360>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#tunnel-chase-romantic-memory>)
+
+<a id="rainy-temple-staff-fight"></a>
+
+## A Rainy Temple Duel With a Timed Martial-Arts Shot Plan
+
+[![A Rainy Temple Duel With a Timed Martial-Arts Shot Plan](<https://pbs.twimg.com/amplify_video_thumb/2105903083230261248/img/GKQKb7UHgKrv-2CS.jpg>)](<https://x.com/Xaroon_x/status/2105903289132880019>)
+
+A detailed shot timeline stages a hand-to-hand duel against a staff fighter in a misty, ruined Japanese temple courtyard.
+
+**Model:** Seedance 2.5
+
+### Video prompt from the author post · `en`
+
+```text
+SEEDANCE 2.5 | 30s | 16:9
+
+Photorealistic live-action martial arts action in a ruined Japanese temple courtyard at dusk. Large-format cinema look, drifting mist, wet flagstones, crumbling stone torii, mossy lanterns, broken pillars and collapsed halls. Desaturated moss green, stone grey and cedar brown, warm lantern accents, natural skin texture, subtle film grain. Soft grey light from camera-right, warm lantern light from camera-left.
+
+HERO: Use Image1 with EXACT same face, hairstyle, body build and outfit in every shot. Calm, controlled and extremely fast. Natural dust and fabric wear increase during the fight.
+
+VILLAIN: Tall broad-shouldered warrior, charcoal-black layered kimono, dark indigo sash, half-face iron mask, long tied-back black hair, worn hardwood bo staff. Outfit remains unchanged.
+
+SHOT FLOW:
+00:00–02: Hero stands beneath torii, mist drifting; 24mm extreme-wide slow dolly-in.
+02–04: Villain emerges dragging staff; 35mm low-angle tracking shot.
+04–06: Hero drops into low fighting stance; 85mm quick push-in.
+06–08: Villain swings staff; hero ducks and palm-strikes ribs; 28mm handheld action.
+08–10: Rapid staff attacks; hero blocks twice and punches mask; 40mm handheld.
+10–12: Overhead staff strike; hero sidesteps and lands elbow; 35mm arc.
+12–14: Villain lands heavy blow, throwing hero across wet stone; 24mm ground tracking.
+14–16: Hero rises, parries staff thrust and lands knee; 50mm push-in.
+16–18: Hero jumps low sweep, pushes off pillar and kicks staff away; 35mm crane rise.
+18–20: Unarmed villain throws rapid punches; hero slips, blocks and ducks; 40mm handheld.
+20–22: Hero traps arm, elbows villain and flips him onto stone; 28mm orbit.
+22–24: FINAL COMBO 1 — rising palm strike + low kick.
+24–26: FINAL COMBO 2 — powerful rotating back kick to chest.
+26–28: FINAL COMBO 3 — two-handed palm strike sends villain crashing onto wet stone.
+28–30: Hero calmly walks toward torii as mist closes in; slow 24mm pull-back, fade to black.
+
+AUDIO: No dialogue. Wind, footsteps, cloth movement, staff whooshes, impacts, stone cracks and water splashes. Music builds from low drone → cello → fast taiko → orchestral climax at 00:24 → near silence → sustained cello note.
+
+Maintain exact identity, costumes, environment, lighting direction and realistic physics throughout. No face changes, outfit changes, extra characters, random weapons or inconsistent backgrounds.
+```
+
+### How to adapt it
+
+Replace Image1 with your hero reference. Keep the opponent, temple geography and light direction fixed while adapting each two-second action beat.
+
+**Shared by:** [Zar⭕on](<https://x.com/Xaroon_x>)
+
+[Original post on X](<https://x.com/Xaroon_x/status/2105903289132880019>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#rainy-temple-staff-fight>)
+
+<a id="schoolgirl-helicopter-energy-shield"></a>
+
+## A Schoolgirl Stops Helicopter Missiles With an Energy Shield
+
+[![A Schoolgirl Stops Helicopter Missiles With an Energy Shield](<https://pbs.twimg.com/amplify_video_thumb/2106235501741268992/img/4ZChGJeSzNT7kOxD.jpg>)](<https://x.com/AvelyrahnAI/status/2106235620771451322>)
+
+A seven-scene action prompt moves from a city chase to a magical shield, a counterattack and a final finger-gun gesture.
+
+**Model:** Seedance 2.5
+
+### Video prompt from the author post · `en`
+
+```text
+Cinematic action video sequence, Seedance 2.5 style,
+Scene 1: A young Asian schoolgirl with black hair and a backpack sprints down the middle of a wide empty city avenue flanked by skyscrapers while two military attack helicopters fly low overhead. 
+
+Scene 2: Close-up of a helicopter rocket pod firing smoke-trail missiles, cutting to the schoolgirl spinning around sharply as wind whips her hair.
+
+Scene 3: Slow-motion shot, her loafers glow with blue magical energy as she leaps high into the air over the street, avoiding missiles that trigger massive fiery explosions behind her.
+
+Scene 4: Tracking shot of the girl running forward as a barrage of guided missiles flies straight down the highway toward her.
+
+Scene 5: Close-up of her face with glowing green eyes; she thrusts her hand forward, projecting a powerful translucent green energy shield that halts the incoming missiles mid-air.
+
+Scene 6: She sends a shockwave of green energy forward, causing both attack helicopters to explode mid-air in massive balls of fire and crash onto the street.
+
+Scene 7: Medium shot of the girl standing confidently with glowing green eyes, making a finger-gun gesture saying "Boom", then turning around and walking calmly away down the empty street between skyscrapers.
+```
+
+### How to adapt it
+
+Define a consistent hero and avenue before adapting the seven scenes. Preserve the progression from pursuit to evasion, shield and counterattack.
+
+**Shared by:** [Avelyrah](<https://x.com/AvelyrahnAI>)
+
+[Original post on X](<https://x.com/AvelyrahnAI/status/2106235620771451322>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#schoolgirl-helicopter-energy-shield>)
 
 ## Attribution and corrections
 
