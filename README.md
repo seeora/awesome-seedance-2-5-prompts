@@ -5,7 +5,7 @@ A curated collection of Seedance 2.5 videos from creators, with original sources
 
 **[Browse the visual gallery](<https://seeora.app/seedance-prompts>)**
 
-The collection currently contains **47 verified examples**, with sources reviewed through **2026-10-09**.
+The collection currently contains **52 verified examples**, with sources reviewed through **2026-10-10**.
 
 <a id="race-for-agi-desert-chase"></a>
 
@@ -2187,6 +2187,144 @@ Define a consistent hero and avenue before adapting the seven scenes. Preserve t
 **Shared by:** [Avelyrah](<https://x.com/AvelyrahnAI>)
 
 [Original post on X](<https://x.com/AvelyrahnAI/status/2106235620771451322>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#schoolgirl-helicopter-energy-shield>)
+
+<a id="forest-village-glowing-portal"></a>
+
+## A Magical Forest Village Reveals a Glowing Blue Portal
+
+[![A Magical Forest Village Reveals a Glowing Blue Portal — Seedance 2.5 output preview](<https://pbs.twimg.com/amplify_video_thumb/2108069575451631616/img/lF-Tx36xZc_vt7c1.jpg>)](<https://x.com/aynellex/status/2108069773569671386>)
+
+An author-shared fantasy adventure pairs a forest village and glowing portal with a public English animation prompt.
+
+**Model:** Seedance 2.5
+
+### Author-published video prompt · `en`
+
+```text
+Cinematic 3D animated fantasy adventure, vertical 9:16. A young adventurous boy explores a magical forest village surrounded by floating islands, waterfalls, giant trees, colorful creatures, and warm sunset light. He discovers a glowing futuristic portal in the forest, approaches it cautiously, and watches as the portal activates with bright blue energy. Smooth cinematic camera movement, expressive character animation, detailed fantasy environment, volumetric lighting, magical atmosphere, high-quality 3D animation, consistent character design, realistic motion, dramatic reveal, no text, no subtitles, no watermark.
+```
+
+### How to adapt it
+
+Replace the boy and village with your own character and environment. Reuse the reveal structure, then test a short portal-activation shot first.
+
+**Shared by:** [Aynelle](<https://x.com/aynellex>)
+
+[Original post on X](<https://x.com/aynellex/status/2108069773569671386>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#forest-village-glowing-portal>)
+
+<a id="smallest-warrior-biggest-courage"></a>
+
+## The Smallest Warrior Carries Courage Into a Dark Battle
+
+[![The Smallest Warrior Carries Courage Into a Dark Battle — Seedance 2.5 output preview](<https://pbs.twimg.com/amplify_video_thumb/2107425445297762304/img/-Zbm1fxiildg-UIH.jpg>)](<https://x.com/AI_with_Antonio/status/2107425472728776769>)
+
+AntonioAI shares a Seedance 2.5 warrior scene with dark armor, arrows, and a quiet moment of resolve.
+
+**Model:** Seedance 2.5
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Build your own armored character reference, establish a single emotional beat, and keep the camera movement restrained before adding combat.
+
+**Shared by:** [AntonioAI](<https://x.com/AI_with_Antonio>)
+
+[Original post on X](<https://x.com/AI_with_Antonio/status/2107425472728776769>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#smallest-warrior-biggest-courage>)
+
+<a id="forgotten-rider-misty-journey"></a>
+
+## A Forgotten Rider Sets Out on a Journey Into the Mist
+
+[![A Forgotten Rider Sets Out on a Journey Into the Mist — Seedance 2.5 output preview](<https://pbs.twimg.com/amplify_video_thumb/2107053361132679168/img/awbyXS0lDPYn1SLj.jpg>)](<https://x.com/AI_with_Antonio/status/2107053972997747130>)
+
+A cloaked rider and dark horse anchor AntonioAI’s atmospheric Seedance 2.5 journey into the mist.
+
+**Model:** Seedance 2.5
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Use your own rider and horse references. Keep costume, silhouette, and mist lighting consistent across separate journey shots.
+
+**Shared by:** [AntonioAI](<https://x.com/AI_with_Antonio>)
+
+[Original post on X](<https://x.com/AI_with_Antonio/status/2107053972997747130>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#forgotten-rider-misty-journey>)
+
+<a id="missed-train-rainy-walk-home"></a>
+
+## After Missing the Train, a Quiet Walk Home in the Rain
+
+[![After Missing the Train, a Quiet Walk Home in the Rain — Seedance 2.5 output preview](<https://pbs.twimg.com/amplify_video_thumb/2107044479756877824/img/i696OpVDLMo3nKUh.jpg>)](<https://x.com/ariaxawan/status/2107044583209422872>)
+
+Aria shares a small Seedance 2.5 story about a missed train, city lights, passing umbrellas, and a reflective walk home.
+
+**Model:** Seedance 2.5
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Start with a familiar character and one everyday setback. Use a few quiet walking beats and consistent weather to carry the emotion.
+
+**Shared by:** [Aria](<https://x.com/ariaxawan>)
+
+[Original post on X](<https://x.com/ariaxawan/status/2107044583209422872>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#missed-train-rainy-walk-home>)
+
+<a id="bedroom-to-inked-game-chase"></a>
+
+## A Bedroom Gamer Gets Pulled Into a Hand-Inked Chase
+
+[![A Bedroom Gamer Gets Pulled Into a Hand-Inked Chase — Seedance 2.5 output preview](<https://pbs.twimg.com/amplify_video_thumb/2107227941230829568/img/cz_N-eHmGhkFrBUN.jpg>)](<https://x.com/techhalla/status/2107229541940748357>)
+
+TechHalla publishes a timed prompt that moves a bedroom gamer into an inked rooftop and mine-cart chase before a dream reveal.
+
+**Model:** Seedance 2.5
+
+### Author-published timed video prompt · `en`
+
+```text
+Gritty lived-in bedroom verité that hard-cuts into a hand-inked chase cartoon, then snaps back to reality. 35mm handheld in the room, warm lamp against cold TV glow. Inside the game: paper-grain comic, bold ink, motion streaks. One continuous 30s story.
+
+[IMAGE REFERENCES]
+
+[char_sheet_1] : cartoon runner turnaround, lock the design.
+
+[char_sheet_2] : real man identity — face, beard, skull cap, Pulp Fiction tee, jeans, Vans, forearm tattoo.
+
+Images [still_1] and [still_2] : bedroom, couch, TV, rage pose. Images [still_3] [still_4] [still_5] : in-game rooftop and mine-cart look, cartoon man plus runner.
+
+[still_6] : wake-up, bloodhound, paused screen. Identities stay locked. Only the man restyles when the game pulls him in.
+
+[TIMELINE]
+
+0-4s: [Medium handheld] Man sunk in the gray couch, locked in, thumbs working a white controller. TV shows the cartoon runner sprinting rooftops. Lamp warm, room messy, pizza box and Monster cans on the table. Focused, a little smug.
+
+4-8s: [Push-in] TV slams to red GAME OVER. He jolts up, face twisting, shouting "No, no, no—come on!" He hurls the controller. It cracks the screen. Glass spiders, a blue spark jumps. Pure rage.
+
+8-12s: [Whip to the TV] A white-blue energy vortex tears out of the crack and yanks his cap, shirt, arms. He grabs the stand, feet slide on the carpet, then gets sucked in. Body stretches, colors flatten. Hard smash-cut into ink.
+
+12-18s: [Dynamic low tracking on the tiles] He lands cartoonified — same beard, tee, jeans, now inked, eyes huge — mid-stride beside the black-headed runner, pencil behind the ear. A giant pink eraser crashes through chimneys behind them. Both sprint. Cap flies off. He yells "What the hell is this?!"
+
+18-24s: [Action tracking] They dive into a rust mine cart on a wooden trestle. Sparks kick off the rails. Eraser debris explodes behind. He clutches the rim, runner steers. Panic, wind, lanterns whipping past.
+
+24-28s: [Smash cut, static wide] Back in the bedroom. He is asleep on the couch, controller still on his chest, mouth open. TV shows the runner on a PAUSED menu. A bloodhound stands on the cushion and licks his face, long slow laps.
+
+28-30s: [Close] Eyes crack open, confused, still half-asleep. The dog keeps licking. He mutters "...the hell?" The controller never left his stomach. Dream logic lands.
+
+[STYLE & QUALITY BOOSTERS]
+
+Photoreal room, illustrated game world, coherent physics, perfect motion blur, stable identities, readable TV text, cinematic lighting, no extra limbs, no morphing faces, movie-level cut stability.
+```
+
+### How to adapt it
+
+Create your own character sheets and story stills for each referenced slot. Preserve the real-to-illustrated transition and retime the action for your clips.
+
+**Shared by:** [TechHalla](<https://x.com/techhalla>)
+
+[Original post on X](<https://x.com/techhalla/status/2107229541940748357>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#bedroom-to-inked-game-chase>)
 
 ## Attribution and corrections
 
