@@ -5,7 +5,7 @@ A curated collection of Seedance 2.5 videos from creators, with original sources
 
 **[Browse the visual gallery](<https://seeora.app/seedance-prompts>)**
 
-The collection currently contains **52 verified examples**, with sources reviewed through **2026-10-10**.
+The collection currently contains **57 verified examples**, with sources reviewed through **2026-10-12**.
 
 <a id="race-for-agi-desert-chase"></a>
 
@@ -2325,6 +2325,207 @@ Create your own character sheets and story stills for each referenced slot. Pres
 **Shared by:** [TechHalla](<https://x.com/techhalla>)
 
 [Original post on X](<https://x.com/techhalla/status/2107229541940748357>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#bedroom-to-inked-game-chase>)
+
+<a id="toddler-body-parts-nursery"></a>
+
+## A Toddler Teaches Body-Part Names in a Pastel Nursery
+
+[![A cheerful 3D toddler teaches body-part names with gestures and colorful labels in a pastel nursery.](<https://pbs.twimg.com/amplify_video_thumb/2107066728752844800/img/uVydGUBeR-QTu18U.jpg>)](<https://x.com/Zarnab_with_Ai/status/2107066879038857330>)
+
+A cheerful 3D toddler teaches body-part names with gestures and colorful labels in a pastel nursery.
+
+**Model:** Seedance 2.5
+
+### Author-published video prompt · `en`
+
+```text
+Create a cute, colorful, highly detailed 3D animated educational video featuring an adorable toddler boy with big expressive eyes, soft curly brown hair, rosy cheeks, and a sweet innocent expression.
+
+The toddler wears a cream-colored long-sleeve shirt underneath blue denim overalls and white socks. Keep the character's appearance consistent throughout the entire video.
+
+Set the video inside a bright, playful children's nursery/classroom filled with colorful toys, alphabet blocks, bookshelves, soft pastel walls, rainbows, balloons, stars, clouds, bunting decorations, and a colorful puzzle mat. Use a cheerful pastel color palette with soft cinematic lighting.
+
+The child stands in the center of the frame and happily teaches basic body-part names through simple gestures. He looks directly at the camera, points to or touches each body part when its name appears on screen, and uses cute natural movements and facial expressions.
+
+Show different body parts one by one, including:
+HEAD, NOSE, CHIN, EYEBROW, PALM, WRIST, WAIST, STOMACH, and SOLE.
+
+For every body part, display a large, bold, colorful English word near the child, synchronized with his gesture. Use playful children's educational typography with bright colors, a dark outline, and a fun cartoon-style pop-in animation.
+
+Scene progression:
+
+1. The toddler waves and raises both hands toward the camera.
+2. He points to his NOSE.
+3. He smiles and gestures toward his CHIN.
+4. He points to his EYEBROW.
+5. He opens his hand and shows his PALM.
+6. He points toward his WRIST.
+7. He gestures around his WAIST.
+8. He touches his STOMACH.
+9. He sits down and shows the bottom of his foot while introducing SOLE.
+10. End with the toddler happily waving at the camera.
+
+Camera style: vertical 9:16 composition, medium full-body framing, smooth gentle camera movement, occasional subtle push-ins, centered character, eye-level perspective.
+
+Visual style: high-quality 3D children's animation, adorable Pixar-inspired aesthetic, soft rounded features, realistic fabric textures, expressive eyes, smooth character animation, vibrant pastel colors, soft global illumination, shallow depth of field, polished cinematic rendering.
+
+Mood: cheerful, wholesome, educational, playful, and engaging for young children.
+
+Keep the character's face, hairstyle, clothing, proportions, nursery environment, lighting, and overall visual style consistent across every scene.
+
+Add a final educational message:
+“LEARN BODY PARTS NAMES!”
+“FOLLOW FOR MORE!”
+
+Format: 9:16 vertical, high resolution, smooth animation, clean composition, no watermark.
+```
+
+### How to adapt it
+
+Keep one character and room consistent, then pair each body-part label with one clear gesture. Review spelling and gesture alignment.
+
+**Shared by:** [Zarnab Ai](<https://x.com/Zarnab_with_Ai>)
+
+[Original post on X](<https://x.com/Zarnab_with_Ai/status/2107066879038857330>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#toddler-body-parts-nursery>)
+
+<a id="storybook-meadow-animal-learning"></a>
+
+## Friendly Animals Introduce Their Names in a Storybook Meadow
+
+[![A colorful meadow becomes a preschool animal-learning scene with friendly 3D creatures and readable names.](<https://pbs.twimg.com/amplify_video_thumb/2107293577986670592/img/JOJvMJqy7oV-aPW9.jpg>)](<https://x.com/Zarnab_with_Ai/status/2107293811714191628>)
+
+A colorful meadow becomes a preschool animal-learning scene with friendly 3D creatures and readable names.
+
+**Model:** Seedance 2.5
+
+### Author-published video prompt · `en`
+
+```text
+Create a 50-second vertical 9:16 educational children's animal video in a bright, colorful, high-quality 3D cartoon animation style.
+
+SCENE & BACKGROUND:
+A beautiful cheerful meadow in a magical children's storybook world. Lush green grass, colorful wildflowers in the foreground, rounded green trees, a few pink and orange trees, distant rolling hills and mountains, bright blue sky with fluffy white clouds. Warm sunny daylight, soft shadows, vibrant colors, clean polished 3D rendering.
+
+STYLE:
+Cute premium 3D animated children's content, friendly and adorable animal designs, large expressive eyes, soft rounded shapes, colorful cinematic lighting, playful educational atmosphere, high detail but simple enough for young children.
+
+CAMERA:
+Vertical composition, mostly static front-facing camera at children's eye level. Medium/full-body framing of each animal. Smooth subtle camera movement only. Keep the environment consistent throughout the video.
+
+SEQUENCE:
+Start with an empty beautiful meadow for a moment.
+
+Then introduce animals one by one, each appearing clearly in the center of the frame:
+
+1. TIGER — a cute orange tiger with black stripes, big expressive eyes and a friendly smile.
+Display the word "TIGER" above the animal in large colorful playful children's typography.
+
+2. ELEPHANT — a cute friendly gray elephant with large ears, short trunk and adorable expressive eyes.
+Display "ELEPHANT" above it.
+
+3. RHINOCEROS — a cute gray baby rhinoceros with a small horn, big eyes and friendly expression.
+Display "RHINOCEROS" above it.
+
+4. HIPPOPOTAMUS — a cute chubby purple-gray hippopotamus with a big smile and playful expression.
+Display "HIPPOPOTAMUS" above it.
+
+5. LEOPARD — an adorable golden-yellow leopard covered with dark spots, big expressive eyes and a friendly smile.
+Display "LEOPARD" above it.
+
+6. WOLF — a cute fluffy gray-and-white wolf with large expressive eyes and a friendly appearance.
+Display "WOLF" above it.
+
+7. GIRAFFE — a cute tall giraffe with a warm orange-yellow coat and brown patches, smiling gently.
+Display "GIRAFFE" above it.
+
+8. CROCODILE — a cute green crocodile with a rounded friendly body, big eyes and a playful smile.
+Display "CROCODILE" above it.
+
+For every animal:
+The animal should enter or appear naturally, look toward the camera, make a small cute movement such as blinking, smiling, waving, walking a few steps or moving its head, then remain clearly visible for children to recognize.
+
+TEXT:
+Use large bold rounded children's lettering above each animal.
+Letters should be colorful, playful, highly readable and visually exciting.
+Add small colorful celebratory shapes such as stars or confetti when an animal appears.
+
+TRANSITIONS:
+Smooth playful transitions between animals while keeping the same meadow environment.
+No scary movements, no aggressive behavior, no dark scenes.
+
+FINAL SHOT:
+Return to the empty colorful meadow for a short moment.
+
+Overall feeling: cheerful, wholesome, educational, playful, colorful preschool animal-learning video, premium 3D cartoon quality.
+```
+
+### How to adapt it
+
+Reuse one meadow and a fixed eye-level camera; introduce one animal and label per beat, then review text legibility.
+
+**Shared by:** [Zarnab Ai](<https://x.com/Zarnab_with_Ai>)
+
+[Original post on X](<https://x.com/Zarnab_with_Ai/status/2107293811714191628>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#storybook-meadow-animal-learning>)
+
+<a id="threejs-naval-previs"></a>
+
+## A Three.js Naval Previs Becomes a Cinematic Ocean Shot
+
+[![A split-screen comparison shows coded ship, aircraft, and camera motion guiding a Seedance 2.5 ocean sequence.](<https://pbs.twimg.com/amplify_video_thumb/2108867296030797824/img/EVXpYPJnD2RcuM1M.jpg>)](<https://x.com/cellinlab/status/2108867779021750318>)
+
+A split-screen comparison shows coded ship, aircraft, and camera motion guiding a Seedance 2.5 ocean sequence.
+
+**Model:** Seedance 2.5
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Previsualize ship, aircraft, and camera motion in a simple 3D scene, then supply the preview and appearance references.
+
+**Shared by:** [Cell 细胞](<https://x.com/cellinlab>)
+
+[Original post on X](<https://x.com/cellinlab/status/2108867779021750318>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#threejs-naval-previs>)
+
+<a id="dino-audio-reference-counting-song"></a>
+
+## A Singing Dinosaur Follows Audio References in a Counting Song
+
+[![A dinosaur mascot sings and moves to segmented audio, with counting graphics added in a separate editing workflow.](<https://pbs.twimg.com/amplify_video_thumb/2106851145008250881/img/a1VDF37Y7ZdopMUa.jpg>)](<https://x.com/ArchiveExplorer/status/2106853265694503064>)
+
+A dinosaur mascot sings and moves to segmented audio, with counting graphics added in a separate editing workflow.
+
+**Model:** Seedance 2.5
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Prepare one mascot and short song segments, animate each with its audio reference, then assemble and check every sung number.
+
+**Shared by:** [Archive](<https://x.com/ArchiveExplorer>)
+
+[Original post on X](<https://x.com/ArchiveExplorer/status/2106853265694503064>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#dino-audio-reference-counting-song>)
+
+<a id="animated-sneaker-sale-story"></a>
+
+## An Animated Sneaker-Sale Story With a Dramatic Reaction
+
+[![Framer shares an animated short captioned “I’ll just sell your sneakers,” created with Seedance 2.5.](<https://pbs.twimg.com/amplify_video_thumb/2105406569319952384/img/owtsem8mJ-vJKwb2.jpg>)](<https://x.com/Framer_X/status/2105406643223843234>)
+
+Framer shares an animated short captioned “I’ll just sell your sneakers,” created with Seedance 2.5.
+
+**Model:** Seedance 2.5
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Build a short dialogue scene around one surprising line, keeping character identity and reaction shots consistent.
+
+**Shared by:** [Framer 🇱🇹](<https://x.com/Framer_X>)
+
+[Original post on X](<https://x.com/Framer_X/status/2105406643223843234>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#animated-sneaker-sale-story>)
 
 ## Attribution and corrections
 
