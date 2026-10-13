@@ -5,7 +5,7 @@ A curated collection of Seedance 2.5 videos from creators, with original sources
 
 **[Browse the visual gallery](<https://seeora.app/seedance-prompts>)**
 
-The collection currently contains **57 verified examples**, with sources reviewed through **2026-10-12**.
+The collection currently contains **62 verified examples**, with sources reviewed through **2026-10-13**.
 
 <a id="race-for-agi-desert-chase"></a>
 
@@ -2526,6 +2526,264 @@ Build a short dialogue scene around one surprising line, keeping character ident
 **Shared by:** [Framer 🇱🇹](<https://x.com/Framer_X>)
 
 [Original post on X](<https://x.com/Framer_X/status/2105406643223843234>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#animated-sneaker-sale-story>)
+
+<a id="mma-cage-fight-timed-shot-plan"></a>
+
+## A Timed MMA Cage Fight Builds to a Knockout Victory
+
+[![A Timed MMA Cage Fight Builds to a Knockout Victory](<https://pbs.twimg.com/amplify_video_thumb/2107412074489909248/img/qRTUyIzdmy9Ctolf.jpg>)](<https://x.com/Xaroon_x/status/2107412153577935128>)
+
+A thirty-second cage-fight shot plan combines identity references, fast exchanges, slow-motion impacts and an exhausted victory.
+
+**Model:** Seedance 2.5
+
+### Video prompt from the author’s post · `en`
+
+```text
+Duration: 30 seconds | Aspect Ratio: 16:9 | Style: Ultra-photorealistic live-action Hollywood MMA action.
+
+HERO: Use image1 as the exact hero identity. Preserve his face, facial structure, hairstyle, physique and proportions consistently in every shot. He wears black MMA shorts with a red waistband, black fingerless MMA gloves, bare feet and wrist tape. His skin becomes naturally sweaty during the fight.
+
+RIVAL: Tall, heavily muscular bald fighter with a short dark beard, tribal tattoo covering the left shoulder/upper arm, white-and-royal-blue MMA shorts, blue gloves and bare feet. After Shot 03, maintain a small realistic cut above his right eyebrow.
+
+LOCATION: Packed night arena, eight-sided steel cage, overhead rig lights through haze, cool blue cinematic palette with warm skin highlights, realistic crowd, sweat and atmospheric depth. Referee wears a white shirt and black trousers and remains mostly at frame edges.
+
+SEQUENCE:
+00:00–02 High-angle 24mm wide, bell rings, both fighters leave corners, slow crane descent.
+02–04 35mm Steadicam arc, fighters circle; rival throws a probing jab.
+04–06 FAST 50mm handheld, hero slips and lands jab-cross, opening a small cut on rival's right eyebrow.
+06–08 FAST 40mm OTS, rival throws hook-cross-hook; hero blocks and parries.
+08–10 SLOW-MO 85mm close-up, heavy hook snaps hero's head, sweat sprays; speed ramp as he hits cage.
+10–12 40mm handheld, hero pinned against fence, rival flurries; rack focus to hero's determined eyes.
+12–14 FAST 28mm tracking, hero slips hook, lands liver shot and spins away.
+14–16 SLOW-MO 85mm, hero's uppercut lifts rival's chin, sweat suspended in rim light.
+16–18 FAST 35mm, rival throws wild cross; hero ducks and lands three-punch combo.
+18–20 65mm slow orbit, both exhausted fighters trade heavy close-range punches.
+20–22 FAST 28mm push-in, hero unleashes four-punch barrage, driving rival to fence.
+22–24 EXTREME SLOW-MO 100mm profile, hero slips overhand and lands decisive right cross to jaw; brief silence, then massive impact.
+24–27 Ground-level 24mm wide, rival collapses, referee waves off fight, hero steps back.
+27–30 35mm low-angle Steadicam push-in, hero raises gloves in exhausted relief; crane pull-up reveals roaring arena, cut to black.
+
+SOUND: Crowd roar, bell, breathing, canvas footsteps, realistic glove impacts. Low drone, cello, taiko and strings build toward knockout, brief silence at impact, then orchestral hit and emotional piano/strings finale.
+
+QUALITY: Realistic physics, anatomy, sweat, skin texture, cinematic motion blur and subtle film grain. No cartoon, CGI look, plastic skin, face changes, wardrobe changes, duplicated fighters, extra limbs/fingers, deformed hands, warped faces, impossible punches, jitter, flicker, oversaturation, text, watermark or logos.
+```
+
+### How to adapt it
+
+Replace image1 with your own fighter reference and adjust the rival, arena and timed shot plan while keeping identities and injury continuity consistent.
+
+**Shared by:** [Zar⭕on](<https://x.com/Xaroon_x>)
+
+[Original post on X](<https://x.com/Xaroon_x/status/2107412153577935128>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#mma-cage-fight-timed-shot-plan>)
+
+<a id="lumi-bunny-shooter-rooftop-training"></a>
+
+## LUMI the Bunny Shooter Dashes Across a Futuristic Rooftop
+
+[![LUMI the Bunny Shooter Dashes Across a Futuristic Rooftop](<https://pbs.twimg.com/amplify_video_thumb/2108077802897711104/img/cMqDnyH1r_mXMSSs.jpg>)](<https://x.com/Mayz1169/status/2108081646318825535>)
+
+A pastel sci-fi character performs a rooftop training sequence, presented alongside the character sheet used to guide her design.
+
+**Model:** Seedance 2.5
+
+### Seedance 2.5 video prompt from the author’s public gallery · `en`
+
+```text
+Use the provided LUMI character sheet as the exact visual reference. Animate only one LUMI. Use the image strictly for design consistency, never as an opening character sheet, collage, or split-screen layout.
+
+Maintain full fidelity to her design: silver-white hair with pink accents and long tied sections, bright cyan-blue eyes, bunny and star hair accessories, black choker with pink details, cropped black top, oversized white and icy-blue detached sleeves, pink straps, layered utility shorts and skirt panels, belts and pouches, bunny-face waist charm, fingerless gloves, asymmetrical legwear with one loose white trouser leg, and chunky white sneakers with pink and cyan details.
+
+Preserve the exact pink, white, cyan, and charcoal sci-fi rifle shown in the reference, including its proportions, stock, barrel, panels, and decorative markings. Keep the same weapon throughout.
+
+Her personality is cheerful, mischievous, and confident. Her combat movement combines quick footwork, athletic parkour, and precise rifle handling. Preserve her expressive anime face and youthful energy without changing her body proportions.
+
+STYLE:
+Cinematic anime sci-fi action.
+Premium 2D hand-drawn animation with crisp linework and detailed cel shading.
+Bright, polished rendering with expressive character acting.
+White, bubblegum pink, icy cyan, and charcoal color palette.
+Fluid athletic movement with clear poses and believable momentum.
+Responsive hair, oversized sleeves, dangling straps, and bunny-charm physics.
+Controlled pink-and-cyan energy effects and sharp metallic reflections.
+One continuous 15-second action sequence with motivated cuts.
+No text, no UI, no subtitles.
+
+ENVIRONMENT:
+A sunlit futuristic rooftop training plaza above a clean, airy city.
+White architectural panels, glass skybridges, cyan floor strips, and restrained pink accent lighting.
+Blue sky and soft clouds reflected in glass surfaces.
+Several small hovering training targets positioned along one clear route.
+Keep the same rooftop geography and daylight throughout.
+
+CHARACTER MOTION STRUCTURE (15s):
+
+[0s–1.5s] SLIDE INTO ACTION
+Action begins immediately.
+Low tracking shot: LUMI is already sliding sideways from behind a white rooftop barrier, carrying her rifle securely in both hands.
+Her sneakers skim the polished floor; long hair, pink straps, and bunny charm swing behind her.
+She looks directly toward the first hovering target with a playful, focused smile.
+Camera: fast lateral tracking, rising from her shoes toward her upper body.
+SFX: sneaker friction, fabric flutter, a short electronic weapon hum.
+
+[1.5s–3.5s] SNAP AIM
+She plants her forward foot, settles the rifle stock against her shoulder, and fires one precise two-shot burst.
+Compact pink-and-cyan pulses strike the first training target, which breaks into small geometric light particles.
+Her shoulders absorb the restrained recoil; both hands remain correctly positioned on the weapon.
+Camera: medium three-quarter tracking shot, showing her face, grip, and firing direction.
+SFX: two crisp synthetic shots, a bright target-hit chime.
+
+[3.5s–5.5s] QUICK DIRECTION CHANGE
+LUMI lowers the muzzle slightly and accelerates into a short diagonal dash toward a low rooftop divider.
+She pushes off decisively to change direction, her loose sleeve and bunny charm swinging outward a beat later.
+A few fading target particles drift behind her.
+Camera: side tracking at hip height, keeping her footwork and destination readable.
+SFX: rapid footfalls, belt hardware rattles, rushing air.
+
+[5.5s–8s] ROOFTOP VAULT
+She clears the low divider in one compact sideways jump, keeping the rifle close to her torso with both hands.
+Her knees tuck naturally; the loose white trouser leg billows while her hair and long ribbons trace the jump.
+The city skyline opens behind her.
+Camera: low-angle tracking across the divider, following the complete jump into landing.
+SFX: forceful push-off, cloth snap, a clean landing beat.
+
+[8s–10.5s] LAND, TURN, FIRE
+She lands with bent knees and smoothly turns her upper body toward a second hovering target.
+Once her footing is stable, she raises the rifle and fires a single controlled shot.
+A brief cyan-pink flash lights the edge of her face; the target collapses into a clean ring of sparkling fragments.
+Camera: medium front three-quarter shot with a short, smooth arc.
+SFX: sneaker contact, one sharp energy shot, crystalline target dissolve.
+
+[10.5s–13s] RUNNING FINISH
+Without stopping, she jogs through the fading particles and swings into a relaxed sliding stop.
+The rifle lowers diagonally across her body, muzzle pointing safely toward the empty floor.
+Her hair continues forward slightly before settling; the bunny charm bounces once against her pouch.
+Camera: forward tracking that eases to a stop with her.
+SFX: light footfalls, a final sneaker squeak, fading electronic resonance.
+
+[13s–15s] PLAYFUL RESOLVE
+Medium close-up: LUMI shifts the lowered rifle securely into her right hand, keeping her finger off the trigger.
+She raises her free left hand beside her cheek in a quick V-sign and gives the camera a playful wink.
+Her ribbons and hair remain in gentle motion as the last pink-and-cyan particles drift behind her.
+Camera: subtle push-in, ending on her bright, confident expression.
+SFX: a small cheerful electronic chime and soft rooftop wind.
+
+MOOD:
+Playful confidence, bright futuristic energy, effortless agility, and precise control.
+
+NOTES:
+Start with active movement on the very first frame.
+No opening pose hold, slow establishing shot, or prolonged aiming.
+Maintain the exact character design, asymmetrical clothing, accessories, and rifle.
+Keep the bunny charm attached to her belt; it is an accessory, not a separate living character.
+Preserve consistent weapon size, hand placement, and barrel direction.
+Show short controlled bursts with clear recoil and visible target reactions.
+No firing during the vault.
+Keep effects brief and translucent so they never obscure her face or costume.
+Maintain clear spatial continuity and natural follow-through.
+No additional people, dialogue, text, subtitles, UI, or watermarks.
+```
+
+### GPT Image 2 character-sheet preparation prompt from the author’s public gallery · `en`
+
+```text
+Create a professional 16:9 anime character design sheet titled “LUMI”, with the subtitle “PROFESSIONAL”, featuring a futuristic pastel cyberpunk bunny-themed girl. Clean white background, stylish pink and icy-blue graphic accents, subtle geometric decorations, premium Japanese anime game character concept art.
+
+A cute, energetic young adult woman with a slim athletic figure, fair skin, large sparkling cyan-blue eyes and a playful winking smile. She has long silver-white hair with soft lavender undertones, styled in fluffy twin ponytails with flowing pink and icy-blue ribbons, decorated with a white bunny hair clip, pink star accessories and small black hairpins. She wears a cropped black-and-white futuristic top, an oversized white and pale-blue bomber jacket with pink technical details, detached puffy sleeves, black fingerless gloves, a short asymmetric blue-gray pleated skirt layered over black shorts, pink utility belts, thigh straps, a dangling bunny pouch and mismatched legwear. Chunky futuristic sneakers with white, pink, cyan and dark navy mechanical details. She carries a large white, pink and blue sci-fi rifle with glowing star motifs, angular armor panels and mechanical components.
+
+LAYOUT: One large dynamic full-body hero illustration on the left, posing playfully with one leg raised and holding her futuristic rifle. Three consistent full-body turnaround views labeled FRONT, SIDE and BACK in the center. Right-side detail panels showing facial close-up, bunny hair clip, weapon design, utility belt and bunny pouch, and sneaker construction. Bottom section includes four expression portraits showing cheerful, winking, shy and surprised emotions, plus front and back views of a small pink-and-white robotic bunny charm.
+
+Color palette: pastel pink, icy blue, white, lavender, navy and black. Style: premium Japanese anime sci-fi character concept art, vibrant pastel cyber fashion, polished cel shading, delicate linework, detailed clothing construction, playful futuristic accessories, crisp professional character sheet typography, clean sophisticated layout, ultra detailed, 8K. Maintain identical face, hairstyle, outfit, proportions, accessories and weapon design across all views. No extra characters, no outfit changes, no inconsistent details, no malformed anatomy, no watermark.
+```
+
+### How to adapt it
+
+Create your own character sheet, then adapt the published rooftop route, shot timing and weapon continuity instructions to that design.
+
+**Shared by:** [Kiki](<https://x.com/Mayz1169>)
+
+[Original post on X](<https://x.com/Mayz1169/status/2108081646318825535>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#lumi-bunny-shooter-rooftop-training>)
+
+<a id="mr-bean-bicycle-racing-chaos"></a>
+
+## Mr Bean Rides a Bicycle Through a Chaotic Racing Circuit
+
+[![Mr Bean Rides a Bicycle Through a Chaotic Racing Circuit](<https://pbs.twimg.com/media/HTzA8tIWsAArUu2.jpg>)](<https://x.com/TechieBySA/status/2106770915229143242>)
+
+A cel-shaded comedy sends Mr Bean and his bicycle through a racing circuit as bright cars spin off the track in escalating mishaps.
+
+**Model:** Seedance 2.5
+
+### GPT Image 2.5 character-sheet preparation prompt from the author’s reply · `en`
+
+```text
+Create a premium cinematic character bible sheet for MR BEAN.
+LAYOUT: Single character solo format. Character centered, bright red watercolor splash on the left fading into black and white checkered flag pattern on the right radiating behind him.
+TOP LEFT: Large bold brushstroke text MR BEAN in bright red. Below small text: NO ENGINE. NO TEAM. NO PROBLEM.
+CHARACTER: One massive dramatic cropped hero image from mid-thigh up — on his normal city bicycle, small stuffed toy sitting in the front basket, leaning forward pedaling furiously, tongue poking out in concentration, bright red tie flying behind him in the wind, completely focused expression.
+LEFT SIDE small text block: EVERYONE ELSE HAD A CAR. HE HAD A BICYCLE.
+BOTTOM CENTER: Bold text THE RACE in bright red slightly worn. Tagline: NOBODY SAW HIM COMING.
+COLOR PALETTE: Bright red, black, white, checkered.
+OVERALL: Clean white background, bright red watercolor explosion left side fading into black and white checkered flag pattern right side, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
+```
+
+### Seedance 2.5 video prompt from the author’s reply · `en`
+
+```text
+Cinematic anime clip, 20 seconds. Outdoor street racing circuit — tight winding track, concrete barriers, packed grandstands, clear blue sky throughout.
+MAIN CHARACTER: Use uploaded character sheet as strict visual reference. Normal city bicycle, front basket with small stuffed toy. Pedaling furiously, tongue out in concentration. Never aware of chaos behind him.
+RACING CARS: Bright colored modern racing cars. When they go off track — comically spinning onto grass, sliding into gravel traps, losing wheels, getting stuck. Cartoonish and silly, no violence, no impacts.
+0:00–0:02 — Wide from above. Main character mid race on bicycle, stuffed toy in basket, pedaling furiously tongue out. Racing cars roaring past both sides weaving around him in panic. 0:02–0:05 — Main character pulling out a sandwich eating casually while pedaling. Wrapper flying into a car's air intake. Car coasting comically onto the grass rolling to a gentle stop. Main character glances back, shrugs, takes another bite. 0:05–0:09 — Main character squeezing between two cars on a tight corner, both swerving to avoid him. One spinning comically onto the grass, wheels coming off one by one rolling to a stop. Main character not looking back, pedaling harder. 0:09–0:14 — Main character cycling alongside a car neck and neck. Close up from inside the car — main character's face in the window smiling and waving warmly. Tosses something through the window casually still smiling. Car drifting comically off track sliding gently into the gravel trap. Main character already around the next corner unbothered. 0:14–0:20 — Last car closing fast behind main character. Main character dropping banana peels one by one behind him still pedaling furiously. Car hitting first peel sliding sideways, second spinning in circles, third spinning completely off track onto the grass rolling to a gentle stop. Main character crossing the finish line, camera low angle from the front, clear blue sky, confetti, grandstands going insane. Main character looking around confused. Waving politely.
+Cel-shaded 3D anime, Unreal Engine quality, outdoor street racing circuit tight winding track concrete barriers packed grandstands clear blue sky throughout, bold flat color blocking, hard edge shadows, thick black outlines, vibrant saturated colors, film grain, roaring engines intense orchestral score never dropping every car going off track with silly cartoon sound effects crowd erupting constantly, camera switching constantly — wide from above, low angles from track, front angles, inside car close ups — main character always on city bicycle stuffed toy in basket tongue out pedaling furiously never aware of chaos, racing cars always bright colored always going off track comically never violently, comedy chaos escalating from frame one to finish line.
+```
+
+### How to adapt it
+
+Use your own comedy character sheet and plan a sequence of harmless racing mishaps with a clear route, escalating causes and a finish-line payoff.
+
+**Shared by:** [TechieSA](<https://x.com/TechieBySA>)
+
+[Original post on X](<https://x.com/TechieBySA/status/2106770915229143242>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#mr-bean-bicycle-racing-chaos>)
+
+<a id="door-shattering-escape-reversal"></a>
+
+## A Shattered Door Turns an Escape Into a Sudden Reversal
+
+[![A Shattered Door Turns an Escape Into a Sudden Reversal](<https://pbs.twimg.com/media/HUNPP7UakAAyxrA.jpg>)](<https://x.com/nancy__diazz_/status/2108616250100503017>)
+
+A live-action-style chase turns a brief escape into a door-breaking reversal, with dialogue and a tense character confrontation.
+
+**Model:** Seedance 2.5
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Build your own short chase around a readable escape, a brief pause and a physical reversal; keep the room geography and character identities consistent.
+
+**Shared by:** [Nancy Diazz](<https://x.com/nancy__diazz_>)
+
+[Original post on X](<https://x.com/nancy__diazz_/status/2108616250100503017>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#door-shattering-escape-reversal>)
+
+<a id="last-samurai-demon-king-storm"></a>
+
+## The Last Samurai Faces the Demon King in a Mountain Storm
+
+[![The Last Samurai Faces the Demon King in a Mountain Storm](<https://pbs.twimg.com/amplify_video_thumb/2104425251438514176/img/PMJD1pUuVUbsBSVC.jpg>)](<https://x.com/Jenisha_AI/status/2104425661008093620>)
+
+A script-to-video fantasy short stages a final sword confrontation between a lone samurai and a demon king in a lightning-filled mountain setting.
+
+**Model:** Seedance 2.5
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Adapt the lone-hero confrontation to your own characters and setting, then break the story into shots with stable geography and a clear final clash.
+
+**Shared by:** [Jenisha AI](<https://x.com/Jenisha_AI>)
+
+[Original post on X](<https://x.com/Jenisha_AI/status/2104425661008093620>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#last-samurai-demon-king-storm>)
 
 ## Attribution and corrections
 
