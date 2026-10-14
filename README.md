@@ -5,7 +5,7 @@ A curated collection of Seedance 2.5 videos from creators, with original sources
 
 **[Browse the visual gallery](<https://seeora.app/seedance-prompts>)**
 
-The collection currently contains **62 verified examples**, with sources reviewed through **2026-10-13**.
+The collection currently contains **67 verified examples**, with sources reviewed through **2026-10-14**.
 
 <a id="race-for-agi-desert-chase"></a>
 
@@ -2784,6 +2784,173 @@ Adapt the lone-hero confrontation to your own characters and setting, then break
 **Shared by:** [Jenisha AI](<https://x.com/Jenisha_AI>)
 
 [Original post on X](<https://x.com/Jenisha_AI/status/2104425661008093620>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#last-samurai-demon-king-storm>)
+
+<a id="malfoy-secret-library-camera"></a>
+
+## A Hidden Library Camera Catches Malfoy Between the Shelves
+
+[![A vertical fan scene uses foreground bookshelves and warm library lighting to suggest someone secretly filming Malfoy.](<https://pbs.twimg.com/amplify_video_thumb/2109871475050397696/img/yu3wiHWjudINpebU.jpg>)](<https://x.com/Chengzilhy/status/2109872313563029917>)
+
+A vertical fan scene uses foreground bookshelves and warm library lighting to suggest someone secretly filming Malfoy.
+
+**Model:** Seedance 2.5
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Use an original character and establish who holds the camera. Keep foreground obstructions and lighting consistent as the viewpoint changes.
+
+**Shared by:** [小宇Chengzi](<https://x.com/Chengzilhy>)
+
+[Original post on X](<https://x.com/Chengzilhy/status/2109872313563029917>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#malfoy-secret-library-camera>)
+
+<a id="toddler-fruit-names-classroom"></a>
+
+## A Toddler Learns Eight Fruit Names in a Pastel Classroom
+
+[![A cheerful classroom video introduces eight fruits through a toddler’s reactions, colorful labels and a friendly spoken voice.](<https://pbs.twimg.com/amplify_video_thumb/2108380729046601728/img/CrYpzTENmy1rsHVy.jpg>)](<https://x.com/Zarnab_with_Ai/status/2108381024417993043>)
+
+A cheerful classroom video introduces eight fruits through a toddler’s reactions, colorful labels and a friendly spoken voice.
+
+**Model:** Seedance 2.5
+
+### Educational video prompt · `en`
+
+```text
+Create a 20-second ultra-realistic, adorable 3D animated educational video for toddlers. A cute baby girl with big sparkling brown eyes, rosy cheeks, soft brown hair, and a white colorful kids' T-shirt sits at a small table in a beautiful preschool classroom. The classroom features pastel-colored walls, rainbow decorations, clouds, stars, colorful toys, pencils, and soft natural sunlight coming through the window.
+
+Scene 1 – Banana 🍌: A hand gently presents a fresh yellow banana to the baby. She looks at it with curiosity and smiles happily. Display the word “BANANA” in large, colorful, playful 3D letters at the top of the screen, with a banana emoji.
+
+Scene 2 – Apple 🍎: The hand presents a shiny red apple. The baby opens her mouth in excitement and reaches toward the fruit. Display “APPLE” in bright, multicolored 3D letters.
+
+Scene 3 – Orange 🍊: A fresh orange is presented. The baby makes a cute surprised expression with her lips forming an O. Display “ORANGE” in bold, colorful letters.
+
+Scene 4 – Grapes 🍇: Show a bunch of fresh purple grapes on the table. The baby looks down at the grapes and laughs joyfully. Display “GRAPES” in large purple 3D letters.
+
+Scene 5 – Watermelon 🍉: A hand presents a juicy red watermelon slice with black seeds and green rind. The baby smiles excitedly and points toward it. Display “WATERMELON” in bright, playful letters.
+
+Scene 6 – Mango 🥭: Present a ripe golden-yellow mango. The baby opens her mouth with excitement and smiles at the fruit. Display “MANGO” in colorful 3D letters.
+
+Scene 7 – Strawberry 🍓: Show a fresh, bright red strawberry with green leaves. The baby raises her finger happily and smiles. Display “STRAWBERRY” in large, attractive letters.
+
+Scene 8 – Pineapple 🍍: Present a beautiful golden pineapple with green spiky leaves. The baby claps her hands with delight. Display “PINEAPPLE” in colorful 3D letters.
+
+Final Scene: The baby looks directly at the camera, smiles warmly, and gives a cute thumbs-up gesture.
+
+🎨 Visual Style & Animation
+
+Ultra-cute, high-quality 3D animation with a Pixar-inspired aesthetic.
+
+Soft, realistic lighting and vibrant pastel colors.
+
+Adorable facial expressions, natural blinking, and smooth hand movements.
+
+Keep the same baby character, outfit, classroom, and camera angle throughout.
+
+Each fruit must be clearly visible and recognizable.
+
+Display each fruit's English name in large, bold, colorful 3D letters at the top.
+
+Gentle camera movements, smooth transitions, and cheerful children's background music.
+
+Add a friendly female voice pronouncing each fruit's English name clearly.
+
+Vertical 9:16 format, high resolution, suitable for YouTube Shorts and children's educational content.
+
+No scary elements, no distorted faces, no extra fingers, and no character changes.
+```
+
+### How to adapt it
+
+Replace the fruit list and vocabulary while keeping the child, classroom and camera consistent. Check each visible label and spoken name against the fruit.
+
+**Shared by:** [Zarnab Ai](<https://x.com/Zarnab_with_Ai>)
+
+[Original post on X](<https://x.com/Zarnab_with_Ai/status/2108381024417993043>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#toddler-fruit-names-classroom>)
+
+<a id="tuscany-dv-countryside-day"></a>
+
+## A Tuscan Countryside Day Through a Handheld DV Camera
+
+[![A historical slice-of-life prompt follows a rural woman through wheat fields, farm chores and a quiet return to a stone farmhouse.](<https://pbs.twimg.com/amplify_video_thumb/2107530636550696960/img/j4NLPPeejkGALu1K.jpg>)](<https://x.com/Goodmanprotocol/status/2107530733212590250>)
+
+A historical slice-of-life prompt follows a rural woman through wheat fields, farm chores and a quiet return to a stone farmhouse.
+
+**Model:** Seedance 2.5
+
+### Historical documentary prompt · `en`
+
+```text
+30-second ultra-realistic documentary slice-of-life video, early-2000s consumer DV camcorder aesthetic. A young Italian peasant woman in her early 20s, sun-weathered olive skin with freckles, dark brown wavy hair loosely tied with a faded scarf, worn off-white linen blouse, earth-brown patched wool skirt, faded floral apron and muddy leather boots. Rural Tuscany in the late 1800s. Golden wheat fields, olive trees, stone farmhouse, cypress trees, stone walls, chickens, donkey and old stone well. No modern objects or machinery.
+
+[0–6s]
+Handheld camera follows her naturally along a dirt path through golden wheat fields. She carries a woven basket on her hip and brushes her free hand across the wheat. Wind moves the stalks and her loose hair.
+
+[6–12s]
+She reaches a wooden fence, sets down the basket and feeds scraps to several chickens gathered around her boots. The camera stays close and imperfect, briefly adjusting focus as she moves.
+
+[12–18s]
+She continues toward an old stone well. She lowers a wooden bucket on a rope, pulls it up with effort, then drinks fresh water from a small ladle. Water runs down her chin and she wipes it away with her sleeve.
+
+[18–24s]
+A donkey approaches. She smiles softly, pats its muzzle, then picks a small wildflower from the field and tucks it behind her ear. She lifts the basket and walks toward the farmhouse.
+
+[24–30s]
+Near the heavy wooden doorway, she notices the person filming. She gives a tired but warm smile and a small wave, then opens the door. She looks back once before stepping inside. The camera remains outside as the door slowly closes.
+
+STYLE: photorealistic historical documentary, authentic 1800s Tuscany, early-2000s consumer DV look, handheld shake, imperfect framing, autofocus hunting, slight exposure pumping, faded colors, soft contrast, mild digital compression and sensor noise. No stabilization, no cinematic camera moves, no modern color grading. One continuous fluid shot, no cuts, no captions, no music.
+
+AUDIO: natural ambience only -wind through wheat, birds, chickens, footsteps on dry earth, rope and wooden bucket creaking, water splashing, donkey sounds, distant countryside atmosphere and the wooden door closing.
+```
+
+### How to adapt it
+
+Choose a period and location, then replace the chores and natural sounds. Preserve the imperfect handheld framing and continuous movement across the timed beats.
+
+**Shared by:** [Saul Goodman](<https://x.com/Goodmanprotocol>)
+
+[Original post on X](<https://x.com/Goodmanprotocol/status/2107530733212590250>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#tuscany-dv-countryside-day>)
+
+<a id="solo-leveling-crystal-chamber"></a>
+
+## Solo Leveling Reimagined in a Glowing Crystal Chamber
+
+[![A fan short combines image tools with Seedance 2.5; its preview frames a lone figure surrounded by fighters in a blue crystal chamber.](<https://pbs.twimg.com/amplify_video_thumb/2107520792430858240/img/zD2NRvFsodI5Nofh.jpg>)](<https://x.com/0xInk_/status/2107520888497393888>)
+
+A fan short combines image tools with Seedance 2.5; its preview frames a lone figure surrounded by fighters in a blue crystal chamber.
+
+**Model:** Seedance 2.5
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Create original character and environment references, then plan readable staging and consistent lighting across separate action shots.
+
+**Shared by:** [INK](<https://x.com/0xInk_>)
+
+[Original post on X](<https://x.com/0xInk_/status/2107520888497393888>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#solo-leveling-crystal-chamber>)
+
+<a id="pink-studio-idol-music-video"></a>
+
+## Two Idols Perform in a Bright Pink Studio Music Video
+
+[![A pink studio performance places two idols among amplifiers and a drum kit in an APT.-inspired music-video scene.](<https://pbs.twimg.com/amplify_video_thumb/2105479633701662720/img/_MduVqNZJ6lmC9sT.jpg>)](<https://x.com/AIwithJessica/status/2105479889159934247>)
+
+A pink studio performance places two idols among amplifiers and a drum kit in an APT.-inspired music-video scene.
+
+**Model:** Seedance 2.5
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Use original performers and music you can reuse. Define the instruments, performance beats and camera positions while keeping the studio palette consistent.
+
+**Shared by:** [Jessica Collins](<https://x.com/AIwithJessica>)
+
+[Original post on X](<https://x.com/AIwithJessica/status/2105479889159934247>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#pink-studio-idol-music-video>)
 
 ## Attribution and corrections
 
