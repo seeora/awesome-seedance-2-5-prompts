@@ -5,7 +5,7 @@ A curated collection of Seedance 2.5 videos from creators, with original sources
 
 **[Browse the visual gallery](<https://seeora.app/seedance-prompts>)**
 
-The collection currently contains **67 verified examples**, with sources reviewed through **2026-10-14**.
+The collection currently contains **72 verified examples**, with sources reviewed through **2026-10-15**.
 
 <a id="race-for-agi-desert-chase"></a>
 
@@ -2951,6 +2951,244 @@ Use original performers and music you can reuse. Define the instruments, perform
 **Shared by:** [Jessica Collins](<https://x.com/AIwithJessica>)
 
 [Original post on X](<https://x.com/AIwithJessica/status/2105479889159934247>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#pink-studio-idol-music-video>)
+
+<a id="kong-radioactive-mutant-deer"></a>
+
+## King Kong Faces a Radioactive Mutant Deer
+
+[![King Kong Faces a Radioactive Mutant Deer — Seedance 2.5 video cover](<https://pbs.twimg.com/amplify_video_thumb/2109256086658359296/img/KpwF432bWO_gAlBT.jpg>)](<https://x.com/Zyra_AI1/status/2109271599975481840>)
+
+A toxic spill sets up a jungle monster showdown in a creator-shared kaiju short film.
+
+**Model:** Seedance 2.5
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Plan the pollution setup, creature reveal and confrontation as separate story beats, then check creature scale across the edit.
+
+**Shared by:** [Zyra AI](<https://x.com/Zyra_AI1>)
+
+[Original post on X](<https://x.com/Zyra_AI1/status/2109271599975481840>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#kong-radioactive-mutant-deer>)
+
+<a id="baby-bathroom-beard-comedy"></a>
+
+## A Baby Copies His Father and Grows a Comical Beard
+
+[![A Baby Copies His Father and Grows a Comical Beard — Seedance 2.5 video cover](<https://pbs.twimg.com/amplify_video_thumb/2109602888574246912/img/P51SEq3lGx5w3mvD.jpg>)](<https://x.com/Zarnab_with_Ai/status/2109603102198468759>)
+
+A bathroom grooming routine turns into an animated father-and-baby comedy with timed reactions and mirror compositions.
+
+**Model:** Seedance 2.5
+
+### Video prompt (author post) · `en`
+
+```text
+Create a 22-second, high-quality 3D animated comedy scene in a luxurious modern bathroom with warm golden lighting, elegant marble walls, a large mirror, and a polished countertop.
+
+Characters:
+
+1. A cute, chubby baby boy with big expressive blue eyes, rosy cheeks, short spiky blond hair, wearing a bright blue T-shirt and mustard-yellow pants.
+2. A handsome young father with wavy dark-brown hair, a short beard, expressive eyebrows, and a blue T-shirt.
+
+Scene-by-scene action:
+
+Scene 1 (0–3 seconds): The father stands beside his baby in front of the bathroom mirror, grooming his beard with a razor. The baby watches curiously from the countertop area, observing his father's actions.
+
+Scene 2 (3–6 seconds): Close-up of the baby holding an electric hair trimmer. With a mischievous expression, he starts trimming his own hair while looking at himself in the mirror.
+
+Scene 3 (6–9 seconds): The baby turns toward the mirror and continues experimenting with his hairstyle. His short blond hair becomes dramatically spiky and uneven, standing straight up in several directions. The baby looks delighted with his new appearance.
+
+Scene 4 (9–12 seconds): The baby faces the camera with a huge innocent smile, showing off his wild hairstyle. Suddenly, the father notices the situation and begins trimming the baby's hair to fix the mess. Small clumps of dark hair fall onto the countertop.
+
+Scene 5 (12–15 seconds): The baby's hairstyle transforms into a hilarious miniature mohawk. His expression changes from happiness to exaggerated seriousness. He suddenly develops a tiny, thick, dark beard and mustache, resembling a miniature version of his father.
+
+Scene 6 (15–18 seconds): A medium shot captures the father and baby staring at each other through the mirror. The father looks completely shocked, with wide eyes and an open mouth. The baby maintains a fierce, grumpy expression, imitating an adult man's attitude.
+
+Scene 7 (18–22 seconds): The baby suddenly breaks into laughter, revealing his playful personality. The father bends forward, laughing uncontrollably at the baby's ridiculous new look. Both characters share a hilarious moment in front of the mirror as the camera captures their exaggerated facial expressions.
+
+Visual Style and Technical Details:
+
+- Premium Pixar-style 3D character animation.
+- Highly detailed skin, realistic hair strands, expressive facial animation, and appealing character design.
+- Warm cinematic bathroom lighting with golden highlights and soft shadows.
+- Beautiful marble textures, realistic mirror reflections, and subtle depth of field.
+- Smooth character movements, natural body language, and comedic timing.
+- Dynamic close-ups alternating with medium shots and mirror compositions.
+- Exaggerated cartoon expressions, playful storytelling, and family-friendly humor.
+- Cinematic rendering, polished textures, high-quality global illumination, and smooth motion.
+- Vertical 9:16 aspect ratio, 30 FPS, consistent character appearance throughout the video.
+
+Overall Mood: Funny, adorable, mischievous, and cinematic. The comedy comes from the baby's imitation of his father and his unexpectedly hilarious transformation into a tiny bearded man.
+```
+
+### How to adapt it
+
+Keep a stable character description and assign each gag its own time window. Check mirror reflections and facial changes between shots.
+
+**Shared by:** [Zarnab Ai](<https://x.com/Zarnab_with_Ai>)
+
+[Original post on X](<https://x.com/Zarnab_with_Ai/status/2109603102198468759>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#baby-bathroom-beard-comedy>)
+
+<a id="skittles-colorful-product-commercial"></a>
+
+## A Skittles Pack Becomes a Colorful Product Commercial
+
+[![A Skittles Pack Becomes a Colorful Product Commercial — Seedance 2.5 video cover](<https://pbs.twimg.com/amplify_video_thumb/2109544808301629440/img/6lTgBNdG8xFJejWk.jpg>)](<https://x.com/AmControo/status/2109544849238098179>)
+
+A creator uses Seedance 2.5 for a candy commercial with saturated colors, playful transitions and dynamic product shots.
+
+**Model:** Seedance 2.5
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Use your own packaging reference, define a consistent color palette and storyboard transitions around the product silhouette.
+
+**Shared by:** [Fathela Esq](<https://x.com/AmControo>)
+
+[Original post on X](<https://x.com/AmControo/status/2109544849238098179>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#skittles-colorful-product-commercial>)
+
+<a id="dragon-size-change-reference-lock"></a>
+
+## A Giant Dragon Shrinks Into a Bedtime Companion
+
+[![A Giant Dragon Shrinks Into a Bedtime Companion — Seedance 2.5 video cover](<https://pbs.twimg.com/amplify_video_thumb/2109578519080513537/img/Kg3wDPZOfLpI_x_E.jpg>)](<https://x.com/ZentrixHQ/status/2109579827565015394>)
+
+A candlelit fantasy scene uses separate references to connect a giant dragon with its smaller form.
+
+**Model:** Seedance 2.5
+
+### Video prompt (author reply 2109580300216889610) · `en`
+
+```text
+Use image 1 for the young woman's face, hair and outfit. Use image 2 for the adult dragon. Use image 3 for the baby dragon.
+
+A 15-second horizontal 16:9 cinematic fantasy scene in a medieval stone bedroom at night. A huge pearl-white dragon tries to climb into a young woman's bed, she tells it that it's too big, the dragon shrinks in a cloud of blue sparkles into a kitten-sized baby dragon, she lifts it into her arms, and they fall asleep together under a fur blanket as she blows out the candle. She speaks three short lines in English with natural lip sync.
+
+MAIN SUBJECT:
+A young woman about 20 years old, grey-blue eyes, light freckles across her nose and cheeks, brown hair in a loose messy bun with loose strands falling around her face. She wears a loose off-white textured linen peasant chemise with a gathered rounded neckline and full sleeves, and over it a sleeveless dark charcoal-brown rough wool pinafore with wide shoulder straps. Dense opaque matte fabric, natural folds. No jewelry. The lower half of her body stays under the fur blanket the whole time. Soft, warm, slightly amused voice.
+
+ADULT DRAGON:
+A huge dragon, its head about the size of the young woman's whole upper body. Pale pearl-white scales with a soft pink flush around the eyes, nose and cheeks, fine pebbled matte scale texture, no metallic shine. Long ivory horns swept back, a crest of pink-tipped spikes along the skull, neck and back. Amber-yellow eyes with a vertical slit pupil. Calm, gentle, hopeful expression. Slow, heavy, careful movements. Its body stays beside the bed, mostly in shadow; only the head, neck and chest lean over the bed into the candlelight.
+
+BABY DRAGON:
+The same dragon at the size of a kitten. Pale pearl-white and soft pink scales, mottled pink-purple on the back and tail, ivory belly plates. Big rounded head, short snout, large amber-yellow eyes with a vertical slit pupil, small pale curved horns, a crest of pink-tipped spikes. Small translucent pink-white wings with thin pink veins, short legs with tiny pale claws. Clumsy, playful, affectionate.
+
+LOCATION:
+A small medieval bedroom about 4 metres wide with rough grey stone walls. Foreground: a carved dark wooden bed with a thick grey-white fur blanket and linen pillows. Middle ground: the young woman sitting up in bed, a small wooden bedside table with ONE lit candle and a clay mug. Background: a small leaded-glass window with cold blue moonlight and light snow falling outside. The window and stone wall stay visible in the wide shots.
+
+CAMERA AND LOOK:
+Realistic cinematic footage, slightly handheld, slow gentle camera moves. Main light is the warm candle on the bedside table, with faint cold blue moonlight from the window as fill. Soft shadows, natural skin tone with visible freckles and skin texture, muted contrast, mild bloom around the candle flame, faint film grain, shallow depth of field. No glossy beauty lighting, no artificial rim light, no heavy color grading. Shots change every 2-3 seconds, cut only after a movement is finished. The camera and crew never appear in frame.
+
+CONTINUOUS STORY:
+
+00:00-00:03 - TOO BIG
+Medium wide side shot. The adult dragon is already leaning its huge head and chest over the bed, pressing down on the fur blanket; the mattress sinks and the wooden bed frame creaks. The young woman sits up, grabs the edge of the blanket and leans back, laughing in surprise. She says: "Whoa! You're way too big!"
+
+00:03-00:06 - NO ROOM
+Close shot, both in profile facing each other. The dragon lowers its snout toward her. She raises ONE open palm and rests it on its snout. ONE soft contact, her fingers on the scales. She smiles gently and says: "I love you, but there's no room for you." The dragon blinks ONE slow time, the slit pupil widening.
+
+00:06-00:08 - THE SPARKLES
+Same close shot. Soft blue sparkles and glowing dust begin to rise from the dragon's scales and fill the air between them. The sparkles grow brighter and denser until they cover the dragon's head completely. Her hand pulls back slightly, eyes wide. Cut while the sparkles are at their brightest.
+
+00:08-00:10 - HER REACTION
+Close-up on the young woman's face only, no dragon in frame. Blue light flickers across her freckles. Her mouth opens in a silent gasp, then breaks into a wide delighted smile. Loose strands of hair move slightly.
+
+00:10-00:12 - THE BABY DRAGON
+Medium shot. The baby dragon stands on the fur blanket in front of her, last sparkles fading around it. It tilts its head, spreads its small wings ONE time and wobbles clumsily on the soft fur. She reaches out with both hands, lifts it up to her face and says: "Now that's much better." It nuzzles her cheek with its snout.
+
+00:12-00:15 - GOING TO SLEEP
+Close shot from the pillow side. She lies back on the pillow holding the baby dragon against her chest, pulls the fur blanket over both of them with one hand. The baby dragon curls up under her chin, only its head and pink crest visible above the fur, eyes slowly closing. She turns her head and blows out the candle with ONE soft breath. The room goes dark, only the cold blue moonlight from the window remains on their faces. The shot ends on the two of them asleep in the blue light.
+
+DIALOGUE (the young woman only, English, natural lip sync, soft warm voice):
+00:01 - "Whoa! You're way too big!"
+00:04 - "I love you, but there's no room for you."
+00:11 - "Now that's much better."
+No other spoken words. The dragons do not speak.
+
+SOUND:
+Natural sound under the dialogue. The wooden bed frame creaking under the dragon's weight, the dragon's slow deep breathing and a low rumble, the rustle of fur. A soft airy whoosh as the sparkles rise. Her small gasp at the transformation, the baby dragon's tiny chirps and purring. The soft puff of the candle being blown out, then only quiet breathing. No music, no narration, no voice-over.
+
+ESSENTIAL CONTINUITY:
+The adult dragon never fully enters the bed; only its head, neck and chest lean over it. The size change happens only inside the sparkles and is never shown as a morph. The baby dragon has exactly the same pearl-white and pink color, amber slit-pupil eyes and pink-tipped crest as the adult dragon. There is ONE adult dragon before the sparkles and ONE baby dragon after, never both at once. Her hands touch the scales without passing through them. ONE candle on the bedside table, lit until 00:14, then out. The three lines are spoken once each, in this order, at these moments. The young woman keeps the same off-white linen chemise, charcoal-brown wool pinafore, messy bun and freckles in every shot. The same bed, fur blanket, stone walls and window in every shot. Preserve her face, hair and outfit throughout. Preserve the dragon's color, eyes, horns, crest and wings throughout.
+
+No repeated actions, repeated lines, slow motion, teleportation, duplicated characters, two dragons at once, changing outfits, CGI appearance, captions, subtitles, watermarks, recording interface.
+```
+
+### How to adapt it
+
+Prepare separate references for the person and both dragon sizes. Assign each image a role and repeat shared colors, eyes and crest in continuity rules.
+
+**Shared by:** [Zentrix⌚️](<https://x.com/ZentrixHQ>)
+
+[Original post on X](<https://x.com/ZentrixHQ/status/2109579827565015394>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#dragon-size-change-reference-lock>)
+
+<a id="gym-camera-comedy-timed-cuts"></a>
+
+## A Distracted Gym Camera Operator Gets Caught
+
+[![A Distracted Gym Camera Operator Gets Caught — Seedance 2.5 video cover](<https://pbs.twimg.com/amplify_video_thumb/2108987173395365889/img/5kpluLPLVujAxCZx.jpg>)](<https://x.com/Zyvex_0x/status/2108990195026829717>)
+
+A handheld gym comedy coordinates two timed cuts, dialogue, object continuity and repeated camera corrections.
+
+**Model:** Seedance 2.5
+
+### Video prompt (author reply 2108996348280271166) · `en`
+
+```text
+Create a 15-second, vertical 9:16 photorealistic live-action gym clip with exactly 2 hard cuts, at 5.5s and at 10.5s. No reference image.
+
+A sweet, sweaty fitness woman named Mila trains glutes in a dark premium gym at night. Her friend behind the camera keeps getting distracted by her body, and Mila keeps catching him: first with a look over her shoulder, then with "Eyes up here", and finally, after explaining her glute rule and sipping water, with a silent finger pointing up as she walks away and the camera drifts down again. Treat everything as ordinary real footage. Mila is calm, confident, sweet and teasing, never exaggerated.
+
+FIRST FRAME
+At 0.0s Mila is already halfway down in a back squat inside a black steel squat rack, seen from directly behind at hip height, framed from shoulders to knees. A loaded barbell with large black plates rests across her upper back, both hands gripping the bar wide. Warm downlight falls on her from above.
+
+MAIN SUBJECT
+Mila, 24 years old, a clearly adult woman. Long dark-blonde hair in a high, slightly messy ponytail, loose strands stuck to her damp neck. Warm light-olive skin, hazel eyes, full natural lips, soft lashes, minimal makeup, small gold hoops. Athletic, curvy figure: full, large, natural-looking bust, narrow waist, round strong glutes, toned thighs, realistic body proportions. Naturally sexy in an effortless, believable way. She wears thin high-waisted seamless BLACK leggings, a matching BLACK sports bra with a slightly low scoop neckline, white training shoes. The thin black fabric stretches tight over her glutes; at the bottom of each squat the stretched fabric thins and turns slightly see-through, and a faint hint of white underwear shows through the black only a little, subtle and barely noticeable, then fades as she rises. She is visibly sweaty: a natural sheen on her chest, shoulders, neck and lower back, the black fabric slightly darker where it is damp, flushed cheeks. Her face, hair, body and outfit stay identical in every shot. Exactly one person is visible.
+
+LOCATION AND BACKGROUND
+A dark high-end private gym at night, readable at a glance: a black squat rack on dark rubber flooring, a long row of matte dumbbells on the left receding into depth, tall windows with soft round city glows at the far end, a padded taupe bench with a clear water bottle near the rack. Three depth layers: the edge of the bench and the water bottle in the near foreground, slightly out of focus; Mila in the middle; the dumbbell rows and windows behind her. Light comes only from warm ceiling downlights fading into the distance in a line above her. The background stays one to two stops darker than her skin; her glowing, sweaty skin is the brightest thing in the frame. Warm taupe and graphite surroundings; a thin warm rim of light from the downlights separates her black outfit from the dark background. Background life: far outside the window, car lights slowly drift past. Lived-in detail: chalk on the bar, scuffs on the floor. No other people, no mirrors, no readable text, no screens, no logos. The rack, bench, bottle and dumbbell rows stay in the same places in every shot.
+
+CAMERA
+Authentic casual footage captured with an older consumer digital camera. Handheld DV 16mm camcorder aesthetic. Her friend, unseen, operates the camera and is clearly distracted by her. Natural hand shake, crooked framing, late corrections, delayed autofocus after reframing. Every time the camera gets caught, it jerks guiltily back up to her face. Avoid gimbal-like movement. Her face and the key action stay in the centre and upper two thirds of the frame.
+
+LOOK AND LIGHT
+Soft digital-tape look, faint noise, mild compression, slightly muted colours, restrained contrast, imperfect white balance. Low-key image: warm downlights shape her body from above with a soft rim along the black fabric; roughly half the frame stays in soft shadow. Modest depth of field, background softly out of focus but recognizable. Real skin: visible pores, fine baby hairs, a fine sweat sheen catching the light, never oily or plastic. Real black fabric knit with soft highlights where it stretches. Available light from the ceiling fixtures only, no studio lighting, no beauty filters, no glossy commercial finish.
+
+MOTION
+Fluid, natural, real-time human motion with real weight and momentum. Every action has preparation, action and follow-through: the body settles, ponytail and fabric keep moving a moment after she stops. Her eyes move first, then her head, then her shoulders. Not every body part moves in synchronization. She is never frozen: she breathes visibly, blinks, shifts her weight. A small breath before each line, body moving while talking. No frozen frames, no time stalls, no looping, no slow or sped-up motion, no stiff posing.
+
+BODY MOVEMENT
+Barbell squat: feet slightly wider than hips, toes out. She inhales at the top, sits her hips back and down, knees over toes, torso leaning slightly forward, then drives up through her heels with a short effort exhale, glutes and thighs tightening, plates wobbling and clinking, ponytail swinging a beat behind her. Bodyweight squat: hands clasped loosely at her chest, same mechanics, chest rising with each breath. Walking away: hips shift naturally over each supporting foot, ponytail swaying.
+
+ACTION AND TIMING
+00:00–00:05.5 — SHOT 1, REAR, camera at hip height two metres behind her. She completes one slow, heavy squat and rises (the faint white hint visible through the stretched black fabric only at the very bottom); the camera slowly zooms in on her glutes and lingers too long. At 00:03.0 she racks the bar on the hooks with BOTH hands, plates clink and settle. At 00:04.0, still facing away, she glances back over her RIGHT shoulder straight into the lens, raises one eyebrow, slow knowing smirk. The camera jerks upward to her face. No dialogue.
+00:05.5–00:10.5 — SHOT 2, FRONT, camera at chest height, framing head to mid-thigh. She does slow bodyweight squats facing the lens. The frame slowly drifts down toward her chest; she catches it, tilts her head, a small smirk: "Eyes up here." The camera jerks back up to her face. She keeps squatting, warm and clear: "Rule one: sit back, then squeeze at the top."
+00:10.5–00:15.0 — SHOT 3, CLOSE, from slightly below, head and chest. She picks up the water bottle from the bench with her RIGHT hand and takes one slow, gentle sip from the side, the bottle NEVER covering her eyes, eyes softly half-closed for a moment. She lowers the bottle to chest height, presses her lips together, gives a sweet breathless smile into the lens: "Your turn." At 00:12.8 she turns and walks back toward the rack, bottle still in her RIGHT hand. The camera immediately drifts down to her glutes again. At 00:14.0, without turning around, she raises her LEFT hand over her LEFT shoulder and points one finger straight up. Hold this for the final 0.7 seconds.
+
+SOUND
+Natural gym sound only: her breathing and short exhales, plates clinking, the bar settling into the hooks, shoes squeaking on rubber, ventilation hum, a soft swallow after the sip, her footsteps walking away. Only Mila speaks, each line once, warm, slightly breathy American delivery, clear lip-sync, recorded by the same camera microphone. No music. Finish the last line before 00:12.8.
+
+CONTINUITY
+One woman, one loaded barbell, one rack, one bench, one water bottle. The bar stays on the hooks after 00:03.0. The bottle stays on the bench until her RIGHT hand picks it up and stays in her RIGHT hand to the end. The final gesture is made only with her LEFT hand. Her outfit stays black in every shot. She does NOT touch her face. No other people appear.
+
+PHYSICAL REALISM
+The barbell has real weight, plates wobble with real mass, water moves inside the bottle. Hair and fabric lag behind her body. Feet stay on the ground. Five fingers per hand, natural joints. No extra fingers, fused hands, duplicated limbs, distorted anatomy, floating or disappearing objects, teleportation or sudden transformations. No nudity. No text, captions, logos or watermarks. She is an adult.
+
+FINAL FEEL
+A real late-night leg day filmed by a hopelessly distracted friend who keeps getting caught: sweaty, sweet, teasing and funny. Not a commercial. Not a fashion shoot. Not a music video. Not polished influencer content.
+```
+
+### How to adapt it
+
+For a fitness demonstration, keep the character and equipment fixed, time each camera correction and track which hand holds the bottle.
+
+**Shared by:** [Zyvex](<https://x.com/Zyvex_0x>)
+
+[Original post on X](<https://x.com/Zyvex_0x/status/2108990195026829717>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#gym-camera-comedy-timed-cuts>)
 
 ## Attribution and corrections
 
