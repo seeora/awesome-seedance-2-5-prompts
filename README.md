@@ -5,7 +5,7 @@ A curated collection of Seedance 2.5 videos from creators, with original sources
 
 **[Browse the visual gallery](<https://seeora.app/seedance-prompts>)**
 
-The collection currently contains **72 verified examples**, with sources reviewed through **2026-10-15**.
+The collection currently contains **77 verified examples**, with sources reviewed through **2026-10-16**.
 
 <a id="race-for-agi-desert-chase"></a>
 
@@ -3189,6 +3189,196 @@ For a fitness demonstration, keep the character and equipment fixed, time each c
 **Shared by:** [Zyvex](<https://x.com/Zyvex_0x>)
 
 [Original post on X](<https://x.com/Zyvex_0x/status/2108990195026829717>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#gym-camera-comedy-timed-cuts>)
+
+<a id="last-supper-painted-camera-orbit"></a>
+
+## A Camera Journey Inside a Last Supper Painting
+
+[![A Camera Journey Inside a Last Supper Painting](<https://pbs.twimg.com/amplify_video_thumb/2110709056650481664/img/ukvVEwWcnRLDymfJ.jpg>)](<https://x.com/abxxai/status/2110709089710088537>)
+
+A continuous camera route explores a dimensional Renaissance-style painting, then returns to its opening composition.
+
+**Model:** Seedance 2.5
+
+### Author-published video prompt · `en`
+
+```text
+[First-Frame.png] Create a 20-second vertical 9:16 image-to-video film, using the supplied image as the exact first frame and matching final frame. One continuous camera journey through the room, with macro detail, a gradual emotional reveal, an orbit behind the central figure and a seamless return.
+
+Build the supplied scene as complete 3D geometry while preserving its Renaissance oil-painted appearance. The table stands in real space, the tablecloth drapes over its edges, the food and vessels sit on its surface, and every figure has a fully dimensional body beneath their robes. As the camera passes around them, reveal the sides and rear surfaces hidden from the opening viewpoint. Retain the original brushwork, warm earthy colours, soft daylight and expressive faces.
+
+IDENTIFY AND PRESERVE THE FIGURES
+
+The central figure sits at the middle of the table. He has long wavy brown hair, a full brown beard and downcast, calm eyes. He wears a deep red robe with a rich blue mantle draped across his left shoulder and lap. His right hand rests palm-down on the tablecloth at the left of the frame; his left hand lies open, palm-up, beside a small glass of red wine.
+
+To his right (left of frame) sits a young apostle with long golden-brown hair, a green mantle over a red garment, his sorrowful gaze turned toward the centre. In front of him, a balding older man with a dark beard, wearing red and blue, leans in with a pointing gesture. A partly visible figure with curly hair sits at the far left edge.
+
+To his left (right of frame) a man with thick black curly hair and a dark beard, in a blue robe, turns to speak with a grey-bearded elder in an olive-green robe at the right edge, who raises both hands in an open, questioning gesture.
+
+Keep every pose, gesture, gaze direction and costume exactly as in the reference. No figure moves.
+
+THE ROOM AND TABLE
+
+A dark coffered wooden ceiling. A grey back wall with three tall windows opening onto a sunlit Tuscan landscape of blue hills, cypress trees, terracotta villas and a bell tower. Dark blue and gold damask panels on both side walls.
+
+A long table covered in white linen with a visible grid of fold creases, hanging almost to the floor. On it: scattered bread rolls and crumbs, pewter plates, a central plate of fish, the small glass of red wine, a bowl of green olives, a plate of red and green grapes at the right, a blue-and-white decorated bowl with bread at the left, and a dark glazed ceramic jug at the far left. Wooden trestle legs and the hems of robes are visible below the cloth.
+
+0–3 SECONDS — ENTER OVER THE BREAD
+
+Begin on the exact supplied image for approximately half a second.
+
+The camera then flies forward into the room and descends toward the bread roll resting on the tablecloth just left of centre. Pass macro-close above it.
+
+Reveal the roll's rounded volume, cracked golden crust, flour-dusted ridges and the small crumbs scattered around it, each casting a tiny shadow on the linen. The nearest crust passes softly out of focus beneath the lens as the camera glides on.
+
+The tablecloth has physical relief: woven threads, raised fold creases and shallow dips where objects press into it. The bread falls behind the moving camera while the central figure stays fixed farther into the room. This changing perspective establishes real depth immediately.
+
+3–7 SECONDS — GLIDE ACROSS THE TABLE TO THE WINE
+
+Travel low and smoothly across the linen toward the centre of the table, skimming past the rim of the fish plate. Reveal the plate's worn pewter edge, its curved depth and the painted fish resting inside.
+
+Continue to the small glass of red wine. Curve partly around it at macro distance, revealing the thickness of the glass, the flat surface of the wine, and daylight from the windows refracting through it as a soft red glow on the cloth.
+
+The glass crosses the near foreground, the open palm-up hand appears just beyond it, and the back wall shifts more slowly behind. Maintain forward momentum throughout.
+
+7–10 SECONDS — RISE ALONG THE OPEN HAND AND MANTLE
+
+Rise past the open hand, revealing the gentle curve of the fingers, the creases of the palm and its weight resting on the cloth.
+
+Continue upward along the blue mantle where it falls across his lap and left shoulder. Travel close to the fabric without touching it. Show the painted texture, the deep blue folds as dimensional surfaces: raised crests catch the window light, undersides fall into shadow, and the red robe shows beneath the mantle's edge.
+
+The blue fabric passes beside the lens as his face comes into view above.
+
+10–13 SECONDS — REVEAL THE CENTRAL FACE
+
+Curve inward and slightly upward toward his face.
+
+Approach a close view of his lowered eyes, calm brow, nose and the soft strands of his beard and hair. Preserve the exact face from the reference. Reveal the three-dimensional shape of the cheekbones and brow, and the subtle painted texture of the skin, fully connected to his neck and shoulders.
+
+Ease the camera's speed for approximately one second while continuing a gentle sideways drift. Let the stillness and quiet sorrow register. He does not move; the emotion comes from discovering the expression already present in the painting.
+
+13–17 SECONDS — ORBIT BEHIND HIM TO THE WINDOW
+
+Continue past the outside of his face, over his blue-draped left shoulder, and orbit smoothly behind him into the narrow space between his back and the central window.
+
+Reveal the back of his long wavy hair, the rear folds of the blue mantle and red robe, and the thickness of his shoulders beneath the fabric. His shoulder passes close beside the lens as a soft foreground shape.
+
+Turn gently to look past him through the central window: the sunlit Tuscan hills, cypresses and villas gain real depth, the far hills hazy and the near trees sharper. Then continue the arc so the view swings back over his other shoulder, revealing from behind the backs of the apostles' heads, the young apostle's green mantle, and the whole table spread out before them toward where the viewer began.
+
+17–20 SECONDS — RETURN TO THE ORIGINAL COMPOSITION
+
+Rise and retreat in one smooth arc over the table, passing above the grey-bearded elder's raised open hands at the right, then curving back onto the opening camera axis.
+
+Reveal all figures again in their exact positions. The bread, plates, wine glass, olives, grapes, decorated bowl and ceramic jug settle back onto the table as in the supplied image. The coffered ceiling, three windows and damask walls realign with the frame.
+
+Gently decelerate into the exact opening viewpoint, lens perspective, framing and lighting. End on a frame matching the supplied image so the next repetition flows directly into the opening movement.
+
+CAMERA, STYLE AND CONTINUITY
+
+Use one uninterrupted physical camera path: over the bread, across the table to the wine, up the open hand and blue mantle, to the central face, around behind him to the window, back over his shoulder and out to the original wide composition.
+
+Use natural motion blur and shallow depth of field during macro passes. Transfer focus smoothly to the next detail along the route. Foreground objects pass the lens because the camera moves around them; no figure changes pose, blinks, speaks or moves toward the camera.
+
+Maintain one coherent room with stable geometry and consistent warm daylight from the windows. Hidden surfaces belong to the existing figures, clothing, table and walls and match their visible design. Preserve the oil painting's brushwork, canvas texture and colour at every scale.
+
+No cuts, crash zooms, dissolves, flat canvas flyovers, wall-relief effects, scene morphing, additional people, new props, extra food, text or watermark.
+```
+
+### How to adapt it
+
+Use your own first-frame artwork and plan a continuous route through its objects. Keep figures still and match the opening frame for a loop.
+
+**Shared by:** [Abdul Shakoor](<https://x.com/abxxai>)
+
+[Original post on X](<https://x.com/abxxai/status/2110709089710088537>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#last-supper-painted-camera-orbit>)
+
+<a id="cyberpunk-mecha-monster-battle"></a>
+
+## A Blue Mecha Battles an Alien in a Ruined Neon City
+
+[![A Blue Mecha Battles an Alien in a Ruined Neon City](<https://pbs.twimg.com/amplify_video_thumb/2109503883227865088/img/mXDOKGq5BM3iQOc2.jpg>)](<https://x.com/laviniavelle/status/2109504064186982604>)
+
+An armored robot confronts a spiked alien amid sunset skyscrapers, rubble, energy blades and fast action.
+
+**Model:** Seedance 2.5
+
+### Author-published video prompt · `en`
+
+```text
+Cinematic action sequence in a futuristic, dystopian cyberpunk city at sunset, with towering skyscrapers, glowing neon signs, and a ruined street covered in rubble and abandoned cars. A powerful, heavily armored blue and silver mecha robot with glowing blue energy blades on its arms lands heavily on the cracked asphalt, creating a cloud of dust. A massive, ferocious alien monster with red glowing eyes and spiked armor emerges from the smoke, roaring. The mecha engages in a dynamic, high-speed battle with the creature, dodging attacks, slashing with its energy swords, and sparking with electric energy. Epic movie quality, detailed textures, dramatic lighting, and fast-paced camera movement.
+```
+
+### How to adapt it
+
+Define distinct silhouettes for two opponents, then sequence landing, reveal, dodge and strike beats with a stable city setting.
+
+**Shared by:** [Lavinia](<https://x.com/laviniavelle>)
+
+[Original post on X](<https://x.com/laviniavelle/status/2109504064186982604>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#cyberpunk-mecha-monster-battle>)
+
+<a id="baby-dog-family-kitchen-comedy"></a>
+
+## A Mischievous Baby Turns a Family Kitchen Into Comedy
+
+[![A Mischievous Baby Turns a Family Kitchen Into Comedy](<https://pbs.twimg.com/amplify_video_thumb/2110558237301014528/img/Sv-TVutSOFEHybvk.jpg>)](<https://x.com/Zarnab_with_Ai/status/2110558398492348605>)
+
+A family animation combines a mischievous baby, a curious dog and an exaggerated slapstick reaction.
+
+**Model:** Seedance 2.5
+
+### Author-published video prompt · `en`
+
+```text
+Create an ultra-realistic, cinematic 3D animated family comedy featuring an adorable chubby baby wearing a blue teddy-bear romper, a beautiful mother in a white sweater, a father in a dark business suit, and a playful golden-brown dog. Inside a cozy modern home, the baby creates a funny mess in the kitchen, plays with toys, and giggles mischievously. The curious dog follows the baby around while the mother reacts with surprise and amusement. Suddenly, the distracted father enters while looking at his phone, accidentally slips on a banana peel, and falls harmlessly onto a soft mat. The baby bursts into laughter as the father makes an exaggerated shocked expression. End with the baby smiling innocently while the father looks confused. Maintain consistent character faces, clothing, and proportions, with expressive facial animations, realistic textures, smooth movements, cinematic lighting, and perfectly timed comedic sound effects. Pixar-style 3D animation, vertical 9:16, 1080p, family-friendly, high-quality rendering.
+```
+
+### How to adapt it
+
+Prepare consistent family and pet references, then break the kitchen setup and slapstick payoff into clear beats before editing.
+
+**Shared by:** [Zarnab Ai](<https://x.com/Zarnab_with_Ai>)
+
+[Original post on X](<https://x.com/Zarnab_with_Ai/status/2110558398492348605>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#baby-dog-family-kitchen-comedy>)
+
+<a id="pringles-product-commercial-story"></a>
+
+## A Pringles Product Commercial With a Story Opening
+
+[![A Pringles Product Commercial With a Story Opening](<https://pbs.twimg.com/amplify_video_thumb/2110270855510978560/img/jxLjqhlP9p2kb72V.jpg>)](<https://x.com/YolandahGil/status/2110270889702957513>)
+
+A creator-made Pringles commercial uses a live-action-style story opening to introduce a snack advertising concept.
+
+**Model:** Seedance 2.5
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Use packaging you can supply as a reference, plan a short narrative hook, and check product continuity across the final edit.
+
+**Shared by:** [Yolanda](<https://x.com/YolandahGil>)
+
+[Original post on X](<https://x.com/YolandahGil/status/2110270889702957513>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#pringles-product-commercial-story>)
+
+<a id="fictional-badminton-brand-promo"></a>
+
+## A Fictional Badminton Brand Gets a Sports Promo Film
+
+[![A Fictional Badminton Brand Gets a Sports Promo Film](<https://pbs.twimg.com/amplify_video_thumb/2108543410454003712/img/21f2VayXWjPTSRbR.jpg>)](<https://x.com/daichitashiro41/status/2108545273593213199>)
+
+A fictional badminton campaign combines athletic imagery with a graphic racket reveal and a separate editing workflow.
+
+**Model:** Seedance 2.5
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Create your own sports identity and athlete references, plan movement and product detail shots, then review racket contact and shuttle motion in the edit.
+
+**Shared by:** [田代 大地](<https://x.com/daichitashiro41>)
+
+[Original post on X](<https://x.com/daichitashiro41/status/2108545273593213199>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#fictional-badminton-brand-promo>)
 
 ## Attribution and corrections
 
