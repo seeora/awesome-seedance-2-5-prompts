@@ -5,7 +5,7 @@ A curated collection of Seedance 2.5 videos from creators, with original sources
 
 **[Browse the visual gallery](<https://seeora.app/seedance-prompts>)**
 
-The collection currently contains **77 verified examples**, with sources reviewed through **2026-10-16**.
+The collection currently contains **82 verified examples**, with sources reviewed through **2026-10-17**.
 
 <a id="race-for-agi-desert-chase"></a>
 
@@ -3379,6 +3379,275 @@ Create your own sports identity and athlete references, plan movement and produc
 **Shared by:** [田代 大地](<https://x.com/daichitashiro41>)
 
 [Original post on X](<https://x.com/daichitashiro41/status/2108545273593213199>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#fictional-badminton-brand-promo>)
+
+<a id="peephole-apartment-thriller"></a>
+
+## A Peephole Camera Move Connects Both Sides of a Standoff
+
+[![A Peephole Camera Move Connects Both Sides of a Standoff — Seedance 2.5 video cover](<https://pbs.twimg.com/ext_tw_video_thumb/2110792839357476864/pu/img/EtZB-VBk80fq28W3.jpg>)](<https://x.com/CharaspowerAI/status/2110792869610991923>)
+
+A corridor-to-apartment camera journey builds suspense around a closed door and a tactical team.
+
+**Model:** Seedance 2.5
+
+### Creator reply prompt · `en`
+
+```text
+Ultra-realistic urban crime-thriller, one seamless 30-second continuous shot. Gritty premium realism, restless handheld energy, long-lens hallway tension, impossible micro-camera movement, subtle film grain, hard practical lighting, smoky apartment atmosphere, intense but non-graphic.
+
+A four-man tactical intervention team in modern gear stacked outside an apartment door in a narrow corridor. Inside: four distinct adult criminals, tense, organized, preparing for an imminent breach. Keep exactly 4 outside and exactly 4 inside.
+
+Old apartment building hallway leading to one door with a visible peephole. Inside: cramped urban apartment with entry hall, living room, kitchen, bedroom doorway, low lamps, cluttered table, scattered cash, duffel bags, blinds half-closed.
+
+0-6s: [Hallway setup] Side-on handheld tracking in the corridor as the 4-man tactical team stacks tightly outside the apartment door, silent hand signals, heavy breathing, gloved hands, door frame, tension building.
+
+6-10s: [Peephole transition] Camera pushes aggressively toward the door peephole, then impossibly passes through the peephole into darkness, emerging inside the apartment in one fluid move.
+
+10-18s: [Interior glide] Camera snakes through the apartment: across the entry hall, past a cluttered table, around the living room, revealing the 4 criminals taking positions, checking the door, pulling curtains, exchanging quick looks, one at the kitchen counter, one near the sofa, one by the bedroom, one just off the entry line.
+
+18-24s: [Escalation] Camera continues through rooms and circles back toward the front door from the inside. Tension spikes. One criminal hears something and freezes. Another slowly kills a lamp. Silence.
+
+24-30s: [Face-off payoff] The camera glides back into the peephole and emerges into the hallway again, now inches from the tactical team. On the other side of the door both groups are ready. Tight close-up on the team leader’s eyes, then on the doorknob trembling slightly. Hard cut before the breach.
+
+One continuous shot, exact 4-person team outside and exact 4 criminals inside, clear apartment geography, impossible peephole transition, premium tension, no shootout shown, no gore, no text, no logos.
+```
+
+### How to adapt it
+
+Retain a clear room layout and a repeated camera route through one small opening. Retime each beat for your chosen duration.
+
+**Shared by:** [Pierrick Chevallier | IA](<https://x.com/CharaspowerAI>)
+
+[Original post on X](<https://x.com/CharaspowerAI/status/2110792869610991923>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#peephole-apartment-thriller>)
+
+<a id="playful-selfie-whip-pan"></a>
+
+## Two Friends Trade Playful Faces in a Whip-Pan Selfie
+
+[![Two Friends Trade Playful Faces in a Whip-Pan Selfie — Seedance 2.5 video cover](<https://pbs.twimg.com/amplify_video_thumb/2110628383721746432/img/KYTB80HGYnNCNU7m.jpg>)](<https://x.com/johnAGI168/status/2110628576781631737>)
+
+A vertical selfie alternates between two adult women, building from smiles to exaggerated close-up laughter.
+
+**Model:** Seedance 2.5
+
+### Creator reply prompt · `zh`
+
+```text
+SEEDANCE 2.5 DIRECTOR PROMPT
+
+Duration: 10秒
+Aspect ratio: 9:16
+
+SUBJECT / REFERENCE
+@图片1＝女主甲，位于画面左侧，完整保留角色卡中的面容、发型、服装和配饰。
+@图片2＝女主乙，位于画面右侧，完整保留角色卡中的面容、发型、服装和配饰。
+两人均为成年女性。仅将角色卡的姿势与背景改为以下场景，人物造型全程不变。正文统一使用女主甲、女主乙指代。
+
+ENVIRONMENT / STYLE
+两人并排仰躺在相邻的白色枕头上，头部距离较近，背景只有白色床品和少量暖灰棕色床头。
+明亮、均匀的暖白室内光，两张脸都清楚。
+真实手机自拍视频质感，近距离广角透视、轻微曝光变化、手持晃动和自然运动模糊。
+前半段是张嘴微笑的随手自拍，后半段突然放开表情，越拍越好笑。
+
+CAMERA CONTINUITY
+全片一镜到底（Single continuous take），无硬切、转场或分屏。
+手机位于两人面部上方，向下拍摄；手机本体和持机手始终在画外。
+
+摄影机快速左右甩动（Whip pan），在左侧女主甲和右侧女主乙之间往返。
+每次甩镜都连续经过中间的枕面，短暂掠过两张脸，带有运动模糊，随后落到下一人的脸上。
+
+前半段是头肩近景和面部近景。
+从4.7秒开始，在左右甩镜之外增加突然贴近和稍稍抽离（Push-in / Pull-back），脸迅速放大，鼻嘴产生真实的近摄透视，头顶和脸侧可以出框。
+不使用液化、变脸或数码膨胀效果。
+
+拍女主甲时画面常带轻微倾斜，脸斜着占画面；甩到女主乙时略微摆正，始终保留随手拍的自然晃动。
+两人不交换位置、不起身、不靠翻滚完成镜头切换。
+
+AUDIO
+轻电子节拍下，较低的短促“Ah”和较高的“Ah”交替出现。
+镜头落到女主甲时对应较低采样，落到女主乙时对应较高采样，张嘴与采样起点同步（Lip-sync）。
+4.7秒开始，声音变成更高、更夸张的滑稽“啊——”喊声，配合瞪眼和大张嘴。
+两人表演开心、放开的搞怪状态，不表现恐惧或疼痛。
+无完整对白、无旁白、无字幕。
+
+0.0–4.7秒｜前三轮，轮流张嘴微笑
+
+开场已经对准左侧女主甲的脸。
+她看镜头，眼睛略眯，张嘴配合短促采样，嘴角带笑。
+
+镜头快速右甩到女主乙。她看向近处镜头，张嘴后露齿笑，头部仍贴着枕头。
+再快速左甩回女主甲，两人轮流回应镜头，不转头互相说话。
+
+镜头主要落点：
+0.0秒左右：女主甲。
+0.7秒左右：女主乙。
+1.5秒左右：女主甲。
+2.3秒左右：女主乙。
+3.0秒左右：女主甲。
+3.9秒左右：女主乙。
+4.3–4.7秒：镜头连续甩回女主甲。
+
+每次在脸上短暂停留，随后甩向另一人。
+前半段表情比较自然，张嘴、微笑、轻轻眯眼，尚未开始最大幅度的搞怪。
+
+4.7–7.7秒｜突然贴脸，表情升级
+
+镜头回到女主甲后，突然凑近她的脸。
+她的脸从普通近景迅速变成几乎占满竖屏的极近特写（Extreme close-up）。
+她睁大眼睛、张大嘴，配合夸张喊声；近摄透视放大鼻嘴，但面容身份不变。
+
+镜头稍稍抽离，快速右甩到女主乙，再突然贴近。
+女主乙抬眉、瞪眼、张嘴露齿，随即忍不住笑。
+保持“稍退—甩过去—突然贴近”的连续动作，再往返一轮。
+
+镜头主要落点：
+4.8秒左右：女主甲贴脸搞怪。
+5.4秒左右：女主乙贴脸回应。
+6.2秒左右：女主甲大张嘴笑。
+7.0秒左右：女主乙抬眉瞪眼、张嘴笑。
+7.4–7.7秒：抽离并甩回女主甲。
+
+镜头贴近幅度和表情明显增强，仍能看清每次左右运动的连续过程。
+
+7.7–9.1秒｜最后一次怼近女主甲
+
+镜头再次迅速凑近女主甲。
+她的脸斜着铺满画面，额头和脸侧部分出框。
+她持续大张嘴、露齿，眼睛在瞪大和笑眯之间变化，已经被这个自拍视频逗得停不下来。
+
+这次比前几次多停一小会儿，手机在近处短促晃动，保持她的脸可见。
+不增加吐舌、翻白眼或手部动作。
+
+8.8秒左右开始稍稍抽离，随后连续右甩，9.1秒到达女主乙面前。
+
+9.1–10.0秒｜女主乙贴脸大笑收尾
+
+镜头甩到女主乙后立即贴近。
+她张嘴露齿大笑，眼睛随着笑容变窄，脸占据几乎整个竖幅。
+保持近距离广角透视和轻微手持晃动。
+
+直接在她的大笑脸上结束。
+不拉远，不切双人同框，不回到女主甲，不做静态定格。
+
+CONSTRAINTS
+两张角色卡分别锁定两人的面容、发型、服装与配饰，快速甩镜中也不串脸、不换装。
+两人全程躺在原来的枕头上。
+脸的大小变化来自摄影机靠近或退开，人物五官不自行变形。
+前半段表情相对收着，4.7秒后才明显放开。
+全片约六轮“女主甲→女主乙”，结尾必须落在女主乙。
+
+NEGATIVE
+改变角色卡服装，替换配饰，发型漂移，换装
+硬切，剪辑正反打，分屏，闪白，淡入淡出
+人物换位，坐起，翻滚，突然出现第三人
+手机入镜，持机手入镜，交接手机
+换脸，串脸，面部融合，液化变形，五官漂移
+僵硬微笑，恐惧表演，疼痛表演，哭泣
+额外吐舌，翻白眼，抓衣服，互相推搡
+稳定器滑行，电影慢推，慢动作，过度景深虚化
+暗调灯光，浓重黄光，过度磨皮，塑料皮肤
+结尾拉远，双人合影收尾，女主甲收尾，定格
+旁白，额外对白，字幕，贴纸，水印，品牌标志
+```
+
+### How to adapt it
+
+Use two adult character references, fixed left/right positions, timed whip pans, and separate audio cues for each performer.
+
+**Shared by:** [John](<https://x.com/johnAGI168>)
+
+[Original post on X](<https://x.com/johnAGI168/status/2110628576781631737>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#playful-selfie-whip-pan>)
+
+<a id="telekinetic-seoul-hostage-rescue"></a>
+
+## A Telekinetic Girl Interrupts a Seoul Hostage Standoff
+
+[![A Telekinetic Girl Interrupts a Seoul Hostage Standoff — Seedance 2.5 video cover](<https://pbs.twimg.com/amplify_video_thumb/2110534973275148288/img/mDOs8V3u8vt01khW.jpg>)](<https://x.com/Grow_withAI/status/2110535076002119816>)
+
+A supernatural rescue sequence moves from an armed street standoff to a protective final moment between two women.
+
+**Model:** Seedance 2.5
+
+### Creator reply prompt · `en`
+
+```text
+Create a realistic, cinematic Korean supernatural action scene that follows the exact sequence of events shown in the reference video.
+
+SCENE 1 — THE HOSTAGE SITUATION:
+A busy modern Seoul street surrounded by tall glass buildings. A frightened young Korean woman with long black hair, wearing a beige coat over a white top, is held hostage by masked armed criminals. Korean police officers stand nearby as the tense situation unfolds. Use realistic facial expressions, natural body movements, and cinematic medium and wide shots.
+
+SCENE 2 — THE MYSTERIOUS GIRL:
+A young Korean woman with long black hair, wearing a dark navy school uniform, white shirt, black tie, and pleated skirt, steps forward confidently. Her expression is calm and emotionless. Suddenly, her eyes begin glowing bright white, revealing her supernatural powers. Show a close-up of her face and glowing eyes, with subtle atmospheric effects.
+
+SCENE 3 — SUPERNATURAL ATTACK:
+As the criminals threaten the hostage, the mysterious girl unleashes an invisible telekinetic force. A weapon flies out of an attacker's hand, and a powerful supernatural shockwave throws the masked criminals backward. Capture their movements with realistic physics, dramatic slow motion, dust, and subtle visual effects. The girl remains composed and in control throughout the confrontation.
+
+SCENE 4 — RESCUING THE HOSTAGE:
+After defeating the attackers, the mysterious girl approaches the frightened woman and gently helps her up. She supports the rescued woman as she struggles to recover from the frightening incident. The police officers react with shock and disbelief as they witness the aftermath.
+
+SCENE 5 — FINAL SHOT:
+Show the two women together on the city street, with the rescued woman receiving support and the mysterious girl remaining calm and protective. Masked criminals lie incapacitated in the background while the police assess the situation. End with a cinematic wide shot of the urban environment.
+
+VISUAL STYLE:
+Ultra-realistic live-action Korean supernatural thriller, cinematic lighting, realistic skin textures, natural human anatomy, detailed facial expressions, believable action choreography, high-quality supernatural visual effects, smooth camera tracking, dramatic close-ups, realistic motion blur, and 4K cinematic detail.
+
+CAMERA:
+Use a wide establishing shot, medium shots during the confrontation, close-ups of the glowing eyes, dynamic tracking shots during the supernatural attack, and an emotional medium shot during the rescue. Maintain smooth transitions and continuous action.
+
+AUDIO:
+Realistic city ambience, distant police sirens, tense cinematic music, supernatural energy sounds, impact effects, and natural character reactions.
+
+CONSISTENCY REQUIREMENTS:
+Maintain consistent faces, hairstyles, clothing, character identities, and body proportions throughout the entire video. Follow the reference video's scene order and actions closely. Do not introduce unrelated characters, locations, or events. Avoid cartoon visuals, anime styling, exaggerated CGI, unnecessary dialogue, text overlays, and subtitles.
+```
+
+### How to adapt it
+
+Supply a reference clip you can use, then map the confrontation, power reveal, rescue, and final shot while preserving character identities.
+
+**Shared by:** [Ryan Carter](<https://x.com/Grow_withAI>)
+
+[Original post on X](<https://x.com/Grow_withAI/status/2110535076002119816>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#telekinetic-seoul-hostage-rescue>)
+
+<a id="sky-hunters-lost-island"></a>
+
+## Sky Hunters Returns to a Lost Island of Flying Predators
+
+[![Sky Hunters Returns to a Lost Island of Flying Predators — Seedance 2.5 video cover](<https://pbs.twimg.com/amplify_video_thumb/2110983239607443456/img/_wyEHiXnKtMj1XRo.jpg>)](<https://x.com/jasminekhan90_/status/2110987892743111012>)
+
+A script-to-video adventure follows Captain Jack Carter on an island survival mission among giant flying creatures.
+
+**Model:** Seedance 2.5
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Break an original island adventure into a storyboard, define recurring characters and creatures, then edit the generated shots into a short film.
+
+**Shared by:** [Jasmine Ai](<https://x.com/jasminekhan90_>)
+
+[Original post on X](<https://x.com/jasminekhan90_/status/2110987892743111012>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#sky-hunters-lost-island>)
+
+<a id="smart-retail-shopping-concept"></a>
+
+## A Modern Store Becomes a Smart Retail Concept Film
+
+[![A Modern Store Becomes a Smart Retail Concept Film — Seedance 2.5 video cover](<https://pbs.twimg.com/amplify_video_thumb/2110970306479394816/img/soN2Xa1VoBx3VAsN.jpg>)](<https://x.com/Riley11_AI/status/2110970893685997694>)
+
+A retail concept video presents a modern shopping environment with intelligent navigation and automated assistance.
+
+**Model:** Seedance 2.5
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Choose one shopping journey, storyboard the entry and assistance moments, and keep store lighting and signage consistent between shots.
+
+**Shared by:** [Riley Quinn](<https://x.com/Riley11_AI>)
+
+[Original post on X](<https://x.com/Riley11_AI/status/2110970893685997694>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#smart-retail-shopping-concept>)
 
 ## Attribution and corrections
 
