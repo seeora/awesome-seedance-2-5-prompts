@@ -5,7 +5,7 @@ A curated collection of Seedance 2.5 videos from creators, with original sources
 
 **[Browse the visual gallery](<https://seeora.app/seedance-prompts>)**
 
-The collection currently contains **82 verified examples**, with sources reviewed through **2026-10-17**.
+The collection currently contains **87 verified examples**, with sources reviewed through **2026-10-19**.
 
 <a id="race-for-agi-desert-chase"></a>
 
@@ -3648,6 +3648,167 @@ Choose one shopping journey, storyboard the entry and assistance moments, and ke
 **Shared by:** [Riley Quinn](<https://x.com/Riley11_AI>)
 
 [Original post on X](<https://x.com/Riley11_AI/status/2110970893685997694>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#smart-retail-shopping-concept>)
+
+<a id="mina-rue-kinetic-rooftop-fight"></a>
+
+## Mina and Rue Trade Blows in a Kinetic Rooftop Fight
+
+[![Two anime fighters exchange rapid counters as a moving camera follows fists, kicks, and impact frames across a rooftop.](<https://pbs.twimg.com/amplify_video_thumb/2111824675219107840/img/UAyp8YVyn7mxzYHL.jpg>)](<https://x.com/aimikoda/status/2111824828009193814>)
+
+Two anime fighters exchange rapid counters as a moving camera follows fists, kicks, and impact frames across a rooftop.
+
+**Model:** Seedance 2.5
+
+### Character-reference fight prompt · `zh-en`
+
+```text
+References:
+@[char1 ref]: Mina. Long black hair, green striped crop top, baggy orange cargo pants with black graffiti, white sneakers, black fingerless boxing gloves on both hands, chain bracelet.
+@[char2 ref]: Rue. Long pink hair, black crop top, black cargo shorts with chains and tags, bare knuckles with silver rings, skin visible on both hands, chunky lime sneakers, dog tag necklace.
+
+Visual style: High-sakuga flat-color 2D anime, bold linework, hard cel shading, flat blue and teal backgrounds that flash hot pink or orange on impact, speed smears, impact frames, deep foreshortening.
+
+Energy: Within every shot the camera keeps moving: it spirals around crossing limbs, dives under kicks, skims the floor, and whips between faces, often following a fist or a sole within inches of the lens. Every movement flows straight into the next strike, block, or counter. Every landed hit plays as sakuga impact: a two-frame impact frame, then the struck body whips away in a long smear, elastic recoil, immediate re-entry into her own attack. Heads snap, torsos fold, feet leave the ground, bodies skid across concrete. Each impact throws a color flash, dust, flying hair and cloth, and radiating speed lines.
+
+Avoid: No subtitles. No slow motion, no idle posing, no pauses between actions, no freeze frames, no held two-shots.
+
+Mina and Rue trade one relentless brawl on an empty concrete rooftop with a chain-link fence at the back and a steel vent box at center right. Mina starts screen left, Rue screen right. Whenever they close, one body is nearer the camera and the other clearly behind it with air between. No dialogue; hits, shoe scuffs, chain rattle, wind. Shot list: 4 shots, about 30 seconds, every shot packed edge to edge with exchanges.
+
+Scene 1: 连续时间，天台。
+Shot 1: 大全景起，地面高度，低角度；镜头从水泥地面猛然升起，穿过两名已经腾空扑向对方的格斗者之间，然后贴着Mina的拳套甩进中景，并绕着两人交错的手臂急速环绕。Mina的右勾拳与Rue抬起的膝盖在半空撞上，冲击帧，两人同时被震成拖影向后飞开，滑步落地的瞬间已经再次扑上；Mina左直拳，Rue下潜躲过并打出上勾拳，Mina用前臂接住，前臂被顶上自己的下巴，头向后一甩成拖影，她借着仰头的势头打出一记一二连击，第二拳砸开Rue的防守，冲击帧，Rue的头横向甩出，粉发拉成一道弧，她踉跄一步就从踉跄里踢出正蹬，踢中Mina的拳套，把Mina推得双脚在地上滑出一道痕。快速细节切：Rue眯起的眼睛，Mina收紧的拳套，狗牌甩动，然后镜头钻到Rue旋踢的下方。Rue的脚跟掠过Mina低下的头顶，Mina从内侧起身的身体勾拳把Rue整个人折弯在拳套上，冲击帧，Rue的双脚离地，她顺着折弯的势头甩出肘击，Mina双拳套挡住，拳套却被顶进自己的脸，她向后踉跄两步，Rue追上来一记戴戒指的直拳擦着镜头砸过，Mina侧滑，把一记短右拳埋进Rue的肋部，冲击帧，Rue半边身体塌陷成拖影，双脚在地面打滑，她就从打滑里顶出一膝，砸在拳套上，把Mina的胳膊震到自己胸口。
+
+Shot 2: 跟拍起，位于Rue身后腰部高度；镜头随她冲向铁丝网，沿着网向上扫，在她蹬离时翻转，然后落到地面高度，贴着天台地面疾驰穿过两人相撞的缝隙。Rue推开Mina的胸口转身冲向铁丝网，在网上蹬两步，蹬离，后空翻越过从下方冲进来的Mina，落下的膝盖砸中Mina的肩膀，冲击帧，Mina被砸成一个拖影般的前滚翻，从翻滚里起身时顺势扫向Rue落地的那条腿，Rue跳过扫踢，撑手后空翻，落地时Mina的直拳已经到了，Rue格挡，格挡把她自己的手臂震开，Mina的第二拳穿过空档擦中她的太阳穴，冲击帧，Rue半转过身，粉发横扫镜头。快速细节切：荧光绿鞋底填满镜头，橙色工装布料猛甩，铁丝网剧烈震颤，然后镜头贴地。两人再次相撞：Mina低身滑过Rue的飞跃拳，两人在另一侧旋转成背对背，同一瞬间各踢出一记后蹬，鞋底对撞，冲击帧，两人都被踢得向前扑倒撑地，撑起后同时转身甩出旋转背拳，拳套撞上指节，粉色闪光，两人的头各自甩向一侧成拖影，Rue先回过身勾住Mina的腿，Mina跳脱的同时抡出过顶拳，擦过Rue的太阳穴，把她打得转了半圈，Rue转完这半圈的势头直接变成一记反手肘，砸在Mina的肩上，Mina的肩膀被压得一沉。
+
+Shot 3: 高角度俯冲起；镜头向通风箱俯冲，压低绕到箱侧，然后在两张脸之间左右急甩，每一拳都跟着拳头从一张脸甩到另一张脸。Mina，戴黑拳套，跃上通风箱，膝盖朝下砸落；Rue，赤手戴戒指，侧步闪开，一记侧踢踹进箱体，箱体轰然凹陷；Mina从压扁的边缘跃起打出飞身直拳，Rue后仰躲过，扫掉Mina的支撑手臂，Mina侧手翻落地的同时勾拳打中Rue的下颌，冲击帧，Rue的头甩过去，整个人被带得转了半圈，脚步踉跄，又从踉跄里反扑一记直拳，震得Mina的下巴一晃。快速细节切：弯折的金属，断裂的电缆冒着火花，拳套在箱顶打滑，然后镜头切进两张脸之间。隔着废墟的近身对轰：刺拳，格挡，直拳，侧闪，没有一拳停在半路；Rue的膝盖顶进Mina垂下的拳套，把她推退一步；Mina的头槌砸在Rue的眉骨上，冲击帧，Rue的头向后甩成拖影，她的身体先于意识反击，戴戒指的勾拳打在Mina的拳套上；Mina的反击肘撞上Rue的脸颊，冲击帧，粉发炸开，Rue踉跄两步，膝盖一软又撑住，从撑住的那一下里直拳回敬，打得Mina的头偏过去，Mina的头偏到一半就已经转回来，两人同时下蹲。
+
+Shot 4: 高角度大全景起，倾斜成荷兰角；镜头在两人跃起时螺旋下降，在最高点从两人之间穿过，再翻到两人侧面，并在两人上升时继续旋转。两人同时向上爆发，拳头在前，Mina的黑拳套与Rue戴戒指的拳头冲向画面中央同一点，头发向后飞扬成拖影，速度线向中心汇聚，拳头进入触及范围的瞬间背景炸成全屏亮粉色；拳头仍在逼近，头发仍在甩动，镜头仍在旋转，画面在此切断。
+```
+
+### How to adapt it
+
+Replace both character references together and map each counter to a camera move. Keep silhouettes and hand details distinct through the action.
+
+**Shared by:** [Kōda](<https://x.com/aimikoda>)
+
+[Original post on X](<https://x.com/aimikoda/status/2111824828009193814>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#mina-rue-kinetic-rooftop-fight>)
+
+<a id="crispy-chicken-kitchen-commercial"></a>
+
+## Floating Drumsticks Become a Crispy Chicken Commercial
+
+[![A timed food-ad sequence follows floating drumsticks through flour, frying, and a final golden hero composition.](<https://pbs.twimg.com/amplify_video_thumb/2109872341513805824/img/Q8xzJo2DAFDfZVLv.jpg>)](<https://x.com/aynellex/status/2109872428956721398>)
+
+A timed food-ad sequence follows floating drumsticks through flour, frying, and a final golden hero composition.
+
+**Model:** Seedance 2.5
+
+### Video prompt · `en`
+
+```text
+Create a 13-second ultra-realistic cinematic food commercial featuring crispy golden fried chicken drumsticks in a professional commercial kitchen. Vertical 9:16 format, premium food photography, dramatic warm lighting, shallow depth of field, smooth camera movement, and realistic food physics.
+
+Scene 1 (0–2s): Two raw chicken drumsticks float into view in a sleek stainless-steel kitchen under cool overhead lights. The camera pushes forward with a dynamic cinematic movement.
+
+Scene 2 (2–4s): The drumsticks glide toward a preparation station. A dramatic burst of seasoned flour surrounds them as they become coated in a thick, textured layer of breading. Capture the flour particles in slow motion.
+
+Scene 3 (4–7s): The coated drumsticks transform into perfectly fried golden-brown chicken, with detailed crunchy breading and realistic crispy texture. Use a close-up rotating hero shot with warm highlights.
+
+Scene 4 (7–10s): Two freshly fried drumsticks move above a commercial fryer, with subtle heat waves and appetizing steam. The camera tracks their movement smoothly through the kitchen.
+
+Scene 5 (10–13s): Three crispy chicken drumsticks float into a final hero composition above a clean white plate. The camera slowly pushes closer, revealing golden crunchy crust, rich color, and mouthwatering detail against a softly blurred professional kitchen background.
+
+Visual style: Premium fast-food advertising, photorealistic textures, cinematic macro details, realistic shadows, natural motion blur, smooth transitions, and appetizing golden tones. Maintain consistent chicken shape and texture throughout. No people, no extra limbs, no visual distortions, no text, no subtitles, no logos, and no watermark.
+```
+
+### How to adapt it
+
+Replace the food and preparation stages while keeping the timed shot plan. Check ingredient counts and continuity between transformations.
+
+**Shared by:** [Aynelle](<https://x.com/aynellex>)
+
+[Original post on X](<https://x.com/aynellex/status/2109872428956721398>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#crispy-chicken-kitchen-commercial>)
+
+<a id="kpop-couple-synchronized-studio-dance"></a>
+
+## A K-Pop Couple Dances in Sync Across a Mirrored Studio
+
+[![A ten-second duet combines coordinated footwork, mirrored movements, continuous music, and a final couple pose.](<https://pbs.twimg.com/amplify_video_thumb/2109896921884340224/img/ZtRF5bKzaHKdk0wb.jpg>)](<https://x.com/MissDelulu9/status/2109896989475516789>)
+
+A ten-second duet combines coordinated footwork, mirrored movements, continuous music, and a final couple pose.
+
+**Model:** Seedance 2.5
+
+### Video prompt · `en`
+
+```text
+Create an ultra-realistic video of an adult K-pop couple dancing in a professional Korean dance studio.
+
+Characters: A beautiful woman with long, wavy ginger-copper hair and two small braids, wearing a cropped jacket, fitted top, cargo pants, and sneakers. A handsome man wearing modern K-pop streetwear, a black jacket, cargo pants, and sporty sneakers.
+
+0–3 seconds: Both perform synchronized shoulder bounces, quick side steps, and sharp hand movements while smiling.
+
+3–6 seconds: They perform energetic footwork, body grooves, coordinated arm movements, and a synchronized turn. The woman's hair moves naturally.
+
+6–8 seconds: They move closer, mirror each other's dance moves, exchange romantic glances, and smile playfully.
+
+8–10 seconds: They perform a synchronized final move and finish in a stylish couple pose, smiling at each other.
+
+Music: Upbeat K-pop instrumental with strong electronic beats, energetic bass, and catchy synths at 125–135 BPM. Music plays continuously from 0–10 seconds. No dialogue.
+
+Camera: Full-body shots, smooth tracking, cinematic lighting, realistic mirrors and reflections.
+
+Quality: Photorealistic 4K, natural movements, consistent faces and outfits, realistic hair physics.
+
+Negative Prompt: No cartoon, CGI faces, distorted anatomy, extra limbs, robotic dancing, face morphing, outfit changes, flickering, blur, camera shake, or sudden transitions.
+```
+
+### How to adapt it
+
+Create a consistent reference image for both adult dancers, then adapt the four timed movement beats and music tempo to your choreography.
+
+**Shared by:** [Eesha](<https://x.com/MissDelulu9>)
+
+[Original post on X](<https://x.com/MissDelulu9/status/2109896989475516789>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#kpop-couple-synchronized-studio-dance>)
+
+<a id="victorian-dream-grass-level-perspective"></a>
+
+## A Victorian Dream Seen From a Grass-Level Perspective
+
+[![A Victorian-inspired scene brings a lace sleeve, a resting hand, and a butterfly into an intimate grass-level composition.](<https://pbs.twimg.com/amplify_video_thumb/2111575062113316864/img/sUhUJJaVmh5QmtsV.jpg>)](<https://x.com/thisismariaa25/status/2111638394233045069>)
+
+A Victorian-inspired scene brings a lace sleeve, a resting hand, and a butterfly into an intimate grass-level composition.
+
+**Model:** Seedance 2.5
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Use this as a visual reference for a period scene: choose a low camera height and contrast close foreground details with a soft rural background.
+
+**Shared by:** [Maria](<https://x.com/thisismariaa25>)
+
+[Original post on X](<https://x.com/thisismariaa25/status/2111638394233045069>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#victorian-dream-grass-level-perspective>)
+
+<a id="roadster-above-traffic-concept"></a>
+
+## A Flying Roadster Escapes the Morning Traffic Jam
+
+[![A speculative car concept imagines a Tesla Roadster lifting above traffic, framed as a futuristic commute story.](<https://pbs.twimg.com/amplify_video_thumb/2111427569224736768/img/7yqHBtk_M9G_9THz.jpg>)](<https://x.com/ZoeyBennettAi/status/2111427649533083708>)
+
+A speculative car concept imagines a Tesla Roadster lifting above traffic, framed as a futuristic commute story.
+
+**Model:** Seedance 2.5
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Adapt the speculative commute idea to an original vehicle design. Establish the everyday routine before introducing the impossible transport feature.
+
+**Shared by:** [Zoey Bennett](<https://x.com/ZoeyBennettAi>)
+
+[Original post on X](<https://x.com/ZoeyBennettAi/status/2111427649533083708>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#roadster-above-traffic-concept>)
 
 ## Attribution and corrections
 
