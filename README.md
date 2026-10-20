@@ -5,7 +5,7 @@ A curated collection of Seedance 2.5 videos from creators, with original sources
 
 **[Browse the visual gallery](<https://seeora.app/seedance-prompts>)**
 
-The collection currently contains **87 verified examples**, with sources reviewed through **2026-10-19**.
+The collection currently contains **92 verified examples**, with sources reviewed through **2026-10-20**.
 
 <a id="race-for-agi-desert-chase"></a>
 
@@ -3809,6 +3809,285 @@ Adapt the speculative commute idea to an original vehicle design. Establish the 
 **Shared by:** [Zoey Bennett](<https://x.com/ZoeyBennettAi>)
 
 [Original post on X](<https://x.com/ZoeyBennettAi/status/2111427649533083708>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#roadster-above-traffic-concept>)
+
+<a id="scrap-eden-magician-trailer"></a>
+
+## A Mechanical Fantasy Unfolds in the Scrap Eden Trailer
+
+[![A Mechanical Fantasy Unfolds in the Scrap Eden Trailer](<https://pbs.twimg.com/amplify_video_thumb/2112133671230767105/img/g2LmI95FC31HGa7e.jpg>)](<https://x.com/RockzAiLab/status/2112135343881507024>)
+
+A fantasy trailer presents towering machinery and a ruined world, credited to Seedance 2.5 via Higgsfield.
+
+**Model:** Seedance 2.5
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Use the trailer as a mood reference: define a recurring mechanical motif, then plan establishing shots and character beats.
+
+**Shared by:** [Rockzheart.AI.ART](<https://x.com/RockzAiLab>)
+
+[Original post on X](<https://x.com/RockzAiLab/status/2112135343881507024>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#scrap-eden-magician-trailer>)
+
+<a id="deadrise-low-light-maritime-horror"></a>
+
+## Deadrise Explores Low-Light Horror on a Darkened Ship
+
+[![Deadrise Explores Low-Light Horror on a Darkened Ship](<https://pbs.twimg.com/amplify_video_thumb/2111872829918519296/img/G_Z0EJWhqFY3JgLD.jpg>)](<https://x.com/JSFILMZ0412/status/2111874213967753529>)
+
+JSFILMZ shares a maritime horror film made with Seedance 2.5, testing low-light scenes in a multi-day production.
+
+**Model:** Seedance 2.5
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Plan motivated light sources, readable silhouettes and a restrained palette, then build a sequence from separately planned shots.
+
+**Shared by:** [JSFILMZ](<https://x.com/JSFILMZ0412>)
+
+[Original post on X](<https://x.com/JSFILMZ0412/status/2111874213967753529>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#deadrise-low-light-maritime-horror>)
+
+<a id="gothic-cathedral-dark-power"></a>
+
+## A Wounded Hero Summons Dark Power in a Gothic Cathedral
+
+[![A Wounded Hero Summons Dark Power in a Gothic Cathedral](<https://pbs.twimg.com/amplify_video_thumb/2110222774551916544/img/YZ_q7mi3HxI7itxL.jpg>)](<https://x.com/itsSaira_1/status/2110223060066521421>)
+
+A four-shot fantasy prompt moves from a wounded heroine to a magical sigil, a ringed entity and demonic creatures.
+
+**Model:** Seedance 2.5
+
+### Author-shared video prompt · `en`
+
+```text
+Sequence of shots for a dark fantasy cinematic video:
+
+[Shot 1] 
+Close-up cinematic shot of a wounded woman with long dark hair, wearing a blood-stained white medieval gown, struggling and pushing herself up on the stone floor of a dark gothic cathedral, moody atmosphere, dramatic lighting, 8k resolution.
+
+[Shot 2] 
+Cinematic shot of a woman plunging a glowing magical sword into the stone floor, creating a bright red glowing fiery magical sigil circle expanding rapidly across the ground, dark fantasy style, smoke, epic visual effects.
+
+[Shot 3] 
+Cinematic wide shot inside a gothic cathedral, revealing a towering mystical entity in a dark hooded cloak framed by massive rotating concentric golden rings filled with glowing eyes, epic fantasy atmosphere, dramatic lighting, 8k.
+
+[Shot 4]
+Action-packed cinematic shot of terrifying demonic monsters roaring and moving aggressively in a dark gothic cathedral, surrounded by smoke, debris, and bursts of magical fire, dark fantasy film style.
+
+Negative prompt: 
+blurry, low quality, distorted, deformed, extra limbs, bad anatomy, modern clothing, bright cheerful colors, cartoon, 3d animation, low-poly.
+```
+
+### How to adapt it
+
+Keep the cathedral and heroine consistent, and separate the recovery, sword impact, entity reveal and monster reaction into readable beats.
+
+**Shared by:** [Sᴀɪʀᴀ](<https://x.com/itsSaira_1>)
+
+[Original post on X](<https://x.com/itsSaira_1/status/2110223060066521421>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#gothic-cathedral-dark-power>)
+
+<a id="pets-convertible-midnight-singalong"></a>
+
+## Two Cats and a Tiny Dog Share a Midnight Convertible Ride
+
+[![Two Cats and a Tiny Dog Share a Midnight Convertible Ride](<https://pbs.twimg.com/amplify_video_thumb/2109874867122429952/img/SnasRLvWr1ORGDzW.jpg>)](<https://x.com/MahiraEhan/status/2109875307675017668>)
+
+An author-shared prompt stages a feline singalong in a convertible, using city bokeh and expressive animal close-ups.
+
+**Model:** Seedance 2.5
+
+### Author-shared video prompt · `en`
+
+```text
+A high-definition 4K cinematic video of a white and orange tabby cat sitting in the driver's seat of a classic convertible car at night, looking expressively toward the passenger side while "singing" with natural lip-sync movement. In the passenger seat, a fluffy blue-gray British Shorthair cat and a tiny white Pomeranian dog sit close together, watching with wide, emotional eyes. The background features soft, blurred bokeh city lights of a downtown street. Moody, cinematic lighting reflecting off the polished black car hood. Shot with a shallow depth of field, playful yet dramatic tone, seamless character consistency across cuts.
+```
+
+### How to adapt it
+
+Assign each pet a fixed seat and appearance, specify eyelines, and keep the car interior and lighting stable across cuts.
+
+**Shared by:** [Mahira](<https://x.com/MahiraEhan>)
+
+[Original post on X](<https://x.com/MahiraEhan/status/2109875307675017668>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#pets-convertible-midnight-singalong>)
+
+<a id="shibuya-cyborg-mist-battle"></a>
+
+## A Cyborg Becomes Mist During a Shibuya Crossing Battle
+
+[![A Cyborg Becomes Mist During a Shibuya Crossing Battle](<https://pbs.twimg.com/amplify_video_thumb/2110574466673909760/img/y5IQYYqxIj2WiNV2.jpg>)](<https://x.com/tokyo_Valentine/status/2110575409423323647>)
+
+A timed action prompt pits a yellow cyborg against a skeletal king, with mist transformation and impact-driven glitches.
+
+**Model:** Seedance 2.5
+
+### Author reply video prompt · `en`
+
+```text
+Create a 15-second, 16:9 cinematic action video set at Shibuya Scramble Crossing, Tokyo, at night.
+
+CHARACTER REFERENCES
+Use only the two character reference images for identity and design.
+Reference 1: Character A, the yellow-and-black mechanical skull cyborg.
+Reference 2: Character B, the towering skeletal king wearing crimson robes.
+
+A: Approximately 180 cm tall. Chipped yellow industrial armor, horizontal pointed head extensions, skull mask, black breathing hoses, intricate mechanical joints, spiked shoulders, chains, and torn dark fabric.
+B: Approximately 260 cm tall. Huge branching black antlers, ornate crown, glowing red eyes, exposed skeletal ribcage, elaborate tattered crimson robes, and an ornate staff.
+
+Preserve their exact silhouettes, proportions, materials, colors, and accessories. Create fluid full-body combat animation and dynamic camera movement. Maintain their height difference.
+
+VISUAL STYLE
+Photorealistic live-action cinematography, spectacular destruction VFX, and explosive shonen battle intensity.
+
+Extreme acceleration, brutal close-range punches, powerful blocks, violent recoil, and physical impacts that destroy roads and buildings.
+
+Combine tactile physical realism with aggressive digital corruption: RGB separation, horizontal signal tearing, datamoshing trails, pixel fragmentation, scanline interference, and dirty electronic noise.
+Keep the choreography and decisive impacts clearly readable.
+
+GLITCH AND NOISE DIRECTION
+Make the effects react to the action.
+
+On punch contact: short, violent RGB displacement around the fighters, horizontal image shearing, and a burst of coarse digital static radiating from the impact.
+
+During extreme acceleration: stretched datamoshing trails and fragmented afterimages attached to moving limbs. These are visual motion trails, not separate characters.
+
+Around the reality fracture: unstable scanlines, displaced image strips, crawling pixel noise, and flickering red-white edges.
+During mist transformation: mechanical surfaces break into tiny yellow particles, black vapor, and granular signal noise. The transition remains continuous and visibly follows the body.
+
+During the final destruction: physical fragments mix with pixel breakup, corrupted motion trails, and a dense burst of electronic interference.
+
+Use the strongest corruption in brief bursts, followed by clear moving imagery. Keep physical motion flowing through every effect. Avoid prolonged freezes or static poses.
+
+LOCATION
+An empty, rain-soaked Shibuya Scramble Crossing. Recognizable diagonal zebra crossings, giant LED billboards, QFRONT-style architecture, and surrounding shopping towers.
+
+Wet asphalt reflects cold city lights, yellow sparks, and crimson energy.
+
+Billboards briefly malfunction in response to nearby shockwaves: distorted footage, broken scanlines, and signal noise.
+
+Keep the fight within this intersection. Environmental damage accumulates and remains visible.
+
+0–3 SECONDS — EXPLOSIVE COLLISION
+Begin immediately in motion.
+An ultra-low camera races along the white crossing stripes as both fighters launch toward each other.
+
+A’s fist crashes into B’s blocking forearm. Show clear contact and recoil, followed by an expanding pressure ring that blasts rainwater outward and fractures the asphalt.
+
+At contact, deliver a sharp burst of RGB separation and horizontal signal tearing. Restore a clear image immediately as the movement continues.
+
+Whip-pan into a side-on tracking shot. A drives a heavy punch into B’s guarded ribs.
+
+B slides backward, tearing trenches through the road. The shockwave lifts asphalt slabs and bursts a nearby empty building’s glass facade.
+Debris travels outward from the strike. Yellow motion trails and fragmented crimson afterimages emphasize their opposing momentum.
+
+3–5 SECONDS — REALITY FRACTURE
+B plants its foot, pivots, and swings its staff in a savage diagonal counterattack.
+
+A crimson energy slash cuts across the viewer’s image plane, opening a glowing fracture through reality directly in front of A.
+
+Shoot from an extreme low Dutch angle as the staff passes close to the lens.
+
+Along the fracture, image strips slide out of alignment. Red-white pixels crawl across the edges. Horizontal static and displaced scanlines expose a narrow black slit.
+
+A ducks beneath the slash.
+
+The camera pushes toward A’s articulated metal hand as it catches the fractured edge and pulls the moving image open like a curtain.
+
+This is a fracture in reality at the camera plane, not a broken billboard or ordinary glass.
+5–8 SECONDS — BODY BECOMES MIST
+Without pausing, A transforms its entire body into dense black industrial mist threaded with yellow sparks and tiny metal particles.
+
+Feet and legs dissolve first, followed by torso and arms. Its skull and reaching hand disappear last.
+
+Mechanical surfaces progressively fragment into smoky particles and granular digital noise. Show the physical anatomy continuously becoming vapor.
+
+A’s former position becomes completely empty.
+
+The mist flows through the opened fracture.
+
+Rise into an overhead view of Shibuya’s diagonal crossings. Follow one coherent ribbon of black-and-yellow mist racing around B’s blind side and converging directly behind the king.
+
+Use streaming pixel trails and localized datamoshing within the moving vapor. Keep its path and destination obvious.
+
+8–10 SECONDS — REASSEMBLY AND COMBINATION
+Dive into a low rear three-quarter angle behind B’s whipping crimson cape.
+The mist converges and reconstructs A behind the king. Yellow particles condense into the original skull, armor, arms, and legs.
+
+Digital noise contracts into the mechanical surfaces and disappears as each part becomes solid.
+
+A immediately attacks. B pivots toward the movement.
+
+From over A’s yellow shoulder, show a left body punch connecting with B’s ribs, followed by a compact elbow that snaps the king’s upper body sideways.
+
+Each contact creates a brief pulse of image displacement, metallic sparks, and dirty static. Keep the connecting fist, cracking bone, and recoil visible.
+
+Arc toward a clear three-quarter side angle as A plants its foot and draws back its right fist.
+
+10–13 SECONDS — FINAL PUNCH AND COMPLETE DESTRUCTION
+A steps forward and drives one decisive rising right straight into B’s sternum.
+
+Show unmistakable fist-to-bone contact from a powerful low angle.
+Use a fraction of a second of slow motion at contact, then accelerate into explosive destruction.
+
+A concentrated glitch pulse erupts from the contact point: RGB channels split outward, the surrounding image briefly shears horizontally, and coarse electronic noise follows the expanding shockwave.
+
+B’s ribcage caves inward and shatters outward.
+
+Cracks race through its spine, skull, crown, antlers, arms, and legs. The entire skeletal king physically breaks into thousands of small fragments and fine powder.
+
+Its staff splinters. Its crimson robes tear into scattered scraps.
+
+Mix the flying physical fragments with brief pixel breakup and corrupted motion trails. Show the destruction clearly; the king must visibly shatter rather than simply disappear.
+
+The same impact creates a massive radial shockwave across Shibuya. Asphalt buckles into a crater. Crossing slabs erupt. Nearby empty building facades collapse, and billboard supports bend and fall.
+
+A remains solid and intact through the follow-through.
+13–15 SECONDS — AFTERMATH
+Pull back into a ground-level wide shot of the devastated intersection.
+
+A stands alone in the crater, slowly lowering its fist as rain and dust move through the damaged city lights.
+
+Only tiny bone chips, snapped antler fragments, broken crown pieces, and torn crimson cloth remain of B.
+
+The king is completely pulverized. No intact skull, body, crown, or antlers remain. It does not regenerate.
+
+Let the aggressive digital interference decay into faint grain and residual noise on damaged billboards.
+
+Finish with a slow camera drift around A’s yellow-and-black silhouette while debris settles around its feet.
+
+CAMERA
+Use ground-level tracking, extreme low angles, a hand close-up, an overhead reveal, an over-the-shoulder attack, and a clear final impact angle.
+
+Connect cuts through movement and preserve spatial continuity.
+
+Use selective motion blur during acceleration, crisp silhouettes at contact, and camera shake precisely on impact.
+
+SOUND
+Heavy metallic punches, sharp bone fractures, tearing digital distortion, rushing mist, deep shockwaves, collapsing concrete, and raining glass.
+
+Synchronize short bitcrushed crackles and electronic noise with the glitch bursts.
+Build aggressive industrial percussion through the fight. Drop the music at the final punch, exposing the impact and destruction. Finish with rain, settling debris, and fading electrical interference.
+
+FINAL REQUIREMENTS
+Full-screen 16:9 moving cinematic video.
+No dialogue, subtitles, added titles, or watermarks.
+Preserve character identity through every glitch.
+Maintain continuous physical motion and readable combat.
+Show full-body mist transformation, directional travel, and complete reconstruction.
+Major environmental destruction follows visible impacts.
+The yellow cyborg survives.
+The skeletal king is completely pulverized.
+```
+
+### How to adapt it
+
+Supply two distinct character references, preserve their scale difference, and tie each glitch burst to a visible physical impact.
+
+**Shared by:** [とすくん](<https://x.com/tokyo_Valentine>)
+
+[Original post on X](<https://x.com/tokyo_Valentine/status/2110575409423323647>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#shibuya-cyborg-mist-battle>)
 
 ## Attribution and corrections
 
