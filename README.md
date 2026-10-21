@@ -5,7 +5,7 @@ A curated collection of Seedance 2.5 videos from creators, with original sources
 
 **[Browse the visual gallery](<https://seeora.app/seedance-prompts>)**
 
-The collection currently contains **92 verified examples**, with sources reviewed through **2026-10-20**.
+The collection currently contains **97 verified examples**, with sources reviewed through **2026-10-21**.
 
 <a id="race-for-agi-desert-chase"></a>
 
@@ -4088,6 +4088,155 @@ Supply two distinct character references, preserve their scale difference, and t
 **Shared by:** [とすくん](<https://x.com/tokyo_Valentine>)
 
 [Original post on X](<https://x.com/tokyo_Valentine/status/2110575409423323647>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#shibuya-cyborg-mist-battle>)
+
+<a id="ten-worlds-infinite-droste-zoom"></a>
+
+## An Infinite Zoom Connects Ten Hand-Painted Worlds
+
+[![Seedance 2.5: An Infinite Zoom Connects Ten Hand-Painted Worlds](<https://pbs.twimg.com/amplify_video_thumb/2112440901557526528/img/u8hMnHN5R5zTQN7M.jpg>)](<https://x.com/aimikoda/status/2112441218546205093>)
+
+A continuous Droste-effect zoom travels through ten nested animated worlds, returning to a seaside lighthouse.
+
+**Model:** Seedance 2.5
+
+### Creator prompt · `en`
+
+```text
+Visual style: Hand-painted 2D animation in the spirit of classic Studio Ghibli films: lush watercolor and gouache background paintings, soft cel-shaded characters and creatures, towering sunlit cumulus clouds, warm nostalgic light, gentle wind moving everything. Smooth camera gliding forward at one perfectly constant speed.
+
+Avoid: No subtitles. No readable text. No cuts, crossfades, or fades. No speed changes, no slow motion, no speed ramps. No hovering or still frames. No 3D CGI look.
+
+An infinite Droste-effect zoom through ten hand-painted worlds full of people, gentle strange creatures, and odd buildings, all original designs. Each world hides one small detail somewhere in the frame, and inside that detail the whole next world is already painted in miniature. The camera glides toward the detail and zooms into it; the detail grows until its edges pass beyond the frame and the miniature becomes the full next world, with its own new small detail somewhere else. The tenth world's detail contains the first world, so the clip loops. One continuous shot, no cuts, about 30 seconds. Sound: one continuous sweeping orchestral score of piano and strings with a steady pulse, with a brief ambient sound for each world, no dialogue.
+
+Scene 1: Continuous, ten nested worlds.
+Shot 1 (0-30s): One unbroken zoom at one steady, unchanging speed from the first frame to the last, the same rhythm in every world: exactly three seconds per world, never accelerating, never slowing. The detail sits in a different place in every world; while moving forward, the camera curves gently and smoothly toward it, bringing it to the center only as it fills the frame. Everyone keeps moving as the camera passes.
+0-3s: Wide aerial view of a seaside cliff town at sunset, a white lighthouse at screen right; a girl in a red dress cycles down a steep lane, fishermen haul nets, gulls wheel. The camera curves right toward the glowing lantern glass, painted with green hills, until it fills the frame.
+3-6s: Rolling green meadows; a gigantic gentle creature like a walking hill, trees and a tiny shrine on its mossy back, strides slowly across the grass while children run beside it. A small cloud at upper left holds a tiny airship; the camera curves up toward it until the cloud fills the frame.
+6-9s: A sky canyon of towering clouds; a patched-together propeller airship cruises left to right, a goggled pilot waving from its deck, small winged foxes gliding alongside. Its round porthole low on the hull shows floating islands; the camera curves down toward it until the porthole fills the frame.
+9-12s: Floating islands linked by swaying rope bridges, a crooked stilt village climbing a tall leaning tower, a vast sky whale with little houses on its back drifting behind. A shining pond on an island at screen left shows a kelp forest; the camera curves left toward it until the pond fills the frame.
+12-15s: Underwater, a sunlit kelp forest around a giant sunken stone statue overgrown with weeds, a long glowing ribbon fish weaving past its face. At lower right, an open shell holds a glowing pearl showing lanterns at night; the camera curves down toward it until the pearl fills the frame.
+15-18s: A river festival at night; townsfolk in festival masks, tall slender spirits with paper-lantern heads walking among them, hundreds of lanterns floating and rising. One lantern high at upper left glows with a misty forest; the camera curves up toward it until the lantern fills the frame.
+18-21s: An ancient forest of giant mossy trees in slanting sunbeams; a house-sized snail with a mossy cottage on its shell creeps along a root, tiny round glowing bugs swarming. One bright bug beside a trunk at screen right shows a harbor town; the camera curves right toward it until the bug fills the frame.
+21-24s: A cobblestone harbor town in the morning, a tall crooked tower-house with too many chimneys and balconies, a boy delivering bread on a bicycle, a fat cat chasing gulls. A pale moon low at upper left shows a wheat field; the camera curves up over the rooftops toward it until the moon fills the frame.
+24-27s: A golden wheat field at night, shooting stars overhead; a huge soft moth-winged creature with lantern eyes rests on a hilltop house at screen right, wings slowly breathing, its small attic window glowing. The camera curves right toward the window until it fills the frame.
+27-30s: A cozy attic workshop, an old inventor tinkering at a bench, a clockwork bird hopping, model airplanes swinging. A round window on the left wall shows the white lighthouse on its sunset cliff; the camera curves left toward it until the window fills the frame, arriving at the exact wide aerial framing of the opening, still moving forward at the same speed.
+```
+
+### How to adapt it
+
+Replace the worlds and their nested details while keeping a clear path, consistent zoom speed, and a planned loop back to the opening.
+
+**Shared by:** [Kōda](<https://x.com/aimikoda>)
+
+[Original post on X](<https://x.com/aimikoda/status/2112441218546205093>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#ten-worlds-infinite-droste-zoom>)
+
+<a id="little-turtle-leaf-glider-adventure"></a>
+
+## A Tiny Turtle Rides a Cart and Glides Across a Valley
+
+[![Seedance 2.5: A Tiny Turtle Rides a Cart and Glides Across a Valley](<https://pbs.twimg.com/amplify_video_thumb/2112460004947357696/img/2JfMe9Nv-4nei1v6.jpg>)](<https://x.com/AIwithWania/status/2112460090024632776>)
+
+A red-scarfed turtle explores a fantasy valley, rides a wooden cart, and uses a giant leaf as a glider.
+
+**Model:** Seedance 2.5
+
+### Creator prompt · `en`
+
+```text
+Style: Cinematic 3D animation, expressive characters, vibrant fantasy landscapes, smooth camera movements, detailed textures, 16:9 widescreen. Maintain identical turtle design, brown patterned shell, green skin, big brown eyes, and red scarf throughout.
+
+Scene 1 (0–4s): A tiny turtle walks along a rocky trail through a breathtaking green valley surrounded by towering cliffs and distant mountains. Golden sunlight illuminates the landscape. Low-angle tracking shot reveals the turtle's adventurous journey.
+
+Scene 2 (4–7s): The turtle discovers golden autumn leaves, curiously dives into the pile, then pops out with leaves on its head. Close-up captures its adorable, surprised expression.
+
+Scene 3 (7–10s): The turtle smiles, shakes off the leaves, and looks toward the winding path ahead. Cinematic close-up, soft lighting, expressive animation.
+
+Scene 4 (10–14s): The turtle climbs into a small wooden cart. The cart rolls down the winding dirt trail, its wheels rotating naturally. The turtle looks excited as the camera tracks alongside.
+
+Scene 5 (14–17s): Near a dramatic cliff, the turtle discovers an enormous green leaf. It lifts the leaf overhead as the wind gently catches it. The turtle looks toward a distant mountain peak.
+
+Scene 6 (17–21s): The turtle leaps from the ledge, holding the giant leaf like a glider. Its red scarf flutters as it floats above the spectacular valley. Sweeping aerial camera movement reveals the cliffs below.
+
+Scene 7 (21–24s): The turtle glides between rocky formations but approaches a sharp peak. Its expression changes to surprise as it struggles to steer. Dynamic tracking shot captures the playful tension.
+
+Scene 8 (24–27s): The turtle rests safely beside lush foliage, with the leaf nearby. After a thoughtful pause, it smiles determinedly. Gentle close-up with warm cinematic lighting.
+
+Scene 9 (27–30s): At sunset, the turtle looks toward a distant checkered flag atop a mountain. The camera slowly pulls back across the glowing valley. Display the closing text: “Same dream. Next attempt!”
+
+Global instructions: Preserve character identity, colors, proportions, and visual continuity. Use smooth transitions, believable physics, detailed environments, and expressive animation. Avoid distorted anatomy, flickering textures, sudden character changes, and abrupt cuts. Keep the story cohesive and cinematic.
+```
+
+### How to adapt it
+
+Choose a small hero with a distinctive silhouette and prop. Map each action to a timed scene and keep the character details consistent.
+
+**Shared by:** [Wania](<https://x.com/AIwithWania>)
+
+[Original post on X](<https://x.com/AIwithWania/status/2112460090024632776>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#little-turtle-leaf-glider-adventure>)
+
+<a id="seoul-supercar-highway-rooftop-flight"></a>
+
+## A White Supercar Leaps From Seoul Traffic to a Rooftop
+
+[![Seedance 2.5: A White Supercar Leaps From Seoul Traffic to a Rooftop](<https://pbs.twimg.com/amplify_video_thumb/2112025010189856768/img/CK62dXdGETLwX706.jpg>)](<https://x.com/aiwithaayat/status/2112025080335339907>)
+
+A futuristic white supercar leaves highway traffic behind, flies past a riverside cafe, and lands on a rooftop.
+
+**Model:** Seedance 2.5
+
+### Creator prompt · `en`
+
+```text
+Created a video, 30 second, featuring a futuristic white supercar driving through heavy traffic on a modern highway in Seoul during golden hour. The video begins with a wide aerial shot of multiple cars, buses, and trucks moving along a busy elevated road, with a beautiful city skyline in the background and warm sunlight reflecting off the vehicles. The camera slowly moves closer to a sleek, futuristic white sports car with sharp aerodynamic lines, a low-profile body, and an aggressive modern design. Inside the car, a beautiful young Korean woman with long, straight black hair is driving calmly, wearing an elegant cream-colored outfit. Capture her natural facial expressions, realistic skin texture, and focused eyes as she holds the steering wheel with confidence. Show cinematic close-up shots of her face through the side window and a reflection of her face in the rearview mirror, creating a luxurious automotive commercial atmosphere. The camera then cuts to a detailed rear view of the white supercar, highlighting its distinctive red LED taillight strip, sculpted rear bodywork, and futuristic exhaust design. Suddenly, the car accelerates powerfully, releasing thick white smoke from the rear tires as it performs a dramatic high-speed maneuver between the surrounding vehicles. Capture the tires spinning, smoke spreading across the highway, and nearby cars slowing down as the supercar surges forward. The camera follows the vehicle from behind and then switches to a wide cinematic side angle as the futuristic car launches into an impossible airborne leap above the highway, soaring over the river with the city skyline glowing in the background. Transition to a sophisticated glass-walled luxury café overlooking the river, where two elegantly dressed people sit across from each other at a table with coffee cups, reacting with surprise as the flying supercar passes outside the enormous windows. Show the white sports car soaring above the city buildings before revealing a rooftop helipad on a modern skyscraper. The car lands smoothly on the rooftop, creating a spectacular futuristic cinematic moment. End with a close-up of the vehicle parked against the panoramic city skyline, its scissor-style door opening upward as the female driver begins to step out. Maintain consistent car design, character identity, hairstyle, and clothing throughout every scene. Use photorealistic CGI, ultra-detailed automotive textures, realistic reflections, volumetric smoke, natural golden-hour lighting, smooth camera movements, dynamic drone shots, dramatic tracking shots, and premium luxury-car commercial cinematography. Use a cinematic 16:9 aspect ratio, 24 fps, realistic motion blur, high dynamic range, and seamless transitions between scenes. The overall mood should feel luxurious, futuristic, thrilling, and visually spectacular, with no unwanted text, subtitles, logos, watermarks, or character distortions.
+```
+
+### How to adapt it
+
+Keep one vehicle and driver design across the sequence. Plan the traffic, airborne reveal, cafe reaction, and rooftop landing as distinct beats.
+
+**Shared by:** [Ayat](<https://x.com/aiwithaayat>)
+
+[Original post on X](<https://x.com/aiwithaayat/status/2112025080335339907>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#seoul-supercar-highway-rooftop-flight>)
+
+<a id="reference-car-impossible-stunt-shots"></a>
+
+## One Car Reference Becomes a Series of Impossible Stunts
+
+[![Seedance 2.5: One Car Reference Becomes a Series of Impossible Stunts](<https://pbs.twimg.com/amplify_video_thumb/2112603787584323585/img/TESqv4tU-aRXP7bz.jpg>)](<https://x.com/Jenisha_AI/status/2112603953921954142>)
+
+A supercar reference anchors a cinematic stunt sequence with wall climbs, flips, hovering, and flight.
+
+**Model:** Seedance 2.5
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+The cover shows a cropped prompt excerpt; the full prompt is unavailable. Use a vehicle reference sheet with clear views. Keep its color and body details stable while assigning each shot one readable stunt.
+
+**Shared by:** [Jenisha AI](<https://x.com/Jenisha_AI>)
+
+[Original post on X](<https://x.com/Jenisha_AI/status/2112603953921954142>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#reference-car-impossible-stunt-shots>)
+
+<a id="storm-helicopter-rescue-thriller"></a>
+
+## A Stormy Helicopter Rescue Sets Up a Thriller Twist
+
+[![Seedance 2.5: A Stormy Helicopter Rescue Sets Up a Thriller Twist](<https://pbs.twimg.com/amplify_video_thumb/2112394419944992770/img/DZ6_sOsIivdNIznj.jpg>)](<https://x.com/RuzainaMeer/status/2112394503218962483>)
+
+A helicopter rescue in a violent ocean storm becomes a short cinematic thriller with a final twist.
+
+**Model:** Seedance 2.5
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Build tension around one rescue objective, alternate the rescuer and the person in danger, and reserve a clear visual beat for the twist.
+
+**Shared by:** [Ruzaina](<https://x.com/RuzainaMeer>)
+
+[Original post on X](<https://x.com/RuzainaMeer/status/2112394503218962483>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#storm-helicopter-rescue-thriller>)
 
 ## Attribution and corrections
 
