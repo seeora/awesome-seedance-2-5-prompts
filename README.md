@@ -5,7 +5,7 @@ A curated collection of Seedance 2.5 videos from creators, with original sources
 
 **[Browse the visual gallery](<https://seeora.app/seedance-prompts>)**
 
-The collection currently contains **97 verified examples**, with sources reviewed through **2026-10-21**.
+The collection currently contains **102 verified examples**, with sources reviewed through **2026-10-22**.
 
 <a id="race-for-agi-desert-chase"></a>
 
@@ -4237,6 +4237,530 @@ Build tension around one rescue objective, alternate the rescuer and the person 
 **Shared by:** [Ruzaina](<https://x.com/RuzainaMeer>)
 
 [Original post on X](<https://x.com/RuzainaMeer/status/2112394503218962483>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#storm-helicopter-rescue-thriller>)
+
+<a id="warehouse-telekinetic-metal-storm"></a>
+
+## A Warehouse Fight Escalates Into a Telekinetic Storm
+
+[![Pink-haired character running between stacked boxes in an industrial warehouse](<https://pbs.twimg.com/amplify_video_thumb/2112546209940361216/img/_DnEKZGd6EfQsxHK.jpg>)](<https://x.com/Just_sharon7/status/2112546442497658934>)
+
+A warehouse chase builds from close-quarters combat to levitating tools, a metal vortex, and a telekinetic shockwave.
+
+**Model:** Seedance 2.5
+
+### Warehouse action prompt · `en`
+
+```text
+THE WAREHOUSE ASSASSIN HUNT — TELEKINETIC FURY
+
+FORMAT: 30 seconds | 16:9 widescreen | 4K | 24 FPS | Ultra-photorealistic live-action | Hollywood blockbuster | Korean martial arts action | Supernatural telekinetic combat
+
+VISUAL STYLE
+
+Create an extraordinarily intense, ultra-photorealistic live-action action sequence combining brutal, fast-paced Korean martial arts choreography with spectacular Hollywood supernatural combat.
+
+The fight must feel dangerous, aggressive, physically grounded, and relentlessly energetic.
+
+Every attack has convincing momentum. Every punch and kick has believable physical impact. Telekinetic powers produce enormous environmental destruction without looking cartoonish.
+
+CINEMATOGRAPHY: ARRI Alexa 35 realism, 24mm and 35mm anamorphic lenses, aggressive low-angle tracking shots, rapid whip-pans, dynamic handheld movements, wide-angle combat choreography, sudden camera push-ins, realistic motion blur, cinematic depth, natural human skin textures, visible pores, realistic sweat, and physically accurate lighting.
+
+Maintain clear spatial continuity and coherent choreography. Use fast camera movements without making the action unreadable.
+
+No artificial CGI-looking humans, no plastic skin, no anime, no exaggerated slow motion, no excessive neon effects.
+
+CHARACTER IDENTITY LOCK
+
+MAIN HEROINE — @image (12)
+
+A striking woman @image (12) . Preserve the exact facial identity, hairstyle, skin tone, facial proportions, body proportions, and recognizable appearance of Image 1 throughout the entire sequence.
+
+Her hair remains consistent throughout, becoming slightly disheveled during the fight.
+
+Personality: Fearless, cold, calculating, exceptionally intelligent, and dangerously calm.
+
+She is an extraordinarily skilled martial artist who secretly possesses overwhelmingly powerful telekinetic abilities.
+
+She never screams or panics. She fights with precision, efficiency, and complete confidence.
+
+TELEKINETIC POWER SIGNATURE:
+
+Whenever she activates her powers, her irises develop a subtle electric-pink glow.
+
+The glow is concentrated within her natural irises, not across her entire eyes.
+
+Her telekinesis is invisible. Objects move through an unseen force rather than colorful magical beams.
+
+Environmental indicators include trembling metal objects, vibrating shelving units, swirling dust, loose screws rising into the air, and subtle pressure distortions.
+
+Her powers are activated through minimal finger movements, controlled wrist gestures, and intense eye contact.
+
+ENEMY CHARACTERS @Image 
+
+Eight professional adult assassins wearing distinct dark tactical clothing.
+
+Black fitted tactical jackets, charcoal cargo trousers, protective gloves, combat boots, and lightweight protective vests.
+
+Their faces remain distinguishable.
+
+They are highly trained, aggressive, physically capable, and coordinated.
+
+Some attack with punches, kicks, and grappling techniques. Others carry short metal batons.
+
+Their movements must feel like authentic professional stunt choreography rather than random fighting.
+
+ENVIRONMENT
+
+An enormous abandoned industrial warehouse during late afternoon.
+
+High steel-truss ceilings, dusty concrete flooring, rusted overhead pipes, enormous metal storage shelves, stacked wooden shipping crates, tall towers of empty cardboard boxes, hanging chains, steel worktables, industrial tool racks, old forklifts, scattered metal equipment, and broken windows.
+
+Strong shafts of warm daylight enter through dirty skylights, illuminating airborne dust.
+
+Cool industrial shadows contrast with warm sunlight.
+
+The warehouse is vast, giving the camera room to capture spectacular wide-angle action.
+
+00:00–00:04 — THE HUNT BEGINS
+
+Open with an aggressive handheld tracking shot following the heroine as she runs between towering warehouse shelves.
+
+Heavy boots echo against the concrete floor.
+
+Three assassins emerge from behind stacked crates, cutting off her escape.
+
+A fourth attacker suddenly lunges toward her from the side.
+
+She instantly ducks beneath his punch, pivots on one foot, and delivers a powerful spinning kick to his chest.
+
+He flies backward into a stack of empty cardboard boxes.
+
+The boxes explode outward.
+
+Without hesitation, she turns toward the remaining attackers.
+
+Camera rapidly pushes toward her determined expression.
+
+00:04–00:08 — THE BRUTAL CLOSE-QUARTERS FIGHT
+
+Two assassins charge simultaneously.
+
+The heroine blocks the first attacker's punch, strikes his torso with a sharp elbow, and executes a fast spinning back kick.
+
+The second attacker swings a metal baton toward her head.
+
+She bends backward to avoid the strike.
+
+The baton passes inches above her face.
+
+Her eyes briefly flash electric pink.
+
+The baton suddenly stops moving in midair.
+
+With a tiny flick of her fingers, she sends it flying across the warehouse, embedding it into a wooden crate.
+
+The attacker freezes in disbelief.
+
+She immediately drives a powerful kick into his chest.
+
+Camera follows the impact with a fast lateral tracking movement.
+
+00:08–00:12 — THE INVISIBLE FORCE
+
+Three more assassins rush toward her from different directions.
+
+One attacker leaps from a low shipping crate.
+
+The heroine raises her left hand.
+
+The airborne attacker abruptly freezes, suspended horizontally above the concrete floor.
+
+Her electric-pink irises glow subtly.
+
+She rotates her wrist.
+
+The suspended man spins sideways and crashes into a pile of empty cardboard boxes.
+
+A second attacker attempts to grab her from behind.
+
+Without turning around, she telekinetically throws him backward into a padded stack of packing materials.
+
+The third attacker stops, visibly terrified.
+
+The heroine slowly turns toward him.
+
+Her expression remains emotionless.
+
+00:12–00:16 — THE WAREHOUSE STARTS TO TREMBLE
+
+The remaining assassins regroup near a massive steel worktable.
+
+They surround the heroine in a semicircle.
+
+One attacker shouts:
+
+"WHAT THE HELL ARE YOU?"
+
+She doesn't answer.
+
+Extreme close-up of her face.
+
+Her eyes develop a beautiful, subtle electric-pink glow.
+
+The camera slowly pushes closer.
+
+A tiny metal screw begins vibrating on the floor.
+
+Then another.
+
+Loose wrenches, bolts, screwdrivers, steel chains, and small metal tools begin rattling across nearby worktables.
+
+The assassins exchange frightened looks.
+
+The entire warehouse fills with the sound of vibrating metal.
+
+00:16–00:21 — THE METAL STORM
+
+The heroine slowly raises both hands.
+
+HUNDREDS OF LOOSE METAL TOOLS SUDDENLY LEVITATE INTO THE AIR.
+
+Wrenches, screwdrivers, steel bolts, loose chains, nuts, metal brackets, and industrial tools rise from every corner of the warehouse.
+
+The objects form a gigantic, violently rotating vortex around the heroine.
+
+Camera executes a spectacular 360-degree orbit around her.
+
+The metallic storm spins faster and faster.
+
+Sparks burst from occasional collisions between the floating objects.
+
+Dust spirals upward from the concrete floor.
+
+Her hair and clothing move naturally in the turbulent air.
+
+She stands completely motionless at the center of the storm.
+
+Her eyes glow electric pink.
+
+The assassins stagger backward, shielding their faces.
+
+00:21–00:26 — THE DEVASTATING TELEKINETIC SHOCKWAVE
+
+The assassins make one final desperate attempt to charge her.
+
+The heroine sharply closes both hands into fists.
+
+The rotating metal storm instantly freezes.
+
+Absolute silence for half a second.
+
+She whispers:
+
+"Wrong girl."
+
+Then she violently thrusts both arms outward.
+
+AN ENORMOUS INVISIBLE TELEKINETIC SHOCKWAVE EXPLODES THROUGH THE WAREHOUSE.
+
+All remaining assassins are launched backward simultaneously.
+
+They fly across the concrete floor and crash into enormous stacks of empty cardboard boxes.
+
+The boxes collapse in spectacular cascading waves.
+
+Loose papers, dust, packing foam, and cardboard fragments erupt into the air.
+
+Steel shelving units shake violently.
+
+The suspended metal tools shoot outward into empty storage racks and wooden crates, away from the attackers.
+
+Camera captures the destruction in a massive low-angle wide shot.
+
+The heroine remains completely untouched at the center.
+
+00:26–00:30 — THE ICONIC FINAL WALK
+
+A thick cloud of dust slowly settles across the destroyed warehouse.
+
+The assassins lie defeated among scattered cardboard boxes and packing materials.
+
+The heroine lowers her hands.
+
+The remaining suspended tools gently fall to the concrete floor with metallic clattering sounds.
+
+Her eyes gradually return to their natural color.
+
+She calmly adjusts her sleeve and begins walking toward the warehouse exit.
+
+One defeated assassin looks up and whispers:
+
+"Impossible..."
+
+Without looking back, she makes a tiny gesture with two fingers.
+
+A heavy metal warehouse door swings open by itself.
+
+She walks through it into bright afternoon sunlight.
+
+FINAL FRAME: Wide cinematic rear shot of the heroine walking away while the destroyed warehouse remains behind her.
+
+Cut to black.
+
+SOUND DESIGN
+
+Intense cinematic percussion, deep sub-bass impacts, aggressive martial arts punches, heavy bootsteps, metal scraping, chains rattling, flying tools, collapsing cardboard boxes, powerful shockwave bass, realistic environmental echoes, and a restrained electric hum whenever her telekinesis activates.
+
+Music builds progressively toward the metal-storm climax.
+
+At 00:21, briefly remove the music before the final devastating shockwave.
+
+No narration, no subtitles, no text overlays, no watermark.
+
+STRICT GENERATION RULES
+
+Preserve the heroine's exact facial identity, hairstyle, outfit, and body proportions throughout.
+
+Maintain realistic human anatomy, accurate hands, and coherent combat movements.
+
+Every strike must have believable physical contact and momentum.
+
+Keep telekinetic abilities invisible except for environmental movement and subtle electric-pink irises.
+
+No giant pink laser beams, glowing hands, magical symbols, or exaggerated auras.
+
+Metal objects must rotate around the heroine without striking her.
+
+Keep all characters spatially consistent within the warehouse.
+
+Avoid duplicate attackers, disappearing objects, and inconsistent injuries.
+
+No graphic gore or visible blood.
+
+The heroine must remain calm, fearless, and overwhelmingly powerful.
+
+Prioritize intense close-quarters fighting, spectacular telekinetic destruction, and expensive Hollywood blockbuster realism.
+```
+
+### How to adapt it
+
+Replace the character reference with your own adult action hero. Plan clear combat beats, spatial continuity, and a distinct cue for each power activation.
+
+**Shared by:** [Sharon Riley](<https://x.com/Just_sharon7>)
+
+[Original post on X](<https://x.com/Just_sharon7/status/2112546442497658934>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#warehouse-telekinetic-metal-storm>)
+
+<a id="grandma-snow-leopard-mountain-hut"></a>
+
+## Grandma Calls Her Tiny Cat at a Snowy Mountain Hut
+
+[![Tiny Little Cat poster showing a grandmother outside a snowy hut and a giant paw print](<https://pbs.twimg.com/amplify_video_thumb/2112833908299677696/img/2Q5Xexo0_Ulc2Edk.jpg>)](<https://x.com/abulu8/status/2112834308117324151>)
+
+A snowy mountain comedy uses locked props, Korean dialogue, and a giant snow leopard reveal to reverse a gangster confrontation.
+
+**Model:** Seedance 2.5
+
+### Mountain comedy prompt · `en`
+
+```text
+REFERENCES: Grandma = 95–100-year-old tiny hunched Korean grandmother (exact face, white bun with wooden pin, quilted indigo jeogori, grey knit scarf, plum skirt, gomusin shoes). Thug = very chubby greasy gangster (exact face with eyebrow scar, shiny black puffer jacket open, red-black floral silk shirt, gold chain, gold ring, black track pants, dirty white sneakers). Leopard = giant adult snow leopard (exact smoky grey-white coat, black rosettes, pale icy-blue eyes, long thick ringed tail). Hut = snowy thatched mountain tea hut on a hilltop with a small snowy yard, a footpath winding down the slope toward camera, and vast misty snow mountains on the right. Keep every identity, outfit, marking and set identical to refs throughout. Only these three beings exist in the scene.
+
+PROP LOCKS: PROP-STICK = gnarled dark-brown wooden walking stick, always in Grandma's right hand, she leans on it every moment. PROP-BOWL = small round brown earthenware bowl of raw red meat chunks, always in Grandma's left hand, never dropped, never changes.
+
+STAGING LOCK: Grandma stands in the snowy yard just in front of the Hut doorway, facing the footpath/camera, for the entire scene; she never walks away. Thug comes UP the footpath and stops 2 metres in front of her, his BACK to the footpath and slope. Leopard later comes up that SAME footpath from the slope behind Thug. Snow falling softly throughout.
+
+LOOK: overcast winter daylight, cool blue-white snow, warm amber glow from the hut door, low saturation, low-to-mid contrast, filmic grain, soft halation. Ambient wind, crunching snow.
+
+PACING: natural unhurried Korean delivery, short pauses between lines; never rushed.
+
+0–6s: Opening aerial FPV drone shot: high above vast misty snow mountain ranges, gliding smoothly over frosted pine ridges and drifting clouds, then diving gracefully down the slope toward the tiny snow-covered Hut on the hilltop, slowing and pushing in to a medium shot of Grandma standing in the yard, leaning on PROP-STICK, holding PROP-BOWL.
+
+6–11s: Grandma looks around the hills, calling sweetly and caringly, like to her own son:
+Grandma (sing-song, tender): 「우리 아가~ 밥 먹자… 어디 갔니, 우리 아들~」
+She calls once more, peering at the ridges, smiling.
+
+11–17s: Heavy crunching steps. Thug stomps up the footpath, panting, chin raised, and stops in front of her.
+Thug (rough, ruthless): 「할매, 이번 달 자릿세. 빨리 내놔.」
+Grandma looks at him calmly and gives a small sly smirk.
+Grandma (humble, gentle): 「잠깐만… 우리 고양이 밥 좀 주고. 그다음에 줄게.」
+
+17–22s: Thug scoffs proudly, pinching his thumb and index finger close together in front of his face to mock something tiny.
+Thug (angry, sarcastic): 「그 쪼끄만 망할 고양이 기다릴 시간 없어!」
+Grandma's eyes shift past his shoulder to the slope; a happy, satisfied smile spreads.
+Grandma (warm): 「아이고… 저기 오네.」
+
+22–30s: Thug (annoyed): 「어디?」 He turns around toward the slope — and freezes; his face drains, eyes bulging, mouth falling open in shock. Reverse shot: the giant Leopard climbs up the snowy footpath toward them, heavy shoulders rolling, head low, snow on its fur, a deep low growl. Slow push-in on Leopard's face, icy-blue eyes locked on Thug. It opens its jaws and lets out a majestic thunderous roar, fangs bared, snow shaking off its whiskers, then explodes forward in a powerful leap toward camera — HARD CUT TO BLACK mid-leap.
+
+NEGATIVE: no extra people, no extra animals, no small house cat, no attack gore, no Grandma walking without stick, no stick or bowl change, no Grandma moving away from the hut, no Thug standing beside Grandma, no leopard coming from inside the hut, no leopard marking change, no cartoon or CGI-game leopard, no face or outfit drift, no fast or rushed speech, no subtitles, no text.
+```
+
+### How to adapt it
+
+Supply your own character and location references. Keep the walking stick, bowl, approach path, and dialogue timing consistent before staging the animal reveal.
+
+**Shared by:** [Syed Abuthahir ∞](<https://x.com/abulu8>)
+
+[Original post on X](<https://x.com/abulu8/status/2112834308117324151>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#grandma-snow-leopard-mountain-hut>)
+
+<a id="cyberpunk-shrine-maiden-reality-slash"></a>
+
+## A Mechanical Shrine Maiden Slashes Reality Into Glitches
+
+[![Red and black mechanical shrine maiden drawing a glowing katana](<https://pbs.twimg.com/amplify_video_thumb/2110344946607931392/img/ZRzI3SPRYopGmrEE.jpg>)](<https://x.com/tokyo_Valentine/status/2110346127841321355>)
+
+A mechanical shrine maiden uses red katana strikes to split a rain-soaked cyberpunk shrine into corrupted layers and temporal echoes.
+
+**Model:** Seedance 2.5
+
+### Cyberpunk action prompt · `en`
+
+```text
+Create a 30-second cyberpunk action film featuring the exact mechanical shrine maiden from the attached reference image. Combine aggressive action-movie cinematography, overwhelming glitch and noise aesthetics, red fire, electrical discharges, and precise katana choreography.
+
+The central concept: every swing of her red katana corrupts the surrounding reality. Architecture splits into displaced image layers, time falls out of synchronization, and previous movements continue as corrupted afterimages.
+
+Preserve the reference character’s distinctive silhouette and intricate construction: black and vermilion mechanical armor, tall angular helmet, circular studded face covering, visible white lower face and red lips, rectangular red side ornaments, long black mechanical cables, articulated clawed hands, armored footwear, and oversized red Japanese katana. Maintain the same character throughout. Use the reference sheet only for character design; exclude its panels, labels, diagrams, and white background.
+
+Render as premium cinematic CGI with realistic materials: lacquered red armor, dark metal, exposed mechanisms, rain droplets, soot, sparks, and sharp reflections.
+
+The location is a rain-soaked shrine courtyard surrounded by enormous cyberpunk skyscrapers at night. Vermilion torii gates, wet stone, hanging cables, deep shadows, restrained neon signage, drifting smoke, and flickering industrial lights. Build the palette around black, vermilion, burning orange, and silver, accented by concentrated blue-white electricity.
+
+0–2 SECONDS — THE IMAGE IS SLASHED OPEN
+
+Start immediately in the middle of a violent horizontal katana swing.
+
+The red blade passes extremely close to the lens. The camera performs a fast lateral whip following the blade. Its path tears the entire image horizontally: the upper half of the shrine slides sideways while the lower half continues moving normally.
+
+Explosive red sparks, torn scan lines, dense digital static, and displaced RGB edges erupt from the cut.
+
+Hard cut to an extreme close-up of her distinctive mask, illuminated by fire. Her head makes a small, deliberate turn toward the camera.
+
+2–7 SECONDS — CHARGE THROUGH THE BURNING SHRINE
+
+Cut to an ultra-low, wide-angle tracking shot just above the wet ground, racing backward as she charges through the torii gates.
+
+Her armored feet strike puddles. Each impact sends water, sparks, and pixel-like fragments toward the lens. Tall columns of orange-red flame erupt behind her in sequence.
+
+Electrical arcs crawl across her armor and jump between her trailing cables.
+
+Cut to a tight rear three-quarter chase angle. Torii pillars rush past the foreground with strong parallax. Her silhouette remains readable against the flames.
+
+Embed rolling interference, crawling noise, brief frame skips, and distorted motion trails throughout the movement.
+
+7–13 SECONDS — THE WORLD SPLITS WITH THE BLADE
+
+She plants one foot, pivots sharply, and delivers a powerful rising diagonal slash.
+
+The camera makes a fast 120-degree lateral orbit around the planted foot and follows the physical direction of her strike. Briefly slow the blade at the peak of the movement, then accelerate sharply into the follow-through.
+
+Cut to a wide view revealing the consequence: the torii gates and distant skyscrapers separate into diagonal spatial layers along the slash.
+
+These layers shift out of alignment and move at slightly different times.
+
+A sheet of red flame burns along the cut. Blue-white lightning bridges the displaced sections. Heavy datamoshing smears neon reflections into broken vectors; rectangular blocks of missing image data briefly expose black voids.
+
+13–19 SECONDS — HER PAST KEEPS ATTACKING
+
+Cut to a fast side-tracking shot as she performs three connected katana strikes while advancing across the courtyard.
+
+Keep the choreography forceful and physically connected: step, pivot, slash, recover.
+
+Each strike leaves a delayed red silhouette repeating the completed motion.
+
+Cut to a steep overhead view showing the curved paths of the blade and the temporal echoes.
+
+Return to a low frontal three-quarter angle. The real character stops in a powerful finishing pose, but three corrupted echoes continue their attacks behind her for one additional beat.
+
+These are transparent time trails of the same character.
+
+Surround the echoes with torn frames, abrasive static, red particle trails, electrical filaments, and fragmented flame. Make this the most visually disorienting passage while keeping the real character recognizable.
+
+19–26 SECONDS — THE CITY SNAPS BACK
+
+A sudden rhythmic pause.
+
+Tight close-up of her mechanical fingers and the sword guard as she deliberately sheathes the katana. Hold the detail briefly. Reduce the soundtrack to rain, electrical crackle, and the sliding metal blade.
+
+The instant the guard clicks into place, cut to an extreme wide shot from a steep elevated angle.
+
+Every displaced section of the city violently snaps back into alignment.
+
+A circular wave of red fire sweeps across the empty courtyard. Branching electricity races over the wet stone and climbs the torii gates.
+
+The camera dives toward the character as the wave expands beneath it.
+
+At the impact, unleash the strongest burst of digital corruption: spatial tearing, dense analog snow, severe RGB displacement, compressed block artifacts, and stuttering fragments of earlier shots. Resolve back to her intact silhouette standing inside the burning courtyard.
+
+26–30 SECONDS — THE CAMERA BECOMES THE TARGET
+
+Cut to a low frontal medium shot.
+
+Flames and embers move behind her. Electrical arcs flicker across the red katana’s hilt. Her masked head turns directly toward the lens.
+
+She suddenly steps forward, draws, and delivers one decisive horizontal slash across the camera.
+
+Use a rapid backward tracking movement as she closes the distance. The blade fills the frame and tears the image into red-black static.
+
+Match the final blade direction, screen position, and horizontal image tear to the opening shot, creating a deliberate looping edit.
+
+Cinematography must feel like an expertly edited action film: ground-level tracking, close pursuit, forceful lateral movement, a motivated orbit, steep overhead coverage, extreme detail inserts, and dramatic wide reveals. Give each shot a clear camera movement. Use impact shake only at physical strikes, foreground occlusion for transitions, strong perspective, and purposeful speed changes.
+
+Glitch and noise are the dominant visual identity. Maintain moving grain and electronic interference throughout, with frequent aggressive bursts tied to footsteps, blade movements, and electrical impacts. Combine analog video damage with digital compression failure. Make corruption follow the geometry and movement of the scene.
+
+Flames must have turbulent volume, heat distortion, smoke, and reflected light. Electricity must branch sharply, connect visible surfaces, and illuminate the armor.
+
+Sound: a dark industrial electronic beat with heavy sub-bass, metallic percussion, distorted synthesizers, granular noise, and digitally chopped accents. Synchronize sword strikes, flame bursts, and electrical snaps with the rhythm. Include a brief near-silent pause before the sheathing click. No dialogue or vocals.
+
+Maintain consistent armor, mask, anatomy, sword, and cable design. Preserve readable action poses within the visual chaos. Exclude extra limbs, permanent duplicates, melting anatomy, costume changes, exposed eyes, mask removal, subtitles, captions, logos, and watermarks.
+```
+
+### How to adapt it
+
+Use your own mechanical character reference. Tie each glitch effect to a specific strike, keep the real silhouette readable, and match the opening and closing slash.
+
+**Shared by:** [とすくん](<https://x.com/tokyo_Valentine>)
+
+[Original post on X](<https://x.com/tokyo_Valentine/status/2110346127841321355>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#cyberpunk-shrine-maiden-reality-slash>)
+
+<a id="kollywood-continuous-group-dance"></a>
+
+## A South Indian Group Dance Uses a Continuous Camera
+
+[![Lead dancer in a red and yellow sari with a coordinated group behind her](<https://pbs.twimg.com/amplify_video_thumb/2112765268179189760/img/KWVpB48gKJpA_frQ.jpg>)](<https://x.com/Dheepanratnam/status/2112766144658764100>)
+
+A South Indian group dance combines synchronized footwork, coordinated performers, and moving-camera choreography in a continuous-looking shot.
+
+**Model:** Seedance 2.5
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Use the clip as a staging reference: define a lead dancer, formation, shared rhythm, and a camera path that keeps the group visible. Write your own prompt.
+
+**Shared by:** [Dheepan Ratnam](<https://x.com/Dheepanratnam>)
+
+[Original post on X](<https://x.com/Dheepanratnam/status/2112766144658764100>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#kollywood-continuous-group-dance>)
+
+<a id="minimax-h3-previs-rooftop-parkour"></a>
+
+## Rooftop Parkour Moves From Previs to a Cinematic Shot
+
+[![Stacked comparison of MiniMax H3 mannequin previs and Seedance 2.5 rooftop parkour](<https://pbs.twimg.com/amplify_video_thumb/2112536437791117312/img/1M9MKEXkb9ta4O6-.jpg>)](<https://x.com/tkz_aiart/status/2112536635435049408>)
+
+A stacked comparison turns MiniMax H3 mannequin previs into a realistic rooftop parkour scene while retaining the planned camera and action.
+
+**Model:** Seedance 2.5
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Block the action and camera in a simple previs first. Use your own reference clip to guide the final look, then compare action timing and framing side by side.
+
+**Shared by:** [たくぞー｜AI動画ツール実測レビュー](<https://x.com/tkz_aiart>)
+
+[Original post on X](<https://x.com/tkz_aiart/status/2112536635435049408>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#minimax-h3-previs-rooftop-parkour>)
 
 ## Attribution and corrections
 
