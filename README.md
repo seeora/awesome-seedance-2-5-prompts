@@ -5,7 +5,7 @@ A curated collection of Seedance 2.5 videos from creators, with original sources
 
 **[Browse the visual gallery](<https://seeora.app/seedance-prompts>)**
 
-The collection currently contains **102 verified examples**, with sources reviewed through **2026-10-22**.
+The collection currently contains **107 verified examples**, with sources reviewed through **2026-10-23**.
 
 <a id="race-for-agi-desert-chase"></a>
 
@@ -4761,6 +4761,626 @@ Block the action and camera in a simple previs first. Use your own reference cli
 **Shared by:** [たくぞー｜AI動画ツール実測レビュー](<https://x.com/tkz_aiart>)
 
 [Original post on X](<https://x.com/tkz_aiart/status/2112536635435049408>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#minimax-h3-previs-rooftop-parkour>)
+
+<a id="c4d-helicopter-previs-burning-city"></a>
+
+## A Helicopter Leaves 3D Previs for a Burning City Scene
+
+[![A helicopter lifts off above a burning city in a Cinema 4D-to-Seedance workflow, with a small inset showing the original 3D blocking.](<https://pbs.twimg.com/amplify_video_thumb/2113264335325741056/img/F0lqzsjsGmsoZBPZ.jpg>)](<https://x.com/ABAOProductions/status/2113284807056556198>)
+
+A helicopter lifts off above a burning city in a Cinema 4D-to-Seedance workflow, with a small inset showing the original 3D blocking.
+
+**Model:** Seedance 2.5
+
+### Author reply: six-shot helicopter sequence · `en`
+
+```text
+A 30-second cinematic sequence, 24 fps, 1080p, in six shots. Photorealistic, gritty military realism, filmed on a real cinema camera.
+EXTERIOR ONLY
+Every shot is filmed from outside the helicopter, at the same distance and angle as <<<Video1>>> . The camera never enters the cockpit, never cuts to an interior view, and never moves closer to the pilots than <<<Video1>>> does. Never show the instrument panel, switches, displays, or controls. The pilots are only ever seen through the canopy glass from outside, as part of the full helicopter in frame. The whole helicopter is always visible in the frame.
+REFERENCES
+<<<Image1>>> is the first frame. Match its city, buildings, rooftop helipad, helicopter position, camera distance, and lighting exactly in the opening shot.
+<<<Image2>>> is the helicopter reference sheet. Use it for the helicopter's exact design, panel details, decals, wear, vents, and proportions in every shot. Keep the design consistent. Do not redesign it.
+<<<Image3>>> is the pilot reference sheet. Use it for both pilots' helmets, visors, flight suits, gloves, and gear.
+<<<Video1>>> is the motion and camera reference. Follow its camera moves, timing, shot cuts, and the helicopter's movement exactly. Ignore its flat color-coded parts, plain sky, and placeholder boxes. Those are only guides. Replace them with the realistic materials from <<<Image2>>> and a real burning city. The two landing gear bay doors on the belly are two separate doors. They match the rest of the helicopter's hull exactly, in the same paint and wear as <<<Image2>>> . They never merge, touch, or fuse together.
+CREW (every shot where the cockpit is visible)
+There are always exactly TWO pilots in the cockpit, seated side by side, one in the left seat and one in the right seat. Both are helmeted, with visors down, and both match <<<Image3>>> . Both are visible through the canopy glass whenever the cockpit can be seen. Never show one pilot, an empty seat, or three pilots.
+MAIN ROTOR (the large top propeller) - timed
+0.0-3.0 s: The main rotor on top of the helicopter is completely motionless. The four blades hang perfectly still, drooping slightly, with no blur and no movement at all. This is critical. The top rotor must NOT be spinning at the start of the video.
+3.0 s: The main rotor begins to turn, very slowly at first.
+3.0-8.0 s: It steadily speeds up. By about 5 s the blades are clearly turning. By 8 s it is at full speed.
+From 8 s to the end: the four main rotor blades sweep around the mast as a soft motion-blurred disc. The blades are real blades that spin around the hub. They are never a frame, a ring, or a shape sitting behind the helicopter. Do not make them vibrate or flicker in place.
+SIDE FANS (spin) - timed
+0.0-1.5 s: Both side fans are completely motionless.
+1.5 s: Both side fans begin to turn, very slowly at first, and steadily speed up. They reach full speed by about 6.5 s.
+From 6.5 s to the end of the video: both side fans spin continuously at full speed and never stop. They are always in motion in every shot. At this speed each fan is a soft, blurry, translucent spinning disc, with the individual blades smeared into a motion blur. The hub stays visible at the center. A fan must never look sharp, still, or frozen after it has started. Even when the fans are tilting, they keep spinning and stay blurred.
+SIDE FAN TILT (timed)
+The two side fans are mounted on the helicopter's sides and rotate on a pivot as the helicopter flies. Both fans always rotate together and match each other.
+0-4 s: Both fans face forward. Their discs stand upright, like airplane propellers.
+4-7 s: Both fans rotate 90 degrees, from facing forward to facing straight up. Their discs become flat and horizontal, like lift fans.
+7-12.5 s: The fans stay facing straight up for liftoff.
+12.5-18 s (during shot 4): Both fans rotate from facing up to a settled angle of about 45 degrees, tilted up and forward, for forward momentum.
+18 s to the end: The fans hold that 45-degree angle through shots 5 and 6. They do not return to facing up or facing forward.
+SHOT 1 (0-4 s): Establishing
+Start exactly on <<<Image1>>> . The helicopter sits on the rooftop helipad, far from the camera, over a burning city. The side fans face forward. The main rotor on top is completely still for the first 3 seconds, with no spinning and no blur. The side fans are still for the first 1.5 seconds, then begin to turn slowly. At 3 s the main rotor begins to turn slowly. The camera drifts slowly forward with subtle handheld movement. Smoke and fire move constantly across the city.
+SHOT 2 (4-8 s): Startup, front view
+A low front view of the helicopter on the helipad. The main rotor, which started turning at 3 s, keeps speeding up toward full speed. The side fans keep speeding up as well and become blurred. The side fans visibly rotate from facing forward to facing straight up. Dust and debris blow across the roof. Through the clear canopy glass, with no color cast or tint, both helmeted pilots, one in each seat, are plainly visible from the front, and they move constantly throughout the shot. The near pilot reaches up and flips overhead switches, then lowers his hand to the center console and presses buttons in sequence, glancing down at the displays and back up. The far pilot checks the panel in front of him, taps a screen, then raises one hand and gives a short thumbs-up to the near pilot. The near pilot turns his helmet toward him and nods. Both pilots' helmets and shoulders keep turning and shifting as they work, and their gloved hands are always doing something. Cockpit display lights glow and flicker on their faces and gloves. The camera orbits slowly around the nose.
+SHOT 3 (8-12 s): Liftoff from behind
+The camera is behind the helicopter. The main rotor is at full speed. The side fans face straight up. It lifts off the helipad, rises, and the landing gear begins to tuck. The rotor wash whips smoke and dust. The camera rises with it. The side fans are spinning fast and blurred.
+SHOT 4 (12-21 s): Gear up and flyover, one continuous shot
+The camera starts low in front of and below the helicopter as it climbs. The side fans face straight up. The landing gear retracts into the body. The two landing gear bay doors on the belly swing open as two separate doors, one on each side, matching the rest of the hull. They stay apart, never touch, and swing closed again after the gear is up. As the helicopter climbs and flies directly over the camera, both side fans visibly rotate from facing straight up to a settled angle of about 45 degrees, tilted up and forward, and keep that angle for the rest of the shot. Then the camera whips around and tracks the helicopter as it continues across the burning city. The helicopter keeps flying away, getting smaller and farther from the camera until the cut at 21 s. The sky is clear of birds and flying objects. Only smoke, and slowly drifting ash and embers, are in the air. Follow <<<Video1>>> exactly. The side fans are spinning fast and blurred.
+SHOT 5 (21-26 s): Front three-quarter, exterior
+A wide exterior front three-quarter view of the helicopter in flight over the burning city. The side fans are at their 45-degree angle. The camera stays outside and flies alongside at the same distance as <<<Video1>>> for the whole shot. The entire helicopter, with its rotor disc, angled fans, and landing gear area, stays in frame, with the city below. The camera never pushes in to the cockpit and never cuts to an interior view. The canopy glass is perfectly clear and untinted, with no color cast, so both pilots are plainly visible through it. Through the canopy, both helmeted pilots, one in each seat, are visible from outside. They stay seated and are alert, scanning the devastation below. They slowly turn their helmets to look out the side windows, sweep their gaze across the burning city, and glance forward and then out the window again. Their movements are smooth and steady, with their bodies staying seated. Visors stay down. The side fans are spinning fast and blurred.
+SHOT 6 (26-30 s): Flyaway
+The helicopter flies away from the camera over the burning city and shrinks into the distance among the smoke. The side fans stay at their 45-degree angle. The side fans are spinning fast and blurred.
+FIRE AND SMOKE (every shot)
+The city has been under attack. Many buildings are on fire. Flames flicker, flare, and shift constantly. Thick black and gray smoke columns rise, billow, twist, and drift with the wind. Embers and ash float through the air. The fire and smoke never stay still and evolve continuously in every shot. Orange firelight reflects on the helicopter's metal body only. The canopy glass stays clear and colorless, with no orange tint.
+CAMERA
+Subtle handheld shake throughout. Cinematic lens, natural depth of field, slight film grain. Cuts happen exactly at 4, 8, 12, 21, and 26 seconds, matching <<<Video1>>> .
+CONTINUITY
+Same helicopter, same two pilots, same city, same lighting, and same time of day in every shot. The helicopter's design never changes. The helicopter faces the same direction as in <<<Video1>>> . The two fans always match each other.
+DO NOT
+Do not have the main rotor on top spinning, blurred, or moving during the first 3 seconds. It is completely still until 3 s.
+Do not let the side fans stop, slow down, or freeze after 1.5 s. Once they start, they spin continuously until the end.
+Do not show the side fan blades sharp or perfectly still after 6.5 s. They must always be blurred by their motion.
+Do not show only one pilot, an empty seat, or more than two pilots. There are always exactly two pilots, one in each seat.
+Do not show any interior or cockpit camera shot, in any shot, especially shot 5.
+Do not move the camera closer to the cockpit than <<<Video1>>> does.
+Do not show the instrument panel, switches, displays, or controls up close.
+Do not cut away from the full helicopter in shot 5.
+Do not add birds, flocks, flying animals, or flying debris in any shot. Nothing in the sky except smoke, ash, and embers, and nothing may pop in or disappear mid-shot.
+Do not have the side fans turning during the first 1.5 seconds.
+Do not leave the side fans facing forward or straight up after shot 4. They must settle at the 45-degree angle.
+Do not merge, fuse, or melt the two landing gear bay doors together. They are two separate doors.
+Do not paint the landing gear bay doors differently from the rest of the hull.
+Do not redesign the helicopter or change its markings.
+Do not use the flat colors, plain sky, or boxes from <<<Video1>>> .
+Do not make the rotor blades vibrate in place, turn into a ring or frame, or freeze.
+Do not make the canopy dark or opaque. Do not hide the pilots.
+Do not tint the canopy glass orange or any other color. Do not let fire reflections color the glass.
+Do not let the fire or smoke stay still or loop.
+Do not add text, logos, or watermarks.
+```
+
+### How to adapt it
+
+Build your own camera and motion reference first, then pair it with an opening frame and vehicle and pilot sheets. Check rotor timing before finishing color and sound in an editor.
+
+**Shared by:** [Aharon Rabinowitz](<https://x.com/ABAOProductions>)
+
+[Original post on X](<https://x.com/ABAOProductions/status/2113284807056556198>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#c4d-helicopter-previs-burning-city>)
+
+<a id="joker-john-wick-anime-alley-fight"></a>
+
+## Joker and John Wick Trade Gags in a Rainy Anime Alley
+
+[![A cel-shaded crossover fight layers cards, cake, confetti, and a rubber mallet into a rainy neon alley with changing camera angles.](<https://pbs.twimg.com/media/HVLFd3jWEAA24So.jpg>)](<https://x.com/TechieBySA/status/2112968348296507464>)
+
+A cel-shaded crossover fight layers cards, cake, confetti, and a rubber mallet into a rainy neon alley with changing camera angles.
+
+**Model:** Seedance 2.5
+
+### Author reply: timed anime crossover fight · `en`
+
+```text
+“20-sec cinematic anime. Dark rainy alleyway at night — wet pavement, neon reflections, dumpsters, fire escapes, deep shadows, narrow brick walls.
+CHAR ONE — TALL LEAN MALE LONG DARK BLACK HAIR SHORT DARK BEARD BLACK SUIT OPEN WHITE SHIRT NO TIE BLACK DRESS SHOES. Use uploaded character sheet. Cold, expressionless, precise throughout. CHAR TWO — TALL LEAN MALE WHITE FACE PAINT DARK RED SMEARED SMILE WILD GREEN HAIR DARK PURPLE LONG COAT PURPLE TROUSERS BROWN SHIRT GREEN TIE PURPLE GLOVES BLACK SHOES. Use uploaded character sheet. Cackling, chaotic, never still.
+0:00–0:03 Cards — Joker figure flings entire deck. Wick figure catches one mid-air, flicks it back, nicks Joker figure's ear. Joker figure grins wider. 0:03–0:07 Hand to hand — Wick figure charges, throws Joker figure into dumpster, slams him against wall. Joker figure bounces off laughing. 0:07–0:11 Cake — Joker figure clicks remote, massive purple cake drops from fire escape onto Wick figure. Wick figure bursts out covered in frosting, gun raised. Joker figure aims BANG flag gun. Both fire — flag pops out, Wick figure's bullet sparks off wall as Joker figure ducks, cackles. 0:11–0:15 Confetti — Joker figure fires confetti cannon point blank into Wick figure's face. Wick figure staggers, recovers, throws Joker figure across alley. Joker figure hits pavement, rolls, springs back up grinning. 0:15–0:19 Pencil vs mallet — Wick figure produces pencil, charges. Joker figure swings enormous rubber mallet, misses, spins from momentum, mallet accidentally knocks pencil from Wick figure's hand. Wick figure slides across wet pavement, slumps against wall. 0:19–0:20 Joker figure stands over Wick figure, slow dramatic bow, tips hat, walks away cackling into rain.
+Cel-shaded 3D anime, Unreal Engine quality, dark rainy alleyway throughout. Bold flat colors, hard shadows, thick outlines, film grain. Camera switches every beat, never static, never same angle twice — low angles, dutch angles, wides, close-ups, tracking shots. Char one always uploaded sheet, long dark hair, short beard, black suit, open white shirt, expressionless throughout. Char two always uploaded sheet, white face paint, wild green hair, purple coat, purple gloves, cackling every frame. Beat order maintained.”
+```
+
+### How to adapt it
+
+Use original character sheets and assign each action its own timed beat. Keep the setting fixed while varying camera distance and angle, then review action order and character continuity.
+
+**Shared by:** [TechieSA](<https://x.com/TechieBySA>)
+
+[Original post on X](<https://x.com/TechieBySA/status/2112968348296507464>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#joker-john-wick-anime-alley-fight>)
+
+<a id="school-phone-recovery-stealth-game-scene"></a>
+
+## A School Phone Recovery Becomes a Stealth Game Scene
+
+[![A school phone-recovery mission uses an over-the-shoulder camera, patrol cues, and a game-style HUD in a realistic video scene.](<https://pbs.twimg.com/amplify_video_thumb/2112921931586375680/img/OhcbrremF6P4i9y3.jpg>)](<https://x.com/Abmankendrick/status/2112922411578413382>)
+
+A school phone-recovery mission uses an over-the-shoulder camera, patrol cues, and a game-style HUD in a realistic video scene.
+
+**Model:** Seedance 2.5
+
+### Author reply: school stealth mission · `en`
+
+```text
+A 30-second realistic AAA third-person stealth-action game sequence set in an English secondary school on a bright weekday afternoon. The player character, EMMA, is a 17-year-old English schoolgirl whose phone was confiscated this morning. She must recover it from the faculty office before the school day ends. She must observe the patrol route of a corridor teacher, use the school bell to mask her entry, search the correct desk drawers without making noise, and escape before the supervising teacher returns. If a teacher discovers her inside the office or catches her searching the desk, the mission fails.
+
+The sequence feels like a playable mission from a photorealistic modern GTA-style stealth game, with cinematic live-action realism, tense gameplay, responsive character movement, humorous improvisation, and a polished real-time game HUD.
+
+ACTIVE REFERENCES
+I
+@Image1 = EMMA.
+I
+@Image1 defines EMMA’s face, hairstyle, body proportions, and school uniform: a 17-year-old English woman with fair skin, long straight dark-brown hair with blunt fringe bangs, a white collared school shirt, navy blazer with a small school crest, burgundy-and-navy striped tie, grey-and-burgundy tartan pleated skirt, black knee-high socks, and polished black school shoes.
+
+Voice: natural young English female voice with a contemporary British accent, light and slightly breathless, speaking in a hushed whisper when sneaking and a bright, innocent tone when questioned.
+
+100% consistent with the reference image for facial identity, hair, and clothing. Use only her appearance and ignore any background in the reference image. Her identity, uniform, hairstyle, and proportions remain consistent throughout the entire video.
+
+CAST SEPARATION
+
+Four distinct adult staff members appear, each with a different silhouette, age, hairstyle, and clothing so they read as four unmistakably separate people.
+
+PATROL TEACHER: English man in his 50s, approximately 185 cm tall, tall and thin, short silver hair, neat grey moustache, brown tweed jacket, green tie, school lanyard, carrying a clipboard. He walks a fixed back-and-forth patrol along the corridor outside the faculty office. He appears only in the corridor and is the off-camera voice in the final shot.
+SUPERVISING TEACHER: English woman in her 40s, approximately 168 cm tall, medium build, auburn chin-length bob, red-framed glasses on a thin chain, teal blazer over a cream blouse, dark skirt, holding a white ceramic mug. She appears only inside the faculty office.
+CARETAKER: English man in his 60s, approximately 175 cm tall, broad and stocky, grey beard, navy flat cap, navy boiler suit, pushing a yellow mop bucket. He appears only briefly in the corridor during the bell sequence.
+DESK OWNER: MR. WHITLOCK, the teacher who confiscated the phone, never appears on screen. He is represented only by a wooden nameplate reading “MR. WHITLOCK” on his desk, a coat on the back of his chair, and a half-finished crossword.
+
+The SUPERVISING TEACHER has auburn hair and glasses and is never confused with the CARETAKER’s cap and beard or the PATROL TEACHER’s silver hair and moustache. No bald character appears anywhere in this video.
+
+LOCATION MAP
+
+One continuous physical route followed by the camera:
+
+Corridor fire-extinguisher alcove (observation point) → corridor wall outside faculty office → faculty office front door → stationery cupboard beside the door → row of filing cabinets → Mr. Whitlock’s desk by the window → back along the filing cabinets → faculty office front door → corridor.
+
+The school has traditional English secondary-school architecture: cream-painted corridors, polished linoleum floors, wooden doors with glass panels, steel lockers, school noticeboards, framed student artwork, and a red fire-extinguisher alcove.
+
+Foreground: reflective corridor flooring, the moving character, and furniture edges.
+
+Background: tall windows along camera-right overlooking school playing fields. Warm afternoon sunlight creates long geometric shadows across the corridor, with tiny dust particles suspended in the sunbeams.
+
+Light enters from camera-right along the entire route until the final reverse shot, where the same window wall appears on camera-left.
+
+FACULTY OFFICE GEOMETRY
+
+The faculty office is a traditional English school staff workroom.
+
+The FRONT DOOR from the corridor is on the left end of the room as EMMA enters. A tall stationery cupboard with a half-open door stands directly beside it.
+
+A row of grey metal filing cabinets runs along the wall on EMMA’s left. Four desks sit in two pairs in the middle of the room. MR. WHITLOCK’s desk is at the far end beside the window wall, which runs along EMMA’s right.
+
+A side door at the far end of the room leads to a small staff kitchenette. The SUPERVISING TEACHER disappears through it to make tea and returns through it. The kettle is audible from the kitchenette.
+
+MR. WHITLOCK’s desk has three drawers on the left. The top drawer is full of whistles and stationery, and it rattles. The middle drawer holds exam papers and a yo-yo. The bottom drawer holds a clear confiscation tray with EMMA’s phone, which has a pale-pink case and a small star sticker.
+
+In the final reverse shot, the camera is at the far end of the corridor looking back toward EMMA. The faculty office door and its glass panel are visible behind her.
+
+FIRST FRAME / BLOCKING
+
+The first frame is already in motion.
+
+EMMA sprints into frame from the lower-left toward camera-right, clutching her school bag against her chest. She abruptly drops into a crouch-slide into the red fire-extinguisher alcove across the corridor from the faculty office door.
+
+The camera is positioned behind her right shoulder, moving with her like a third-person gameplay camera.
+
+Her blazer flutters, her hair swings forward, and her shoes skid slightly on the linoleum before she stops.
+
+The GTA-style HUD is fully visible from frame one.
+
+FORMAT MODE
+
+One continuous unbroken take from 0.0s to 27.0s, with no cuts, transitions, hidden edits, or camera jumps.
+
+At exactly 27.0s, one single HARD CUT occurs to a final locked reverse shot that runs until 30.0s.
+
+Exactly ONE cut exists in the entire video, at precisely 27.0s.
+
+Everything before 27.0s is one continuous physical camera movement following EMMA. Every transition between locations occurs naturally through doors and corridors.
+
+OPTICS
+
+For the continuous section, use a 47° field of view as the baseline third-person over-the-shoulder perspective.
+
+The FOV smoothly breathes inward to 29° during reaction beats and the moment she finds her phone, and outward to 63° during the near-discovery in the office.
+
+Every FOV adjustment happens through smooth, continuous optical zoom breathing. Never use abrupt FOV changes, digital zoom jumps, or simulated cuts.
+
+The final shot after the hard cut uses a fixed 29° frontal perspective on EMMA. The lens, framing, and camera position remain completely static for the final three seconds.
+
+CAMERA
+
+During the continuous section, the camera behaves like a physical camera following a playable character in a high-budget third-person stealth game.
+
+It stays approximately 1.5 metres behind EMMA at chest height, slightly to camera-right of her spine. It reacts with a soft spring delay, trailing her turns by approximately half a beat.
+
+Dips to knee height when she crouches in the alcove.
+Rises naturally as she stands and moves along the corridor wall.
+Slides sideways along the corridor wall at her walking speed.
+Drops low to follow her through the door.
+Creeps low behind the filing cabinets.
+Settles tight behind her shoulder at the desk drawers.
+Pulls back and swings wide during the near-discovery to reveal the whole room.
+Follows her out and settles behind her shoulder in the corridor.
+
+At 27.0s, HARD CUT.
+
+The camera is now physically positioned at the far end of the corridor, looking straight back toward EMMA and the faculty office door.
+
+This final camera is locked off at eye level, completely static, with no pan, tilt, zoom, shake, or drift.
+
+ACTION
+[Beat 1 — 0.0s to 6.0s] OBSERVE THE PATROL
+
+EMMA crouch-slides into the fire-extinguisher alcove and presses her back flat against the wall, breathing rapidly.
+
+She leans out approximately 20 cm to watch the PATROL TEACHER walk away along the corridor with his clipboard. He reaches the far end, turns, and starts walking back.
+
+She counts his steps with small finger taps against her bag strap.
+
+The minimap draws his patrol route as a dashed yellow line with a looping timer.
+
+In a quiet British whisper, she says:
+
+“Eight seconds each way. Easy.”
+
+HUD flashes:
+
+【OBSERVING PATROL ROUTE】
+
+【PATROL CYCLE: 8 SEC】
+
+The mission banner appears at the top of the screen:
+
+【OBJECTIVE: RECOVER YOUR PHONE】
+
+A smaller line beneath it reads:
+
+【FAIL: SPOTTED INSIDE THE OFFICE】
+
+EMMA waits until the PATROL TEACHER turns his back, then slips across the corridor toward the faculty office door.
+
+[Beat 2 — 6.0s to 12.0s] THE BELL
+
+EMMA presses her back against the corridor wall beside the office door, shuffling sideways with exaggerated heel-to-toe steps.
+
+Through the glass panel, the SUPERVISING TEACHER is seen at her desk with her mug. EMMA freezes and holds her breath, gripping her bag strap, moving only her eyes.
+
+The CARETAKER pushes his mop bucket along the far end of the corridor. EMMA flattens herself against the wall until he passes.
+
+She whispers:
+
+“Please don’t look over here.”
+
+The SUPERVISING TEACHER stands, walks to the far end of the office, and slips through the kitchenette side door.
+
+The minimap’s yellow vision cone sweeps across EMMA’s position, briefly turning amber before moving away.
+
+A countdown appears on the HUD:
+
+【BELL IN 3… 2… 1…】
+
+The school bell rings loudly down the corridor. The HUD displays:
+
+【BELL MASK ACTIVE】
+
+EMMA eases the office door open with one gloved-smooth push of her hand and slips inside. The camera follows through the same gap without stopping, and the door clicks shut as the bell fades.
+
+[Beat 3 — 12.0s to 18.0s] THE SEARCH
+
+Inside, EMMA stays low and moves behind the filing cabinets, crouched, with the camera tracking at her pace. The kettle bubbles in the kitchenette.
+
+She reaches MR. WHITLOCK’s desk, notes the nameplate, and mouths “Whitlock” silently.
+
+HUD displays:
+
+【SEARCHING: DRAWER 1】
+
+She tugs the top drawer open. It rattles with whistles. She freezes. A noise ring pulses red on the minimap.
+
+The kettle clicks off. The camera breathes inward to 29°.
+
+She whispers:
+
+“Wrong one. Wrong one.”
+
+She eases the drawer shut by a millimetre at a time. The noise ring fades.
+
+HUD displays:
+
+【SEARCHING: DRAWER 2】
+
+She opens the middle drawer and finds exam papers and a yo-yo. She shakes her head silently.
+
+HUD displays:
+
+【SEARCHING: DRAWER 3】
+
+She slides the bottom drawer open with her fingertips. Inside the confiscation tray lies a pale-pink phone case with a small star sticker. Her face lights up with silent relief.
+
+HUD displays:
+
+【TARGET FOUND: PHONE】
+
+She slips the phone into her blazer pocket.
+
+[Beat 4 — 18.0s to 24.0s] THE RETURN
+
+The kitchenette door handle turns. The camera pulls wide to 63°, revealing the whole room.
+
+The SUPERVISING TEACHER steps back in, stirring her tea, glancing at her desk.
+
+EMMA drops flat behind a filing cabinet and holds her breath. Only her black shoes and knee-high socks are visible at the edge of the cabinet.
+
+The red alert bar creeps from green to amber.
+
+HUD displays:
+
+【TEACHER RETURNING】
+
+The SUPERVISING TEACHER walks toward MR. WHITLOCK’s desk to leave a note. She sets her mug down and pauses with her back half-turned. Her eyes drift toward the open bottom drawer.
+
+At the same moment, the school’s wall phone rings loudly. The SUPERVISING TEACHER turns away to pick it up and, standing by the wall, begins chatting.
+
+EMMA whispers, barely audible:
+
+“Thank you, whoever that is.”
+
+She inches along the filing cabinets on hands and knees toward the door, with the stationery cupboard door half-open between her and the teacher. The camera crawls with her at floor level.
+
+The alert bar drains from amber to green.
+
+HUD displays:
+
+【OUT OF SIGHT】
+
+[Beat 5 — 24.0s to 27.0s] THE ESCAPE
+
+EMMA reaches the front door, eases the handle down with her thumb, and slips through the gap. The camera follows her through the same opening.
+
+She closes the door with a soft click, stands, straightens her blazer, and presses the phone flat against her chest.
+
+The PATROL TEACHER is at the far end of the corridor with his back turned, clipboard in hand.
+
+HUD displays:
+
+【PHONE RECOVERED】
+
+EMMA begins walking calmly down the corridor, the camera settling behind her shoulder.
+
+Her breathing is still fast, but she forces a calm expression.
+
+At exactly 27.0s, the camera cuts once.
+
+27.0s HARD CUT
+[Beat 6 — 27.0s to 30.0s] CAUGHT… ALMOST
+
+One final locked, static reverse shot from the far end of the corridor, looking directly back toward EMMA, who stands beside the faculty office door with its glass panel behind her.
+
+EMMA stands upright with one hand tucked behind her back, hiding the phone. Her shoulders are squared, and her chest is still rising slightly from the sneaking.
+
+The PATROL TEACHER remains off camera behind the lens.
+
+In a calm British male voice, he calls:
+
+“Emma, shouldn’t you be in lesson?”
+
+EMMA immediately lifts her chin, looks straight down the camera lens, and answers brightly with an innocent smile:
+
+“Just on my way, sir!”
+
+Her expression shifts from nervous tension to a tiny, triumphant smile pulling at one corner of her mouth.
+
+The HUD displays:
+
+【MISSION COMPLETE】
+
+【STEALTH RANK: S】
+
+【ADRENALINE +150】
+
+The music resolves into a short, bright victory fanfare.
+
+The final frame holds on EMMA’s direct gaze and subtle smile. The camera remains completely motionless until the video ends at 30.0s.
+
+PERFORMANCE
+
+Photographic human realism indistinguishable from high-end live-action footage.
+
+EMMA has visible natural skin pores, fine vellus hair catching the sunlight, realistic subsurface scattering around her ears and fingertips, a natural flush across her cheeks, individual flyaway strands lifting away from her hair, and wet, expressive eyes with authentic window reflections.
+
+Her skin remains clean and dry, with natural texture and no artificial beauty filter.
+
+Her breathing is visible at her collarbone. Her eyes dart a fraction of a second before her head turns. Tension is communicated through body language: raised shoulders, tightly clenched fingers, a tense jaw, and an involuntary shoulder drop after each successful escape.
+
+Her expressions feel spontaneous and human rather than exaggerated animation.
+
+All adult staff members have equally realistic skin texture, individual hair follicles, natural facial asymmetry, believable body proportions, and distinct movement patterns.
+
+EMMA’s British accent sounds natural and contemporary, never theatrical or caricatured.
+
+PHYSICS
+
+EMMA’s tartan skirt pleats swing and settle with believable inertia whenever she stops, turns, crouches, or stands.
+
+Her long dark-brown hair lags behind fast turns and occasionally sweeps across her cheek.
+
+Her blazer moves naturally with her shoulders and arms. Her tie shifts as she crouches and settles against her shirt when she stands.
+
+The desk drawers have real mass and slide on metal runners, with a faint rattle in the top drawer. The phone has the believable weight of a real device. The mug, kettle, and mop bucket obey real physics.
+
+Contact shadows remain grounded beneath every foot, knee, chair leg, drawer, and object touching a surface.
+
+No floating props, sliding feet, intersecting bodies, rubbery limbs, or impossible movement.
+
+LIGHTING
+
+Maintain one consistent lighting logic throughout the entire sequence.
+
+Warm afternoon sunlight at approximately 4800K enters through the school windows on camera-right, producing long rectangular window-frame shadows across the floor.
+
+As EMMA moves along the route, she passes naturally between illuminated patches and shadowed sections of the corridor and office.
+
+Soft bounce light from the pale walls and polished floor keeps her face readable without flattening the scene.
+
+Fine dust particles remain visible in the sunbeams.
+
+Inside the faculty office, the same window wall illuminates the scene from the side.
+
+After the 27.0s cut, the window wall appears on camera-left from the new camera position, raking soft afternoon light across EMMA’s cheek and hair. The exposure, skin tones, colour temperature, and contrast match the continuous section.
+
+Exposure changes smoothly as the camera moves between bright and shaded spaces.
+
+No artificial lighting jumps, inconsistent sun direction, or unexplained changes in colour grading.
+
+HUD
+
+A GTA-style real-time stealth-game HUD remains composited at fixed screen positions for the entire 30-second video.
+
+All visible text is written in English.
+
+Circular minimap in the bottom-left corner, showing EMMA’s player arrow, the PATROL TEACHER’s dashed route with a looping timer, and yellow vision cones representing staff members.
+Health and stamina bars in the top-left corner.
+Alert-state bar transitioning between green, amber, and red.
+Noise ring on the minimap pulsing red when EMMA makes sound.
+Controller button prompts in the bottom-right corner.
+English mission objective text at the top-centre with a smaller failure-condition line beneath it.
+Bell-mask countdown and active-state indicator.
+Notification cards sliding in from screen-right.
+Mission-completion and stealth-rank notifications during the final shot.
+
+The HUD maintains consistent scale, typography, placement, and graphic style throughout the sequence, including across the single cut at 27.0s.
+
+HUD elements are clean, sharp, flat graphic overlays that contrast with the fully photographic footage.
+
+No subtitles, caption bars, watermarks, fake camera UI, or additional text outside the specified game HUD.
+
+AUDIO
+
+A tense minimalist stealth synth loop plays throughout the sequence, supported by a subtle pulsing heartbeat that intensifies during moments of danger.
+
+Natural sound effects include:
+
+Fast school shoes striking linoleum.
+Fabric rustling as EMMA crouches and moves.
+The PATROL TEACHER’s steady, measured footsteps.
+Mop bucket wheels rolling in the distance.
+A loud, clear school bell that masks the door opening.
+A soft door latch click.
+A rattling top drawer, then quiet metal runners.
+A kettle bubbling and clicking off in the kitchenette.
+A wall phone ringing in the office.
+A distant whistle from the school playing fields.
+EMMA’s fast breathing and whispered dialogue.
+A restrained, bright victory fanfare at mission completion.
+
+The music and environmental ambience continue naturally across the hard cut at 27.0s, with no audio reset or unnatural silence.
+
+All dialogue is spoken in English with natural British accents.
+
+Dialogue remains synchronised with the characters’ mouths whenever the characters are visible and speaking.
+
+The final exchange is clear and audible above the music.
+
+STYLE
+
+Photorealistic live-action realism with the visual polish of a modern AAA third-person stealth-action game.
+
+Real human performers, physically accurate anatomy, natural skin tones, authentic English school architecture, realistic fabric simulation, believable object weight, true-to-life materials, real optical depth of field, natural floor reflections, and subtle handheld gameplay motion blur.
+
+The presentation combines the cinematic realism of live-action footage with the readable character blocking, responsive camera behaviour, HUD design, and stealth mechanics of a premium GTA-style game.
+
+The humour comes from EMMA’s whispered commentary, her narrow escapes, and the contrast between the serious stealth-game presentation and the low stakes of recovering a phone.
+
+Avoid cartoon rendering, anime aesthetics, glossy CGI skin, plastic faces, exaggerated expressions, fantasy lighting, artificial purple gradients, and obvious AI-generated visual artefacts.
+
+Fine film grain at approximately 5%, sharp but natural details, realistic motion blur, physically correct shadows, and consistent colour science.
+
+OUTPUT SETTINGS
+Aspect ratio: 16:9 widescreen.
+Duration: exactly 30 seconds.
+Real-time speed throughout; no slow motion or speed ramps.
+One continuous 27-second take followed by one 3-second locked reverse shot.
+Exactly one hard cut at 27.0s.
+Photorealistic AAA third-person gameplay aesthetic.
+Natural British English dialogue.
+GTA-style English HUD.
+Consistent character identity, wardrobe, spatial geography, lighting, and physical continuity.
+POSITIVE LOCKS
+
+Exactly one cut in the entire video, at 27.0s. Everything before it is a single unbroken take with the camera physically following EMMA.
+
+EMMA remains the same English 17-year-old woman throughout the entire sequence, with the same face, fair skin, long dark-brown hair with blunt fringe bangs, navy school blazer, white shirt, striped tie, tartan pleated skirt, black knee-high socks, and polished black shoes.
+
+Her school bag stays with her throughout. The phone has a pale-pink case with a small star sticker and appears only after she opens the bottom drawer.
+
+The PATROL TEACHER has silver hair, a grey moustache, a tweed jacket, and a clipboard. The SUPERVISING TEACHER has an auburn bob, red-framed glasses, and a teal blazer. The CARETAKER has a grey beard, a navy cap, and a boiler suit. They must never be confused with one another. MR. WHITLOCK never appears on screen.
+
+The PATROL TEACHER appears only in the corridor and as the off-camera voice in the final shot. The SUPERVISING TEACHER appears only inside the faculty office. The CARETAKER appears only briefly in the corridor during the bell sequence.
+
+The destination is always an English faculty office, not a Japanese school. EMMA enters through the front door by the corridor, searches only MR. WHITLOCK’s desk, and leaves through the same door.
+
+In the final shot, the camera stands at the far end of the corridor. The faculty office door and its glass panel fill the space behind EMMA.
+
+All on-screen text is English. All spoken dialogue is English. HUD elements stay in the same screen corners throughout. Only one EMMA appears on screen at any time.
+
+Sunlight direction remains physically consistent across the route and the final shot. No teleporting, duplicated characters, unexplained wardrobe changes, extra cuts, camera resets before 27.0s, or inconsistent room geography.
+
+The last three seconds hold a completely static, frontal, eye-level shot of EMMA facing the camera with a tiny, triumphant smile after successfully recovering her phone undetected.
+```
+
+### How to adapt it
+
+For your own gameplay-style video, define a simple route, distinct cast, mission objective, and HUD positions. Use your own character reference and check spatial continuity through every beat.
+
+**Shared by:** [Abraham John 🦄🦓](<https://x.com/Abmankendrick>)
+
+[Original post on X](<https://x.com/Abmankendrick/status/2112922411578413382>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#school-phone-recovery-stealth-game-scene>)
+
+<a id="minidv-puddle-crossing-comedy"></a>
+
+## A Tiny Puddle Becomes a Handheld Neighborhood Comedy
+
+[![A woman turns crossing a sidewalk puddle into a small comedy, using handheld home-video framing and a five-shot published prompt.](<https://pbs.twimg.com/amplify_video_thumb/2111433363542396928/img/uixCtCzj-mxvNIHK.jpg>)](<https://x.com/iamahmedfaraz66/status/2111437068408897642>)
+
+A woman turns crossing a sidewalk puddle into a small comedy, using handheld home-video framing and a five-shot published prompt.
+
+**Model:** Seedance 2.5
+
+### Author post: five-shot puddle comedy · `en`
+
+```text
+Create a 15-second ultra-realistic 16:9 landscape video featuring the same naturally attractive 24-year-old Korean woman with long loose dark hair, minimal makeup, an oversized maroon hoodie, and loose casual pants. Maintain identical facial identity, hairstyle, outfit, and proportions throughout.
+
+Shot 1 (0–3s): Handheld medium-wide shot of a quiet, rain-soaked neighborhood sidewalk. She approaches a large puddle, slows down, and studies it thoughtfully.
+
+Shot 2 (3–6s): Side-angle shot. She steps back, examines her shoes and the narrow dry edge, visibly calculating how to cross without getting wet.
+
+Shot 3 (6–9s): Low-angle close shot of her shoes and the puddle. She cautiously tests the edge, withdraws her foot, and tries another angle. Realistic reflections and tiny raindrop ripples.
+
+Shot 4 (9–12s): The camera quickly reframes as she attempts an unnecessarily complicated jump. She lands safely, but her shoe clips the water, causing a small splash. She freezes and looks down.
+
+Shot 5 (12–15s): Slightly crooked medium shot. She lifts her damp shoe, inspects it, then looks at the camera with a helpless, mildly offended expression before giving a tiny embarrassed laugh and walking away.
+
+Visual style: Early-2000s Sony MiniDV home-video footage filmed by another person, with subtle handheld shake, imperfect framing, occasional autofocus hunting, exposure shifts, faded colors, soft contrast, realistic skin texture, and natural overcast daylight.
+
+Motion and audio: Smooth, continuous real-time movement, believable balance, and realistic water physics. No stuttering, judder, frame skipping, duplicated frames, slow motion, or cartoon movement. Natural neighborhood ambience, footsteps, distant traffic, faint breeze, the splash, and her quiet laugh. No music, narration, or artificial sound effects.
+```
+
+### How to adapt it
+
+Give an everyday obstacle a setup, hesitation, attempt, and reaction. Keep the environment and identity stable, and use handheld framing and natural sound to support the comic beat.
+
+**Shared by:** [Ahmad Faraz](<https://x.com/iamahmedfaraz66>)
+
+[Original post on X](<https://x.com/iamahmedfaraz66/status/2111437068408897642>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#minidv-puddle-crossing-comedy>)
+
+<a id="akool-flying-car-city-traffic"></a>
+
+## A Flying Car Escapes City Traffic in an AKOOL AI Demo
+
+[![AKOOL shares a Seedance 2.5 flying-car concept above city traffic, with a branded cover and an invitation to imagine the ride.](<https://pbs.twimg.com/media/HVRuN0XWUAASXn7.jpg>)](<https://x.com/AkoolInc/status/2113435313448141045>)
+
+AKOOL shares a Seedance 2.5 flying-car concept above city traffic, with a branded cover and an invitation to imagine the ride.
+
+**Model:** Seedance 2.5
+
+_Prompt not published by the creator._
+
+### How to adapt it
+
+Use your own vehicle and character references to plan a grounded street setup and an aerial reveal. Treat this as visual inspiration; the source does not publish its prompt.
+
+**Shared by:** [Akool Inc](<https://x.com/AkoolInc>)
+
+[Original post on X](<https://x.com/AkoolInc/status/2113435313448141045>) · [View in the Seeora gallery](<https://seeora.app/seedance-prompts#akool-flying-car-city-traffic>)
 
 ## Attribution and corrections
 
